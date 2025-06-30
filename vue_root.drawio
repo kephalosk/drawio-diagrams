@@ -1,0 +1,208 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="27.1.6">
+  <diagram name="Seite-1" id="urt6d-_UrzTAgpOboRX4">
+    <mxGraphModel dx="1257" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NbvnXGGrCnyflAWygQTV-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="MOXapfv7q8mT6xsVfmVf-1" target="5a6RApCXHlOAGLmwuz5r-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="MOXapfv7q8mT6xsVfmVf-1" target="NbvnXGGrCnyflAWygQTV-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="MOXapfv7q8mT6xsVfmVf-1" target="NbvnXGGrCnyflAWygQTV-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="MOXapfv7q8mT6xsVfmVf-1" target="NbvnXGGrCnyflAWygQTV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="MOXapfv7q8mT6xsVfmVf-1" target="NbvnXGGrCnyflAWygQTV-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOXapfv7q8mT6xsVfmVf-1" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5a6RApCXHlOAGLmwuz5r-1" value="Core Concepts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-1" value="Architektur &amp;amp; State Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-2" value="Tooling &amp;amp; Ecosystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-3" value="UI, Performance &amp;amp; Accessibility" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-4" value="Senior-Level Skills" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-18" target="NbvnXGGrCnyflAWygQTV-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-18" target="NbvnXGGrCnyflAWygQTV-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-18" target="NbvnXGGrCnyflAWygQTV-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-18" target="NbvnXGGrCnyflAWygQTV-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-18" target="NbvnXGGrCnyflAWygQTV-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-18" value="Core Concepts" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-19" value="Reaktivität: reactive, ref, computed, watch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-20" value="Template Syntax: Direktiven (v-if, v-for, v-bind, v-model), Slot-Syntax, v-on" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-21" value="Komponenten: Props, Emits, Lifecycles (onMounted, onUpdated), Provide/Inject" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-22" value="Composition API &amp;amp; Options API: Beide Paradigmen verstehen und mischen können" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-23" value="Reactivity Caveats: Limits der Reaktivität, shallowReactive, toRefs, readonly" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-29" target="NbvnXGGrCnyflAWygQTV-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-29" target="NbvnXGGrCnyflAWygQTV-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-29" target="NbvnXGGrCnyflAWygQTV-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-29" target="NbvnXGGrCnyflAWygQTV-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-29" target="NbvnXGGrCnyflAWygQTV-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-29" value="Architektur &amp;amp; State Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-30" value="Komponentenstruktur: Atomic Design, Wiederverwendbarkeit, dynamische Komponenten" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-31" value="Routing: Vue Router, Nested Routes, Lazy Loading, Navigation Guards" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="520" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-32" value="Global State: Pinia (moderne Alternative zu Vuex), Store Patterns" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="600" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-33" value="Best Practices: Props Drilling vermeiden, lokale vs. globale States" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-34" value="SSR &amp;amp; SSG: Nuxt.js verstehen (Routing, asyncData, Middleware)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="760" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-40" target="NbvnXGGrCnyflAWygQTV-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-40" target="NbvnXGGrCnyflAWygQTV-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-40" target="NbvnXGGrCnyflAWygQTV-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-40" target="NbvnXGGrCnyflAWygQTV-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-40" target="NbvnXGGrCnyflAWygQTV-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-40" value="Tooling &amp;amp; Ecosystem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-41" value="Build Tools: Vite (Standard), Webpack (Legacy), Rollup" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="840" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-42" value="TypeScript Integration: Typisierung von Props, Emits &amp;amp; Stores" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="920" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-43" value="Testing: Unit Tests (Vitest, Jest), E2E Tests (Cypress, Playwright)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1000" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-44" value="Linting &amp;amp; Formatting: ESLint, Prettier, Stylelint für konsistenten Code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1080" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-45" value="Plugins &amp;amp; Ecosystem: Vue Devtools, VueUse, Vue Test Utils, Vuetify/Element Plus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-51" target="NbvnXGGrCnyflAWygQTV-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-51" target="NbvnXGGrCnyflAWygQTV-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-51" target="NbvnXGGrCnyflAWygQTV-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-51" target="NbvnXGGrCnyflAWygQTV-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-51" target="NbvnXGGrCnyflAWygQTV-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-51" value="UI, Performance &amp;amp; Accessibility" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-52" value="Reactivity Optimierung: Lazy Loading, Suspense, Code Splitting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-53" value="Performance Patterns: Virtual DOM verstehen, v-once, v-memo, key richtig verwenden" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-54" value="Animations: Vue Transitions, Drittanbieter (GSAP, Anime.js)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-55" value="Accessibility (a11y): Semantik, ARIA, Fokusmanagement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1480" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-56" value="Theming: CSS Variables, Scoped CSS, CSS Modules, Tailwind Integration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-62" target="NbvnXGGrCnyflAWygQTV-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-62" target="NbvnXGGrCnyflAWygQTV-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-62" target="NbvnXGGrCnyflAWygQTV-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-62" target="NbvnXGGrCnyflAWygQTV-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbvnXGGrCnyflAWygQTV-62" target="NbvnXGGrCnyflAWygQTV-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-62" value="Senior-Level Skills" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-63" value="Best Practices: Clean Code, Design Patterns (Renderless Components, Higher-Order Components)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1640" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-64" value="Testing-Driven Development: Test Coverage, Mocking, Snapshot Tests" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1720" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-65" value="Scalability: Monorepos, Micro Frontends, Modul-Architektur" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1800" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-66" value="CI/CD &amp;amp; Deployment: Automatisierung, Rollbacks, Preview Deployments" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1880" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbvnXGGrCnyflAWygQTV-67" value="Mentoring &amp;amp; Contribution: Open Source, Plugins schreiben, Community-Best Practices mitgestalten" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1960" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
