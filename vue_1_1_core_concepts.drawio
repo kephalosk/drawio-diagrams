@@ -1,0 +1,280 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15" version="27.1.6">
+  <diagram name="Seite-1" id="Uo5LKXqCxC_OasKQOCqy">
+    <mxGraphModel dx="1697" dy="2331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-6" target="kM6oIe2k22Z-2E9tLVxS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-6" target="kM6oIe2k22Z-2E9tLVxS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-6" target="kM6oIe2k22Z-2E9tLVxS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-6" target="kM6oIe2k22Z-2E9tLVxS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-6" target="kM6oIe2k22Z-2E9tLVxS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-6" value="Vue 1.1: Reaktivität: reactive, ref, computed, watch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-7" value="Vue 1.1.1:&amp;nbsp;Fundament: Reaktive Datenmodelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-8" value="2. Ableiten &amp;amp; Beobachten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-9" value="3. Best Practices &amp;amp; Caveats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-10" value="4. Fortgeschrittene Patterns" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-11" value="5. Performance &amp;amp; Debugging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-17" target="kM6oIe2k22Z-2E9tLVxS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-17" target="kM6oIe2k22Z-2E9tLVxS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-17" target="kM6oIe2k22Z-2E9tLVxS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-17" target="kM6oIe2k22Z-2E9tLVxS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-17" target="kM6oIe2k22Z-2E9tLVxS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-17" value="Vue 1.1.1: Fundament: Reaktive Datenmodelle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-18" target="kM6oIe2k22Z-2E9tLVxS-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-18" target="kM6oIe2k22Z-2E9tLVxS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-18" target="kM6oIe2k22Z-2E9tLVxS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-18" value="Vue 1.1.1.1:&amp;nbsp;ref vs. reactive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-19" target="kM6oIe2k22Z-2E9tLVxS-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-19" target="kM6oIe2k22Z-2E9tLVxS-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-19" target="kM6oIe2k22Z-2E9tLVxS-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-19" value="Vue 1.1.1.2:&amp;nbsp;Proxy-basiertes Reaktivitätssystem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-20" target="kM6oIe2k22Z-2E9tLVxS-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-20" target="kM6oIe2k22Z-2E9tLVxS-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-20" target="kM6oIe2k22Z-2E9tLVxS-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-20" target="kM6oIe2k22Z-2E9tLVxS-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-20" target="kM6oIe2k22Z-2E9tLVxS-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-20" value="Vue 1.1.1.3:&amp;nbsp;Shallow vs. Deep Reaktivität" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-21" target="kM6oIe2k22Z-2E9tLVxS-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-21" target="kM6oIe2k22Z-2E9tLVxS-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-21" target="kM6oIe2k22Z-2E9tLVxS-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-21" target="kM6oIe2k22Z-2E9tLVxS-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-101" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-21" target="kM6oIe2k22Z-2E9tLVxS-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-21" value="Vue 1.1.1.4:&amp;nbsp;Zusätzliche Reaktivitäts-Utilities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="760" y="760" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-22" value="Vue 1.1.1.5:&amp;nbsp;Reactivity Transform (Experimental)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="920" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-23" target="kM6oIe2k22Z-2E9tLVxS-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-23" value="ref() für primitive Werte, dass ein Object vom Typ { value: ... } erzeugt, also Zugriff nur über .value möglich" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-24" value="&lt;div&gt;import { ref } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const count = ref(0);&lt;/div&gt;&lt;div&gt;console.log(count.value);&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-360" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-27" target="kM6oIe2k22Z-2E9tLVxS-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-27" value="reactive() für Objekte/Arrays, dass direkt das &amp;nbsp;ES6-Proxy-Objekt zurückgibt, daher Zugriff ohne .value möglich" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-28" value="&lt;div&gt;import { reactive } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const user &amp;nbsp;= reactive({ name: &#39;Alice&#39;, age: 30 });&lt;/div&gt;&lt;div&gt;console.log(user.name);&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-280" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-29" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-30" target="kM6oIe2k22Z-2E9tLVxS-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-30" value="reactive für primitive Werte geht nicht, da keine Reaktivität erzeugt wird. es wird nur der Wert selbst ohne Referenz zurückgegeben." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-210" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-31" value="&lt;div&gt;import { reactive } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;&lt;div&gt;let count = reactive(0);&lt;/div&gt;&lt;/div&gt;&lt;div&gt;count = 2;&lt;/div&gt;&lt;div&gt;console.log(count); //count ist 2, doch nicht reaktiv&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-210" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-44" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-45" target="kM6oIe2k22Z-2E9tLVxS-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-45" value="Greife nur über reaktive Referenzen auf den State zu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-46" value="&lt;div&gt;import { reactive } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const state = reactive({ todos: [] })&lt;/div&gt;&lt;div&gt;function addTodo(text) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; state.todos.push({ text, done: false })&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-55" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-47" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-48" target="kM6oIe2k22Z-2E9tLVxS-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-48" value="State kopieren und mutate → keine Reaktivität" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-49" value="&lt;div&gt;&lt;div&gt;let todos = state.todos&lt;/div&gt;&lt;div&gt;todos.push({ text: &#39;Test&#39;, done: false })&lt;/div&gt;&lt;div&gt;// UI aktualisiert sich nicht, weil &#39;todos&#39; kein Proxy ist&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-51" value="Ein Proxy ist ein Wrapper um ein Ziel-Objekt, bei dem man für Operationen wie Lesen (get), Schreiben (set), Auflisten von Eigenschaften (ownKeys) usw. eigene Handler-Funktionen registrieren kann." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-135" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-57" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-58" target="kM6oIe2k22Z-2E9tLVxS-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-58" value="Nutze reactive() (Deep) für normale Fälle, in den alle nested Properties reactive sein sollen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-59" value="&lt;div&gt;import { reactive } from &#39;vue&#39;&lt;/div&gt;&lt;div&gt;const settings = reactive({&lt;/div&gt;&lt;div&gt;&amp;nbsp; options: { darkMode: true, lang: &#39;de&#39; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; version: 1&lt;/div&gt;&lt;div&gt;})&lt;/div&gt;&lt;div&gt;settings.version = 2 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// tracked&lt;/div&gt;&lt;div&gt;settings.options.darkMode = false // tracked&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="90" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-60" value="&lt;div&gt;import { shallowReactive } from &#39;vue&#39;&lt;/div&gt;&lt;div&gt;const settings = shallowReactive({&lt;/div&gt;&lt;div&gt;&amp;nbsp; options: { darkMode: true, lang: &#39;de&#39; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; version: 1&lt;/div&gt;&lt;div&gt;})&lt;/div&gt;&lt;div&gt;settings.version = 2 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// tracked&lt;/div&gt;&lt;div&gt;settings.options.darkMode = false // nicht tracked&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="210" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-63" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-61" target="kM6oIe2k22Z-2E9tLVxS-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-61" value="Nutze shallowReactive() für große, tief verschachtelte Objekte, bei denen nur Top-Level-Änderungen relevant sind." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-65" value="&lt;div&gt;import { shallowReactive } from &#39;vue&#39;&lt;/div&gt;&lt;div&gt;&lt;div&gt;const config = shallowReactive({ nested: { a: 1 } })&lt;/div&gt;&lt;div&gt;config.nested.a = 2&lt;/div&gt;&lt;div&gt;// UI reagiert nicht auf die Änderung&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="350" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-66" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-67" target="kM6oIe2k22Z-2E9tLVxS-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-67" value="tiefe Updates werden nicht getrackt bei shallowReactive()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-69" value="&lt;div&gt;import { shallowRef } from &#39;vue&#39;&lt;/div&gt;&lt;div&gt;&lt;div&gt;const items = shallowRef&amp;lt;Array&amp;lt;any&amp;gt;&amp;gt;([])&lt;/div&gt;&lt;div&gt;function load() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; items.value = fetchNewItems()&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="420" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-70" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-71" target="kM6oIe2k22Z-2E9tLVxS-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-71" value="Nutze shallowRef(), wenn nur Top-Level-Änderungen an .value relevant sind." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-72" value="&lt;div&gt;import { shallowRef } from &#39;vue&#39;&lt;/div&gt;&lt;div&gt;&lt;div&gt;const config = shallowRef({ nested: { a: 1 } })&lt;/div&gt;&lt;div&gt;config.value.nested.a = 2&lt;/div&gt;&lt;div&gt;// UI reagiert nicht auf die Änderung&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="510" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-73" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-74" target="kM6oIe2k22Z-2E9tLVxS-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-74" value="tiefe Updates werden nicht getrackt bei shallowRef()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="520" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-82" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-83" target="kM6oIe2k22Z-2E9tLVxS-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-105" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-83" target="kM6oIe2k22Z-2E9tLVxS-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-83" value="computed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="680" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-103" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-84" target="kM6oIe2k22Z-2E9tLVxS-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-84" value="&lt;div&gt;Nutze computed für abgeleitete Werte, statt sie manuell bei Änderungen neu zu berechnen.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="600" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-85" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-86" target="kM6oIe2k22Z-2E9tLVxS-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-86" value="watch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="960" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-87" value="&lt;div&gt;import { ref } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const count = ref(0);&lt;/div&gt;&lt;div&gt;console.log(count.value);&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="960" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-88" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-89" target="kM6oIe2k22Z-2E9tLVxS-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-89" value="toRefs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1040" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-90" value="&lt;div&gt;import { ref } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const count = ref(0);&lt;/div&gt;&lt;div&gt;console.log(count.value);&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1040" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-91" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-92" target="kM6oIe2k22Z-2E9tLVxS-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-92" value="readonly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-93" value="&lt;div&gt;import { ref } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const count = ref(0);&lt;/div&gt;&lt;div&gt;console.log(count.value);&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-94" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-95" target="kM6oIe2k22Z-2E9tLVxS-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-95" value="effectScope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-96" value="&lt;div&gt;import { ref } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const count = ref(0);&lt;/div&gt;&lt;div&gt;console.log(count.value);&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-102" value="&lt;div&gt;import { reactive, computed } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const state = reactive({ count: 1 });&lt;/div&gt;&lt;div&gt;const double = computed(() =&amp;gt; state.count * 2)&lt;/div&gt;&lt;div&gt;console.log(double.value) // → 2&lt;/div&gt;&lt;div&gt;state.count = 5&lt;/div&gt;&lt;div&gt;console.log(double.value) // → 10&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="575" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-107" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kM6oIe2k22Z-2E9tLVxS-104" target="kM6oIe2k22Z-2E9tLVxS-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-104" value="&lt;div&gt;Bad Practice: Berechne den Wert manuell in einem Watcher oder einer Methode – führt zu unnötigem Boilerplate und potenziellen Inkonsistenzen.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="760" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM6oIe2k22Z-2E9tLVxS-106" value="&lt;div&gt;import { reactive, watch } from &#39;vue&#39;;&lt;/div&gt;&lt;div&gt;const state = reactive({ count: 1 })&lt;/div&gt;&lt;div&gt;let double;&lt;/div&gt;&lt;div&gt;watch(&lt;/div&gt;&lt;div&gt;&amp;nbsp; () =&amp;gt; state.count,&lt;/div&gt;&lt;div&gt;&amp;nbsp; newCount =&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; double = newCount * 2&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; { immediate: true }&lt;/div&gt;&lt;div&gt;)&lt;/div&gt;&lt;div&gt;console.log(double) &amp;nbsp; &amp;nbsp; // → 2&lt;/div&gt;&lt;div&gt;state.count = 5&lt;/div&gt;&lt;div&gt;console.log(double) &amp;nbsp; &amp;nbsp; // → 10&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="685" width="280" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
