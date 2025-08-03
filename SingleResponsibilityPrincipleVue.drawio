@@ -184,10 +184,10 @@
         <mxCell id="aSoLX_tGQvLrZcj3-7WW-52" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Who can import who in Vue Applications?&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="-1680" width="760" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="19DdMvmEHWv00gD5VKEB-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(die keine Services triggern)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="19DdMvmEHWv00gD5VKEB-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(that do not trigger any Services)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="640" y="-1560" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DtCXY7cOGpiY2sy15-Yy-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(in Ausnahme-Fällen)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="DtCXY7cOGpiY2sy15-Yy-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(in exceptional cases)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="640" y="-1320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3YpTmOR262WHaal2ZHXS-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3YpTmOR262WHaal2ZHXS-2" target="3YpTmOR262WHaal2ZHXS-3">
@@ -196,7 +196,7 @@
         <mxCell id="3YpTmOR262WHaal2ZHXS-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Types/Interfaces&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="-1840" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3YpTmOR262WHaal2ZHXS-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SRP: Define Data Structure&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" vertex="1" parent="1">
+        <mxCell id="3YpTmOR262WHaal2ZHXS-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SRP: Define Data Structure (One type/interface per file)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="240" y="-1840" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3YpTmOR262WHaal2ZHXS-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3YpTmOR262WHaal2ZHXS-5" target="3YpTmOR262WHaal2ZHXS-6">
