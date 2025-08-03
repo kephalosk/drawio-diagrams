@@ -22,7 +22,7 @@
         <mxCell id="aSoLX_tGQvLrZcj3-7WW-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Vue Composables&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-2160" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aSoLX_tGQvLrZcj3-7WW-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SRP: Vue Dependent Logic/Behaviour (include Store calls)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="1" vertex="1">
+        <mxCell id="aSoLX_tGQvLrZcj3-7WW-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SRP: Vue Dependent Logic/Behaviour (incl. Store calls)&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="240" y="-2160" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aSoLX_tGQvLrZcj3-7WW-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aSoLX_tGQvLrZcj3-7WW-9" target="aSoLX_tGQvLrZcj3-7WW-10" edge="1">
