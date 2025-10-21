@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.7">
+  <diagram name="Seite-1" id="HH_GspnjoGTRnxMpKQvK">
+    <mxGraphModel dx="1198" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cjJkTv2IJXaULzilK0IS-1" value="Modern Frontend Architecture Evolution by Single Responsibility Principle (SRP)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-2" value="Stage 1: Hypertext Mark Up Language Only" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-3" target="cjJkTv2IJXaULzilK0IS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-3" value="Project Root Folder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-4" value="index.html&lt;div&gt;(SRP: Provide a website in one file with HTML)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-6" value="Stage 2: Separation of Javascript Logic" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-8" target="cjJkTv2IJXaULzilK0IS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-8" target="cjJkTv2IJXaULzilK0IS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-8" value="Project Root Folder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-9" value="index.html&lt;div&gt;(SRP: App Shell)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-10" target="cjJkTv2IJXaULzilK0IS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-10" value="src" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-12" value="main.[js|ts|jsx|tsx]&lt;div&gt;(SRP: JavaScript Logic)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-15" value="Stage 3: Separation of Framework Components" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-18" target="cjJkTv2IJXaULzilK0IS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-18" target="cjJkTv2IJXaULzilK0IS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-18" value="Project Root Folder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-19" value="index.html&lt;div&gt;(SRP: App Shell)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-21" target="cjJkTv2IJXaULzilK0IS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-21" target="cjJkTv2IJXaULzilK0IS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-21" value="src" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-22" value="main.[js|ts|jsx|tsx]&lt;div&gt;(SRP: JavaScript Logic)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="960" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-23" value="components&lt;div&gt;(SRP)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="880" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-25" value="Stage 2: Separation of Styling" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-27" target="cjJkTv2IJXaULzilK0IS-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjJkTv2IJXaULzilK0IS-27" target="cjJkTv2IJXaULzilK0IS-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-27" value="Project Root Folder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-28" value="index.html&lt;div&gt;(SRP: Provide website structure)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjJkTv2IJXaULzilK0IS-29" value="styles.css&lt;div&gt;(SRP: Provide website styling)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
