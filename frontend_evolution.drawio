@@ -493,7 +493,7 @@
         <mxCell id="blxeufwYckHVTjVl3mKh-139" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-140" target="blxeufwYckHVTjVl3mKh-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blxeufwYckHVTjVl3mKh-140" value="Project Root Folder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="blxeufwYckHVTjVl3mKh-140" value="Project Root Folder" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="5320" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blxeufwYckHVTjVl3mKh-141" value="index.html&lt;div&gt;(SRP: Provide website structure)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -505,10 +505,10 @@
         <mxCell id="blxeufwYckHVTjVl3mKh-143" value="main.ts&lt;div&gt;(SRP: Provide dynamic website interaction)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="5920" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blxeufwYckHVTjVl3mKh-144" value="package-lock.json&lt;div&gt;(SRP: Lock project-level dependencies to ensure reproducible installations after running &#39;npm install&#39;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="blxeufwYckHVTjVl3mKh-144" value="package-lock.json&lt;div&gt;(SRP: Lock project-level dependencies to ensure reproducible installations after running &#39;npm install&#39;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="6160" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blxeufwYckHVTjVl3mKh-145" value="package.json&lt;div&gt;(SRP: Define and describe the project’s metadata, dependencies, and entry points for the Node.js ecosystem)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="blxeufwYckHVTjVl3mKh-145" value="package.json&lt;div&gt;(SRP: Define and describe the project’s metadata, dependencies, and entry points for the Node.js ecosystem)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="320" y="6080" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blxeufwYckHVTjVl3mKh-146" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-148" target="blxeufwYckHVTjVl3mKh-151">
