@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.7">
   <diagram name="Seite-1" id="HH_GspnjoGTRnxMpKQvK">
-    <mxGraphModel dx="1707" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2376" dy="1518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="blxeufwYckHVTjVl3mKh-4126" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="blxeufwYckHVTjVl3mKh-1661" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-1663" target="blxeufwYckHVTjVl3mKh-1724">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -10400,6 +10403,964 @@
         </mxCell>
         <mxCell id="blxeufwYckHVTjVl3mKh-3825" value="README.md&lt;div&gt;(SRP: Documentation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="360" y="84160" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3827" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3954">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3828" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3900" target="blxeufwYckHVTjVl3mKh-3907">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3829" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3892">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3830" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3900">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3831" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3897">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3832" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3896">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3833" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3891">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3834" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3894">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3835" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3865">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3836" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3864">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3837" value="Final Stage 27: Highlight new Architecture (SRP: new Folder Structure)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="77.25" y="84400" width="1159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3838" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3856">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3839" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="694.4972527472528" y="90640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3840" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3870">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3841" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3867">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3842" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3876">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3843" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3890">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3844" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3893">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3845" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3895">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3846" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3911">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3847" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3909">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3848" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3967">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3849" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3968">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3850" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-3969">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3851" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-4070">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3852" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-4077">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3853" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-4085">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3854" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3855" target="blxeufwYckHVTjVl3mKh-4086">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3855" value="Project Root Folder" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="116.25" y="87000" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3856" value="index.html&lt;div&gt;(SRP: App shell)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.25" y="90480" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3857" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3864" target="blxeufwYckHVTjVl3mKh-3960">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3858" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3864" target="blxeufwYckHVTjVl3mKh-3961">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3859" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3864" target="blxeufwYckHVTjVl3mKh-3962">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3860" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3864" target="blxeufwYckHVTjVl3mKh-3963">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3861" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3864" target="blxeufwYckHVTjVl3mKh-3964">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3862" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3864" target="blxeufwYckHVTjVl3mKh-3965">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3863" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3864" target="blxeufwYckHVTjVl3mKh-3966">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3864" value="styles&lt;div&gt;&lt;div&gt;(SRP: Contain reusable Sass style definitions for colors, fonts, mixins, and responsive design)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="88722.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3865" value="main.tsx&lt;div&gt;(SRP: Provide single application entry point that initializes React and mounts the root component into the DOM)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="89882.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3866" value="package-lock.json&lt;div&gt;(SRP: Lock project-level dependencies to ensure reproducible installations after running &#39;npm install&#39;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="357.25" y="90640" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3867" value="package.json&lt;div&gt;(SRP: Define and describe the project’s metadata, dependencies, and entry points for the Node.js ecosystem)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.25" y="90640" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3868" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3870" target="blxeufwYckHVTjVl3mKh-3875">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3869" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3870" target="blxeufwYckHVTjVl3mKh-3879">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3870" value="dist&lt;div&gt;(SRP: Contain the optimized, production-ready build output of the project after running &#39;npm run build&#39;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="353.75" y="84640" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3871" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3875" target="blxeufwYckHVTjVl3mKh-3877">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3872" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3875" target="blxeufwYckHVTjVl3mKh-3878">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3873" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3875" target="blxeufwYckHVTjVl3mKh-3950">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3874" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3875" target="blxeufwYckHVTjVl3mKh-3951">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3875" value="assets&lt;div&gt;(SRP: Contain all processed, optimized, and versioned static assets for production)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1116.25" y="84560" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3876" value="node_modules&lt;div&gt;(SRP: Store and provide all installed project dependencies required for development and execution after running &#39;npm install&#39;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355.25" y="85960" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3877" value="index-[hash].js&lt;div&gt;(SRP: Ensure cache integrity and unique versioning for production assets)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="84440" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3878" value="index-[hash].css&lt;div&gt;(SRP: Provide optimized, versioned, and cache-safe CSS styling for the production build)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="84520" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3879" value="index.html&lt;div&gt;(SRP: Serve as the optimized entry point linking to built assets)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1115.75" y="84840" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3880" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3919">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3881" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3928">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3882" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3936">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3883" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3932">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3884" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3976">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3885" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-3996">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3886" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-4018">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3887" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-4024">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3888" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-4034">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3889" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3890" target="blxeufwYckHVTjVl3mKh-4042">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3890" value="src&lt;div&gt;(SRP: Contain all source code files that define the structure, logic, and styling of the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="87002.37" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3891" value="App.tsx&lt;div&gt;(SRP: Define the root React component responsible for composing and rendering the user interface)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="89722.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3892" value="App.scss&lt;div&gt;(SRP: Provide local styling and visual presentation for the relating component)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1117.5" y="89562.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3893" value="vite.config.ts&lt;div&gt;(SRP: Define and configure the build and development behavior of the Vite toolchain)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354.75" y="90960" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3894" value="App.spec.tsx&lt;div&gt;(SRP: Unit Testing App.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="89642.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3895" value="jest.config.ts&lt;div&gt;(SRP: Define and configure Jest’s testing environment, behavior, and file transformation settings)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.25" y="90560" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3896" value="main.spec.tsx&lt;div&gt;(SRP: Unit Testing main.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="89802.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3897" value="setupTests.ts&lt;div&gt;&lt;div&gt;(SRP: Initialize and configure the test environment before individual test files run)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1118.5" y="89962.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3898" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3900" target="blxeufwYckHVTjVl3mKh-3906">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3899" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3900" target="blxeufwYckHVTjVl3mKh-3901">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3900" value="stores&lt;div&gt;(SRP: Provide local styling and visual presentation for the relating component)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1118.75" y="89082.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3901" value="store.spec.ts&lt;div&gt;&lt;div&gt;(SRP: Unit Testing store.ts)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.5" y="89122.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3902" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3906" target="blxeufwYckHVTjVl3mKh-4059">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3903" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3906" target="blxeufwYckHVTjVl3mKh-4060">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3904" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3906" target="blxeufwYckHVTjVl3mKh-4062">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3905" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3906" target="blxeufwYckHVTjVl3mKh-4061">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3906" value="slices&lt;div&gt;(SRP: Contain Redux slices responsible for managing isolated pieces of application state)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1796.75" y="89041" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3907" value="store.ts&lt;div&gt;(SRP: Define the root React component responsible for composing and rendering the user interface)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.5" y="89202.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3908" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3909" target="blxeufwYckHVTjVl3mKh-3910">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3909" value="mocks&lt;div&gt;(SRP: Provide isolated, reusable test doubles that simulate non-code dependencies during testing)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="84920" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3910" value="htmlMock.ts&lt;div&gt;(SRP: Mock HTML imports as empty ES modules for Jest tests)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115.25" y="84920" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3911" value="tsconfig.json&lt;div&gt;(SRP: Define consistent TypeScript settings for building and testing)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354.75" y="90880" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3912" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3919" target="blxeufwYckHVTjVl3mKh-3921">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3913" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3919" target="blxeufwYckHVTjVl3mKh-3920">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3914" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3919" target="blxeufwYckHVTjVl3mKh-3925">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3915" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3919" target="blxeufwYckHVTjVl3mKh-3924">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3916" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3919" target="blxeufwYckHVTjVl3mKh-3923">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3917" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3919" target="blxeufwYckHVTjVl3mKh-3922">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3918" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3919" target="blxeufwYckHVTjVl3mKh-3945">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3919" value="services&lt;div&gt;(SRP: Contain modules for external API communication, isolated from UI and state)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="88122.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3920" value="CustomService.spec.ts&lt;div&gt;&lt;div&gt;(SRP: Unit Testing CustomService.ts)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.25" y="88322.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3921" value="CustomService.ts&lt;div&gt;(SRP: Provide a reusable Axios-based client for performing HTTP requests to a specific REST API endpoint)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1800.25" y="88402.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3922" value="CustomDTOSchema.spec.ts&lt;div&gt;&lt;div&gt;(SRP: Unit Testing CustomDTOSchema.ts)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="88002.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3923" value="CustomDTOSchema.ts&lt;div&gt;(SRP: Define Zod schemas to validate and type incoming API data structures)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="88082.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3924" value="CustomMapper.spec.ts&lt;div&gt;&lt;div&gt;(SRP: Unit Testing CustomMapper.ts)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1798.25" y="88162.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3925" value="CustomMapper.ts&lt;div&gt;(SRP: Transform validated DTOs into internal application models)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.25" y="88242.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3926" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3928" target="blxeufwYckHVTjVl3mKh-3937">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3927" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3928" target="blxeufwYckHVTjVl3mKh-3940">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3928" value="router&lt;div&gt;(SRP: Contain routing logic and route configuration for the entire application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1117.25" y="87802.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3929" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3932" target="blxeufwYckHVTjVl3mKh-3938">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3930" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3932" target="blxeufwYckHVTjVl3mKh-3941">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3931" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3932" target="blxeufwYckHVTjVl3mKh-3948">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3932" value="layout&lt;div&gt;(SRP: Provide reusable UI layout components that define the app’s visual structure)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="86882.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3933" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3936" target="blxeufwYckHVTjVl3mKh-3939">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3934" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3936" target="blxeufwYckHVTjVl3mKh-3942">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3935" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3936" target="blxeufwYckHVTjVl3mKh-3949">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3936" value="pages&lt;div&gt;(SRP: Contain page components representing individual routes in the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1117.75" y="87602.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3937" value="AppRouter.tsx&lt;div&gt;(SRP: Define and manage the application’s route structure using React Router)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.25" y="87842.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3938" value="MainLayout.tsx&lt;div&gt;(SRP: Provide a reusable layout that structures the app’s visual framework)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1794.75" y="86962.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3939" value="StartPage.tsx&lt;div&gt;(SRP: Render the start page content as a routed view within the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1798.25" y="87682.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3940" value="AppRouter.spec.tsx&lt;div&gt;(SRP:&amp;nbsp;Unit Testing AppRouter.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1798.75" y="87762.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3941" value="MainLayout.spec.tsx&lt;div&gt;(SRP: Unit Testing MainLayout.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1793.75" y="86882.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3942" value="StartPage.spec.tsx&lt;div&gt;(SRP: Unit Testing StartPage.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1797.75" y="87602.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3943" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3945" target="blxeufwYckHVTjVl3mKh-3947">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3944" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3945" target="blxeufwYckHVTjVl3mKh-3946">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3945" value="Keycloak&lt;div&gt;(SRP: Contain modules for handling Keycloak-based authentication and token management)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1798.75" y="87922.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3946" value="KeycloakService.spec.ts&lt;div&gt;&lt;div&gt;(SRP: Unit Testing KeycloakService.ts)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="87882.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3947" value="KeycloakService.ts&lt;div&gt;(SRP: Manage Keycloak client, sessions, and tokens for authentication and authorization)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="87962.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3948" value="MainLayout.scss&lt;div&gt;(SRP: Styling for MainLayout.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1794.75" y="86802.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3949" value="StartPage.scss&lt;div&gt;(SRP: Styling for StartPage.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1798.75" y="87522.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3950" value="ComicSans-VariableFont_Italic-[hash].ttf&lt;div&gt;(SRP: Optimized and hashed build output of the italic font file for caching and integrity)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.25" y="84600" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3951" value="ComicSans-VariableFont_Regular-[hash].ttf&lt;div&gt;(SRP: Optimized and hashed build output of the regular font file for caching and integrity)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.25" y="84680" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3952" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3954" target="blxeufwYckHVTjVl3mKh-3957">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3953" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3954" target="blxeufwYckHVTjVl3mKh-4083">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3954" value="assets&lt;div&gt;(SRP: Contain static resources used in the application such as fonts and images)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1115.75" y="85060" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3955" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3957" target="blxeufwYckHVTjVl3mKh-3958">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3956" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3957" target="blxeufwYckHVTjVl3mKh-3959">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3957" value="fonts&lt;div&gt;(SRP: Store source font files used for typography definitions in styles)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1796.25" y="85000" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3958" value="ComicSans-VariableFont_Italic.ttf&lt;div&gt;(SRP: Provide the italic variant of the Comic Sans variable font)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.25" y="84960" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3959" value="ComicSans-VariableFont_Regular.ttf&lt;div&gt;(SRP: Provide the regular variant of the Comic Sans variable font)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.25" y="85040" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3960" value="colors.scss&lt;div&gt;&lt;div&gt;(SRP: Define the application&#39;s color palette variables)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1800.25" y="88482.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3961" value="fonts.scss&lt;div&gt;&lt;div&gt;(SRP: Define font-face declarations and typography styles)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.5" y="88562.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3962" value="functions.scss&lt;div&gt;&lt;div&gt;(SRP: Provide reusable Sass functions for computed style values)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.5" y="88642.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3963" value="mixins.scss&lt;div&gt;&lt;div&gt;(SRP: Define reusable Sass mixins for consistent styling patterns)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.5" y="88722.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3964" value="screens.scss&lt;div&gt;&lt;div&gt;(SRP: Define responsive breakpoints and screen-size variables)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.5" y="88802.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3965" value="spaces.scss&lt;div&gt;&lt;div&gt;(SRP: Define spacing variables and layout scale for consistent sizing)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.5" y="88882.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3966" value="styles.scss&lt;div&gt;&lt;div&gt;(SRP: Provide global app styling)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1799.5" y="88962.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3967" value=".prettierignore&lt;div&gt;(SRP: Specify files and folders that Prettier should ignore during formatting)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="90240" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3968" value=".prettierrc.js&lt;div&gt;(SRP: Define formatting rules that ensure uniform code style for all contributors)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="90320" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3969" value="eslint.config.ts&lt;div&gt;(SRP: Define linting rules and configurations that maintain code quality and consistency across the project)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355.25" y="90400" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3970" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3976" target="blxeufwYckHVTjVl3mKh-3981">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3971" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3976" target="blxeufwYckHVTjVl3mKh-3978">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3972" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3976" target="blxeufwYckHVTjVl3mKh-3988">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3973" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3976" target="blxeufwYckHVTjVl3mKh-3977">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3974" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3976" target="blxeufwYckHVTjVl3mKh-3989">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3975" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3976" target="blxeufwYckHVTjVl3mKh-3990">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3976" value="i18n&lt;div&gt;(SRP: Contain all internationalization configuration and locale resources)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="86520" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3977" value="index.ts&lt;div&gt;(SRP: Export i18n initialization to be imported at app startup)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1795.5" y="86400" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3978" value="i18nConfig.ts&lt;div&gt;(SRP: Initialize and configure i18next with language settings, namespaces, and resources)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.25" y="86560" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3979" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3981" target="blxeufwYckHVTjVl3mKh-3983">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3980" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3981" target="blxeufwYckHVTjVl3mKh-3985">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3981" value="locales&lt;div&gt;(SRP: Contain translation files for each supported language)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1796" y="86320" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3982" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3983" target="blxeufwYckHVTjVl3mKh-3986">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3983" value="en&lt;div&gt;(SRP: Provide localized translations for English language)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2478.75" y="86280" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3984" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3985" target="blxeufwYckHVTjVl3mKh-3987">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3985" value="de&lt;div&gt;(SRP: Provide localized translations for German language)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2479.5" y="86360" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3986" value="translation.json&lt;div&gt;(SRP: Store key-value pairs for localized text in English language)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3158.5" y="86280" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3987" value="translation.json&lt;div&gt;(SRP: Store key-value pairs for localized text in German language)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3158.5" y="86360" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3988" value="LanguageDetector.ts&lt;div&gt;(SRP: Detect and manage the user’s preferred language settings)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1793.75" y="86722.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3989" value="i18nConfig.spec.ts&lt;div&gt;(SRP: Unit Testing i18nConfig.ts)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="86480" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3990" value="LanguageDetector.spec.ts&lt;br&gt;&lt;div&gt;(SRP: Unit Testing LanguageDetector.ts)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1795" y="86640" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3991" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3996" target="blxeufwYckHVTjVl3mKh-4003">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3992" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3996" target="blxeufwYckHVTjVl3mKh-4011">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3993" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3996" target="blxeufwYckHVTjVl3mKh-4012">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3994" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3996" target="blxeufwYckHVTjVl3mKh-4010">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3995" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3996" target="blxeufwYckHVTjVl3mKh-4050">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3996" value="components&lt;br&gt;&lt;div&gt;(SRP: Contain reusable UI components that encapsulate presentation logic and layout behavior)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1117.25" y="85640" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3997" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4003" target="blxeufwYckHVTjVl3mKh-4004">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3998" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4003" target="blxeufwYckHVTjVl3mKh-4006">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-3999" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4003" target="blxeufwYckHVTjVl3mKh-4005">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4000" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4003" target="blxeufwYckHVTjVl3mKh-4009">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4001" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4003" target="blxeufwYckHVTjVl3mKh-4008">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4002" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4003" target="blxeufwYckHVTjVl3mKh-4007">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4003" value="atoms&lt;br&gt;&lt;div&gt;(SRP: Contain foundational UI components that wrap basic HTML tags with consistent styling and structure)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="85400" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4004" value="CustomH1.tsx&lt;br&gt;&lt;div&gt;(SRP: Render a styled H1&amp;nbsp;element as a reusable atomic UI component)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2478.75" y="85360" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4005" value="CustomH1.spec.tsx&lt;br&gt;&lt;div&gt;(SRP: Unit Testing CustomH1.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2478.75" y="85280" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4006" value="CustomH1.scss&lt;br&gt;&lt;div&gt;(SRP: Styling for CustomH1.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2479.75" y="85200" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4007" value="CustomLabel.tsx&lt;br&gt;&lt;div&gt;(SRP: Render a styled label element as a reusable atomic UI component)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2479.25" y="85600" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4008" value="CustomLabel.spec.tsx&lt;br&gt;&lt;div&gt;(SRP: Unit Testing CustomLabel.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2479.25" y="85520" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4009" value="CustomLabel.scss&lt;br&gt;&lt;div&gt;(SRP: Styling for CustomLabel.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2480.25" y="85440" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4010" value="CustomContext.tsx&lt;br&gt;&lt;div&gt;(SRP: Combine multiple atomic components into a cohesive, reusable UI element)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1795.75" y="86000" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4011" value="CustomContext.scss&lt;br&gt;&lt;div&gt;(SRP: Styling for CustomContext.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.25" y="85840" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4012" value="&lt;div&gt;CustomContext.spec.tsx&lt;/div&gt;&lt;div&gt;(SRP: Unit Testing CustomContext.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.25" y="85920" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4013" value="useCustomHook.ts&lt;br&gt;&lt;div&gt;(SRP: Encapsulate component logic and state handling independent of visual rendering)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796" y="86240" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4014" value="&lt;div&gt;useCustomHook.spec.ts&lt;/div&gt;&lt;div&gt;(SRP: Unit Testing useCustomHook.ts)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.5" y="86160" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4015" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4018" target="blxeufwYckHVTjVl3mKh-4014">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4016" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4018" target="blxeufwYckHVTjVl3mKh-4013">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4017" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4018" target="blxeufwYckHVTjVl3mKh-4055">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4018" value="&lt;div&gt;hooks&lt;/div&gt;&lt;div&gt;(SRP: Contain logic and state management functions decoupled from UI rendering)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1115.75" y="86160" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4019" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4024" target="blxeufwYckHVTjVl3mKh-4025">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4020" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4024" target="blxeufwYckHVTjVl3mKh-4026">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4021" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4024" target="blxeufwYckHVTjVl3mKh-4027">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4022" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4024" target="blxeufwYckHVTjVl3mKh-4028">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4023" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4024" target="blxeufwYckHVTjVl3mKh-4065">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4024" value="utils&lt;div&gt;(SRP: Contain pure, framework-independent utility and helper functions for reusable logic)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1117.25" y="89440" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4025" value="customHelper.spec.ts&lt;div&gt;(SRP: Unit Testing customHelper.ts)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="89362.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4026" value="customHelper.ts&lt;div&gt;(SRP: Provide a small helper function that support utilities or hooks with pure logic)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="89442.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4027" value="customUtil.spec.ts&lt;div&gt;(SRP: Unit Testing customUtil.ts)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="89522.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4028" value="customUtil.ts&lt;div&gt;(SRP: Provide a stateless utility function for data manipulation or computation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1797.75" y="89600" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4029" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4034" target="blxeufwYckHVTjVl3mKh-4036">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4030" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4034" target="blxeufwYckHVTjVl3mKh-4038">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4031" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4034" target="blxeufwYckHVTjVl3mKh-4039">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4032" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4034" target="blxeufwYckHVTjVl3mKh-4040">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4033" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4034" target="blxeufwYckHVTjVl3mKh-4057">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4034" value="models&lt;div&gt;(SRP:&amp;nbsp;Contain global TypeScript type definitions, interfaces, and enums shared across the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1116.25" y="87200" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4035" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4036" target="blxeufwYckHVTjVl3mKh-4037">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4036" value="api&lt;div&gt;(SRP: Contain type definitions and interfaces specific to external API data contracts)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1795.5" y="87120" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4037" value="CustomDTO&lt;div&gt;(SRP: Define a TypeScript interface for a Data Transfer Object (DTOs) exchanged with external APIs)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2478" y="87120" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4038" value="CustomEnum.ts&lt;div&gt;(SRP: Define an enumeration representing a fixed set of constants used across modules)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.5" y="87200" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4039" value="CustomModelInterface.ts&lt;div&gt;(SRP: Define a domain-level model interface used throughout the app)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1795.75" y="87280" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4040" value="CustomType.ts&lt;div&gt;(SRP: Define a domain-level model type used throughout the app)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1795.75" y="87360" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4041" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4042" target="blxeufwYckHVTjVl3mKh-4043">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4042" value="objects&lt;div&gt;(SRP: Contain static, predefined objects or constant data used globally across the app)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="87440" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4043" value="CustomObject.ts&lt;div&gt;(SRP: Define a fixed, reusable object instances or configuration data shared across modules)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1798" y="87440" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4044" value="CustomFeature.tsx&lt;br&gt;&lt;div&gt;(SRP: Render the visual representation of the CustomFeature using data and hooks tied to that feature)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.25" y="85840" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4045" value="&lt;div&gt;CustomFeature.spec.tsx&lt;/div&gt;&lt;div&gt;(SRP: Unit Testing CustomFeature.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.25" y="85760" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4046" value="CustomFeature.scss&lt;br&gt;&lt;div&gt;(SRP: Styling for CustomFeature.tsx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2478.25" y="85680" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4047" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4050" target="blxeufwYckHVTjVl3mKh-4046">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4048" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4050" target="blxeufwYckHVTjVl3mKh-4045">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4049" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4050" target="blxeufwYckHVTjVl3mKh-4044">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4050" value="CustomFeature&lt;br&gt;&lt;div&gt;(SRP: Contain UI components specific to the CustomFeature domain)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="85760" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4051" value="&lt;div&gt;useCustomFeature.ts&lt;/div&gt;&lt;div&gt;(SRP: Manage a part of CustomFeature’s stateful logic independently from its UI)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.25" y="86120" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4052" value="useCustomFeature.spec.ts&lt;br&gt;&lt;div&gt;(SRP: Unit Testing useCustomFeature.ts)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2478.25" y="86040" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4053" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4055" target="blxeufwYckHVTjVl3mKh-4052">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4054" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4055" target="blxeufwYckHVTjVl3mKh-4051">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4055" value="CustomFeature&lt;br&gt;&lt;div&gt;(SRP: Contain custom hooks that encapsulate stateful logic for the CustomFeature)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="86080" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4056" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4057" target="blxeufwYckHVTjVl3mKh-4058">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4057" value="CustomFeature&lt;br&gt;&lt;div&gt;(SRP: Define TypeScript interfaces and types specific to the CustomFeature domain)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1796.25" y="87040" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4058" value="CustomFeatureInterface.ts&lt;br&gt;&lt;div&gt;(SRP: Describe a data structure used by the CustomFeature)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.75" y="87040" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4059" value="customSlice.spec.ts&lt;div&gt;&lt;div&gt;(SRP: Unit Testing customSlice.ts)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.5" y="89082.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4060" value="customSlice.ts&lt;div&gt;(SRP: Manage a specific piece of application state and its update logic within Redux)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2479.25" y="89162.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4061" value="customFeatureSlice.spec.ts&lt;div&gt;&lt;div&gt;(SRP: Unit Testing customFeatureSlice.ts)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2476.75" y="88921" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4062" value="customFeatureSlice.ts&lt;div&gt;(SRP: Manage Redux state, actions, and reducers for the CustomFeature domain)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2478.5" y="89001" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4063" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4065" target="blxeufwYckHVTjVl3mKh-4067">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4064" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4065" target="blxeufwYckHVTjVl3mKh-4066">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4065" value="CustomFeature&lt;div&gt;(SRP: Contain pure, feature-specific utility functions independent of React or state management)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1797.25" y="89280" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4066" value="customFeatureHelper.spec.ts&lt;div&gt;&lt;div&gt;(SRP: Unit Testing customFeatureHelper.ts)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.25" y="89240" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4067" value="customFeatureHelper.ts&lt;div&gt;(SRP: Provide a reusable, stateless helper function supporting the CustomFeature’s logic)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2477.5" y="89320" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4068" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4070" target="blxeufwYckHVTjVl3mKh-4074">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4069" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4070" target="blxeufwYckHVTjVl3mKh-4072">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4070" value="ui-tests&lt;br&gt;&lt;div&gt;(SRP: Contain automated User Interface Tests)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="355.25" y="90080" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4071" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4072" target="blxeufwYckHVTjVl3mKh-4075">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4072" value="vrt&lt;br&gt;&lt;div&gt;(SRP: Contain automated visual regression tests that capture and compare UI snapshots)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1115.75" y="90040" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4073" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4074" target="blxeufwYckHVTjVl3mKh-4076">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4074" value="e2e&lt;br&gt;&lt;div&gt;(SRP: Contain end-to-end tests that validate complete user workflows across the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1115.75" y="90120" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4075" value="CustomFeature.vrt.spec.ts&lt;br&gt;&lt;div&gt;(SRP: Verify visual consistency of rendered UI components through snapshot comparison)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.25" y="90040" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4076" value="CustomFeature.e2e.spec.ts&lt;br&gt;&lt;div&gt;(SRP: Simulate real user interactions to validate full application behavior and data flow)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1795.25" y="90120" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4077" value="playwright.config.ts&lt;div&gt;(SRP: Define Playwright’s global configuration for running visual and end-to-end tests consistently across environments)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355.75" y="90720" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4078" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-3870" target="blxeufwYckHVTjVl3mKh-4080">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="756.75" y="84640" as="sourcePoint" />
+            <mxPoint x="1356.75" y="84840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4079" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4080" target="blxeufwYckHVTjVl3mKh-4081">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4080" value="images&lt;div&gt;(SRP: Contain all images the app uses)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115.75" y="84760" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4081" value="custom-image.svg&lt;div&gt;(SRP: Contain custom image)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1796.75" y="84760" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4082" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4083" target="blxeufwYckHVTjVl3mKh-4084">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4083" value="images&lt;div&gt;(SRP: Contain all images the app uses)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="1795.75" y="85120" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4084" value="custom-image.svg&lt;div&gt;(SRP: Contain custom image)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2476.75" y="85120" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4085" value=".gitignore&lt;div&gt;(SRP: Specify files and folders that git should ignore during versioning)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="90160" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4086" value="README.md&lt;div&gt;(SRP: Documentation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="355.75" y="90800" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4087" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4090" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4096" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4099" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4107" target="blxeufwYckHVTjVl3mKh-4129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4101" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4107" target="blxeufwYckHVTjVl3mKh-4142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4105" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4107" target="blxeufwYckHVTjVl3mKh-4250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4107" value="Project Root Folder" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="87880" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4116" value="styles&lt;div&gt;&lt;div&gt;(SRP: Contain reusable Sass style definitions for colors, fonts, mixins, and responsive design)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="88242.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4119" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4120" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4121" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4122" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4123" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4124" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4125" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4127" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4128" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4129" value="src&lt;div&gt;(SRP: Contain all source code files that define the structure, logic, and styling of the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="87880" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4135" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4137" target="blxeufwYckHVTjVl3mKh-4139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4137" value="stores&lt;div&gt;(SRP: Provide local styling and visual presentation for the relating component)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="88322.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4139" value="slices&lt;div&gt;(SRP: Contain Redux slices responsible for managing isolated pieces of application state)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6200" y="88320" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4142" value="mocks&lt;div&gt;(SRP: Provide isolated, reusable test doubles that simulate non-code dependencies during testing)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="87280" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4150" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4151" target="blxeufwYckHVTjVl3mKh-4175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4151" value="services&lt;div&gt;(SRP: Contain modules for external API communication, isolated from UI and state)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="88162.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4160" value="router&lt;div&gt;(SRP: Contain routing logic and route configuration for the entire application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="88082.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4164" value="layout&lt;div&gt;(SRP: Provide reusable UI layout components that define the app’s visual structure)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="87762.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4168" value="pages&lt;div&gt;(SRP: Contain page components representing individual routes in the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="88002.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4175" value="Keycloak&lt;div&gt;(SRP: Contain modules for handling Keycloak-based authentication and token management)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6203" y="88162.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4178" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4180" target="blxeufwYckHVTjVl3mKh-4181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4179" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4180" target="blxeufwYckHVTjVl3mKh-4257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4180" value="assets&lt;div&gt;(SRP: Contain static resources used in the application such as fonts and images)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="87280" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4181" value="fonts&lt;div&gt;(SRP: Store source font files used for typography definitions in styles)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6200" y="87240" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4198" value="i18n&lt;div&gt;(SRP: Contain all internationalization configuration and locale resources)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="87675" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4201" value="locales&lt;div&gt;(SRP: Contain translation files for each supported language)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6200" y="87642.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4205" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4210" target="blxeufwYckHVTjVl3mKh-4211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4209" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4210" target="blxeufwYckHVTjVl3mKh-4244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4210" value="components&lt;br&gt;&lt;div&gt;(SRP: Contain reusable UI components that encapsulate presentation logic and layout behavior)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="87440" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4211" value="atoms&lt;br&gt;&lt;div&gt;(SRP: Contain foundational UI components that wrap basic HTML tags with consistent styling and structure)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6201.5" y="87400" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4219" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4220" target="blxeufwYckHVTjVl3mKh-4245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4259" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4220" target="blxeufwYckHVTjVl3mKh-4201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4220" value="&lt;div&gt;hooks&lt;/div&gt;&lt;div&gt;(SRP: Contain logic and state management functions decoupled from UI rendering)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="87602.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4225" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4226" target="blxeufwYckHVTjVl3mKh-4247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4226" value="utils&lt;div&gt;(SRP: Contain pure, framework-independent utility and helper functions for reusable logic)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="88402.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4235" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4236" target="blxeufwYckHVTjVl3mKh-4246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4236" value="models&lt;div&gt;(SRP:&amp;nbsp;Contain global TypeScript type definitions, interfaces, and enums shared across the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="87842.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4242" value="objects&lt;div&gt;(SRP: Contain static, predefined objects or constant data used globally across the app)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="87920" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4244" value="CustomFeature&lt;br&gt;&lt;div&gt;(SRP: Contain UI components specific to the CustomFeature domain)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6200" y="87480" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4245" value="CustomFeature&lt;br&gt;&lt;div&gt;(SRP: Contain custom hooks that encapsulate stateful logic for the CustomFeature)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6200" y="87562.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4246" value="CustomFeature&lt;br&gt;&lt;div&gt;(SRP: Define TypeScript interfaces and types specific to the CustomFeature domain)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6200" y="87840" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4247" value="CustomFeature&lt;div&gt;(SRP: Contain pure, feature-specific utility functions independent of React or state management)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6200" y="88400" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4248" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4250" target="blxeufwYckHVTjVl3mKh-4254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4249" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4250" target="blxeufwYckHVTjVl3mKh-4252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4250" value="ui-tests&lt;br&gt;&lt;div&gt;(SRP: Contain automated User Interface Tests)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="88520" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4252" value="vrt&lt;br&gt;&lt;div&gt;(SRP: Contain automated visual regression tests that capture and compare UI snapshots)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="88480" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4254" value="e2e&lt;br&gt;&lt;div&gt;(SRP: Contain end-to-end tests that validate complete user workflows across the application)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="88562.37" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4257" value="images&lt;div&gt;(SRP: Contain all images the app uses)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="6201.5" y="87320" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="blxeufwYckHVTjVl3mKh-4262" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="blxeufwYckHVTjVl3mKh-4129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5096.600084997874" y="87879.99999999999" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
