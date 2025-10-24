@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.7">
   <diagram name="Seite-1" id="HH_GspnjoGTRnxMpKQvK">
-    <mxGraphModel dx="2376" dy="1518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11186,7 +11186,7 @@
         <mxCell id="blxeufwYckHVTjVl3mKh-4085" value=".gitignore&lt;div&gt;(SRP: Specify files and folders that git should ignore during versioning)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="90160" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blxeufwYckHVTjVl3mKh-4086" value="README.md&lt;div&gt;(SRP: Documentation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#00FF00;" vertex="1" parent="1">
+        <mxCell id="blxeufwYckHVTjVl3mKh-4086" value="README.md&lt;div&gt;(SRP: Documentation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="355.75" y="90800" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="blxeufwYckHVTjVl3mKh-4087" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="blxeufwYckHVTjVl3mKh-4129" target="blxeufwYckHVTjVl3mKh-4180">
