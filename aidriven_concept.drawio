@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.9">
+  <diagram name="Seite-1" id="swb-1hhUkJ6i4Ct-2mxy">
+    <mxGraphModel dx="1018" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3NuGL9NwYn9WxYUHogqR-1" value="AI-Driven Frontend Web Development Coding Guidelines" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NuGL9NwYn9WxYUHogqR-2" value="Zweck: Bereitstellung aller Leitlinien /&amp;nbsp;Instruktionen&amp;nbsp;die ein Entwickler / LLM als Vorgabe / Pre-Prompt braucht, um als Frontend Web Developer im Projekt FResist eingesetzt werden zu können" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="160" width="1040" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NuGL9NwYn9WxYUHogqR-3" value="Was muss das LLM als AI Frontend Web Developer alles Wissen um im Projekt FResist eingesetzt werden zu können&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="240" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NuGL9NwYn9WxYUHogqR-4" value="Es muss die eingesetzten Technologien kennen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="240" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3NuGL9NwYn9WxYUHogqR-5" value="Nutze starke Typisierung" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="320" width="1000" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
