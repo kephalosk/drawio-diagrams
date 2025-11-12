@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.9">
+  <diagram name="Seite-1" id="sxitaZd6Q-uxClRmZ0Ce">
+    <mxGraphModel dx="1018" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-1" target="Q-UZQKDaF2HcT71nmoeD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-1" target="Q-UZQKDaF2HcT71nmoeD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-1" target="Q-UZQKDaF2HcT71nmoeD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-1" value="Frontend Web Development Guidelines Fresist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-2" value="Coding Guidelines" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-3" value="Review Guidelines" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-1" target="Q-UZQKDaF2HcT71nmoeD-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253" y="160" as="sourcePoint" />
+            <mxPoint x="597" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-4" value="AI Guidelines" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="280" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
