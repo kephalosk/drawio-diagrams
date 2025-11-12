@@ -13,41 +13,59 @@
         <mxCell id="Q-UZQKDaF2HcT71nmoeD-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q-UZQKDaF2HcT71nmoeD-1" target="Q-UZQKDaF2HcT71nmoeD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q-UZQKDaF2HcT71nmoeD-1" value="Frontend Web Development Guidelines Fresist" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="120" width="280" height="40" as="geometry" />
+        <mxCell id="Q-UZQKDaF2HcT71nmoeD-1" value="FResist Frontend Web Development Guideline" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pgpHYmqt1MdQYcZSuvk-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-2" target="8pgpHYmqt1MdQYcZSuvk-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8pgpHYmqt1MdQYcZSuvk-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-2" target="8pgpHYmqt1MdQYcZSuvk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q-UZQKDaF2HcT71nmoeD-2" value="Coding Guidelines" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="40" width="280" height="40" as="geometry" />
+          <mxGeometry x="440" y="80" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pgpHYmqt1MdQYcZSuvk-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-3" target="8pgpHYmqt1MdQYcZSuvk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8pgpHYmqt1MdQYcZSuvk-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-3" target="8pgpHYmqt1MdQYcZSuvk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q-UZQKDaF2HcT71nmoeD-3" value="Review Guidelines" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="120" width="280" height="40" as="geometry" />
+          <mxGeometry x="440" y="240" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q-UZQKDaF2HcT71nmoeD-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q-UZQKDaF2HcT71nmoeD-1" target="Q-UZQKDaF2HcT71nmoeD-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="253" y="160" as="sourcePoint" />
-            <mxPoint x="597" y="370" as="targetPoint" />
+            <mxPoint x="253" y="200" as="sourcePoint" />
+            <mxPoint x="597" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8pgpHYmqt1MdQYcZSuvk-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-4" target="8pgpHYmqt1MdQYcZSuvk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8pgpHYmqt1MdQYcZSuvk-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q-UZQKDaF2HcT71nmoeD-4" target="8pgpHYmqt1MdQYcZSuvk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q-UZQKDaF2HcT71nmoeD-4" value="AI Guidelines" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="200" width="280" height="40" as="geometry" />
+          <mxGeometry x="440" y="400" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pgpHYmqt1MdQYcZSuvk-1" value="https://wiki.materna.net/x/rwE4Ig" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="120" width="280" height="40" as="geometry" />
+          <mxGeometry x="800" y="280" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pgpHYmqt1MdQYcZSuvk-2" value="https://wiki.materna.net/x/K4AEIg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="200" width="280" height="40" as="geometry" />
+          <mxGeometry x="800" y="440" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8pgpHYmqt1MdQYcZSuvk-3" value="https://wiki.materna.net/x/-IAsHQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8pgpHYmqt1MdQYcZSuvk-7" value="Single Source of Truth?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8pgpHYmqt1MdQYcZSuvk-9" value="Ergibt sich aus Coding Guidelines + Reviews?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="200" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8pgpHYmqt1MdQYcZSuvk-11" value="Ergibt sich aus Coding + Review Guidelines?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
