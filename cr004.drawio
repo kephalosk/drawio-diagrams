@@ -118,7 +118,7 @@
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-64" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-5" target="GzSOYbMVtFPcbZGWJc5L-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-5" value="user-story/504 - Lizenz zu einer Ressource pflegen" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-5" value="user-story/504 - Lizenz zu einer Ressource pflegen" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="440" y="440" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-6" target="GzSOYbMVtFPcbZGWJc5L-59" edge="1">
@@ -268,7 +268,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-58" target="m6-y3cwwfS3Qt0wqjgRr-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-58" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/504&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/504&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-58" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/504&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/504&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="840" y="440" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-59" target="m6-y3cwwfS3Qt0wqjgRr-6">
@@ -418,7 +418,10 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-4" value="10PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="1240" y="360" width="79.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-5" value="2PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-83" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-5" target="m6-y3cwwfS3Qt0wqjgRr-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-5" value="2PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="1240" y="440" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-6" value="5PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
@@ -561,6 +564,30 @@
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-81" value="Sichtung&amp;nbsp;der offenen und unklaren Frontend-Restaufwände aus CR-004 seitens Frontend Materna (Stand: 13.11.2025 / Philipp Kraatz)" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fontSize=20;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="1290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-85" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-82" target="m6-y3cwwfS3Qt0wqjgRr-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-82" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-data-platform/pull/223&quot;&gt;https://github.com/Mobidrom/mobidp-data-platform/pull/223&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="440" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1960" y="460" as="sourcePoint" />
+            <mxPoint x="1960" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-88" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-84" target="m6-y3cwwfS3Qt0wqjgRr-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-84" value="blockiert durch&amp;nbsp;&lt;a href=&quot;https://github.com/Mobidrom/mobidp-data-platform/pull/208&quot;&gt;https://github.com/Mobidrom/mobidp-data-platform/pull/208&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="440" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-87" value="1PT?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="440" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-89" value="blockiert" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
