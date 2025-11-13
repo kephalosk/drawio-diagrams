@@ -580,8 +580,8 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-79" value="in Arbeit" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-81" value="Sichtung&amp;nbsp;der offenen und unklaren Restaufwände im Frontend aus CR-004 seitens Frontend Materna (Stand: 13.11.2025 / Philipp Kraatz)" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fontSize=20;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1330" height="40" as="geometry" />
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-81" value="Sichtung&amp;nbsp;der offenen und unklaren Restaufwände im Frontend aus CR-004 seitens Frontend Materna (Stand: 13.11.2025 / Philipp Kraatz)" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fontSize=24;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-85" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-82" target="m6-y3cwwfS3Qt0wqjgRr-84">
           <mxGeometry relative="1" as="geometry" />
@@ -801,8 +801,11 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-137" value="1PT?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="2200" y="1960" width="79.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-140" value="22PT gesamt Restaufwand?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-140" value="22PT gesamt Restaufwand für CR004?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="2360" y="1160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-207" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-150" target="m6-y3cwwfS3Qt0wqjgRr-166">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-150" value="Umsetzung gefährdet durch Abhängigkeit zu user-story/510" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="2360" y="1800" width="240" height="40" as="geometry" />
@@ -836,6 +839,9 @@
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-162" value="für Re-Refinement markiert" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="2360" y="1240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-206" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-164" target="m6-y3cwwfS3Qt0wqjgRr-169">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-164" value="Umsetzung gefährdet durch Abstimmungsbedarf" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="2360" y="1320" width="240" height="40" as="geometry" />
