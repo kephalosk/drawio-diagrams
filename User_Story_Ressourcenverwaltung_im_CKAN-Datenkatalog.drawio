@@ -1,9 +1,203 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.9">
   <diagram name="Seite-1" id="JDJu-Gmf4L3rwpb4xX_y">
-    <mxGraphModel>
+    <mxGraphModel dx="2036" dy="1462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-7" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-1" target="f4Pi-UDRY6MygHjhPm0S-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-1" target="f4Pi-UDRY6MygHjhPm0S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-1" target="f4Pi-UDRY6MygHjhPm0S-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-1" value="[User Story] Ressourcenverwaltung im CKAN-Datenkatalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="900" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-2" target="f4Pi-UDRY6MygHjhPm0S-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-2" target="f4Pi-UDRY6MygHjhPm0S-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-2" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/503&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/503&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="800" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-4" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-data-platform/pull/208&quot;&gt;https://github.com/Mobidrom/mobidp-data-platform/pull/208&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="880" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-5" target="f4Pi-UDRY6MygHjhPm0S-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-5" value="Ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-6" target="f4Pi-UDRY6MygHjhPm0S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-6" value="Pull Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="880" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-53" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-55" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-14" target="f4Pi-UDRY6MygHjhPm0S-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-14" value="Akzeptanzkriterien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="840" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-16" value="Ich kann im CKAN einem Datensatz eine neue Ressource hinzufügen." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="80" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-18" value="Ich kann einen sprechenden Namen für die Ressource vergeben." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="160" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-19" value="Ich kann eine kurze Beschreibung der Ressource hinzufügen." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="240" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-20" value="Ich kann als neue Ressource eine URL anlegen." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="320" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-21" value="Ich kann als neue Ressource eine statische Datei (mind. PDF, TXT, JSON, XML) hochladen." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="400" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-22" value="Die maximale Dateigröße ist auf 10MB begrenzt." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="480" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-23" value="Es werden mind. die Dateitypen PDF, TXT, JSON, XML akzeptiert." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="560" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-24" value="Nach erfolgreichem Upload wird eine Bestätigung angezeigt." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="640" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-25" value="Ich kann als neue Ressource einen externen Service (GeoServer, WFS/WMS) hinzufügen." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="720" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-26" value="Ich kann die Service-URL und den Service-Typ (WFS/WMS) angeben." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="800" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-27" value="Die Ressource ist sofort im CKAN-Katalog sichtbar." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="880" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-28" value="Die Datei wird im System gespeichert und mit dem Katalogeintrag verknüpft." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="960" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-29" value="Die Ressourcen werden im Katalog übersichtlich gruppiert dargestellt." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1040" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-30" value="Ich kann die Reihenfolge der Ressourcen im Katalog anpassen." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1120" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-31" value="Ich kann einzelne Ressourcen aus dem Katalog entfernen." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1200" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-32" value="Ich kann eine bereits konfigurierte Ressource und ihre hinterlegten Informationen bearbeiten." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1280" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-33" value="Jede Ressource kann mit einer eindeutigen Version gekennzeichnet werden (z.B. GBFS v2.3, v3.0)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1360" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-34" value="Die Versionsinformation wird im CKAN-Katalog deutlich sichtbar dargestellt." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1440" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-35" value="Die Ressourcenliste wird automatisch aktualisiert, wenn Änderungen vorgenommen werden." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1520" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-36" value="Mit dem vorhandenen CKAN Backup werden die auf diesem Weg angelegten Artefakte gesichert und können auch wiederhergestellt werden." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1600" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-11" value="Als Daten-Administrator möchte ich im CKAN einem Katalogeintrag eine oder mehrere Ressourcen hinzufügen können, um den Nutzern so zusätzliche Informationen in verschiedenen Versionen oder Varianten anbieten zu können." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="760" width="639" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-56" target="f4Pi-UDRY6MygHjhPm0S-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-56" value="Review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1000" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-58" target="f4Pi-UDRY6MygHjhPm0S-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-58" value="Änderungen sehen ok aus. Beim Test ist aufgefallen, dass die Auswahl zwischen &#39;Dateiupload&#39; und &#39;Link&#39; beim Erstellen oder Bearbeiten einer Ressource nicht mehr funktioniert. Ein Speichern der Ressource (ohne Daten) ist dennoch möglich. Bitte prüfen, was die Ursache hierbei ist." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="960" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-63" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-60" target="f4Pi-UDRY6MygHjhPm0S-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-60" value="KI-Response" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f4Pi-UDRY6MygHjhPm0S-62" target="f4Pi-UDRY6MygHjhPm0S-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-62" value="&lt;div&gt;Kurzfassung: Wahrscheinlich ist die JS-Eventbindung zum Umschalten zwischen &quot;Dateiupload&quot; und &quot;Link&quot; nicht mehr aktiv, weil durch die Theme-/Template-Änderungen die HTML-Struktur, IDs oder die Art, wie Assets eingebunden werden, verändert wurden. Das erklärt auch, warum das Speichern (Server-seitig) noch funktioniert.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Was wahrscheinlich passiert ist&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Die neuen Templates/Wrapper-Divs (z. B. die hinzugefügten &amp;lt;div id=&quot;resource-add-page&quot;&amp;gt; / &amp;lt;div id=&quot;resource-edit-page&quot;&amp;gt;) haben die DOM-Struktur verändert, sodass die ursprünglichen Selektoren/IDs, auf die das vorhandene JS lauscht, nicht mehr passen.&lt;/div&gt;&lt;div&gt;Oder die Block-/Extend-Änderungen in den Templates verhindern, dass das ursprüngliche JS/CSS-Asset auf der Seite geladen wird (z. B. fehlendes {{ super() }} in scripts/footers oder geänderte block-namen).&lt;/div&gt;&lt;div&gt;Die SCSS-Änderungen referenzieren IDs wie #resource-upload-button / #resource-link-button, aber wenn die tatsächlichen Buttons oder Radio-Inputs in den Snippets anders liegen oder umschlossen sind, greift das JS nicht mehr.&lt;/div&gt;&lt;div&gt;Möglich ist auch ein JavaScript-Fehler beim Laden (z. B. wegen fehlender Abhängigkeit), der das nachträgliche Binden von Event-Handlern verhindert.&lt;/div&gt;&lt;div&gt;Konkrete Prüf-Schritte (am schnellsten aus DevTools)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Konsole prüfen&lt;/div&gt;&lt;div&gt;Seite &quot;Ressource erstellen/bearbeiten&quot; öffnen → DevTools Console: gibt es JS-Fehler? (= häufigster Grund).&lt;/div&gt;&lt;div&gt;DOM prüfen&lt;/div&gt;&lt;div&gt;Suchen nach Elementen/IDs, die das Toggle steuern sollten: resource-upload-button, resource-link-button, radio-Inputs mit name=url_type oder Klassen wie .resource-upload-field .select-type.&lt;/div&gt;&lt;div&gt;Prüfen, ob die Buttons/Inputs noch dieselben IDs/Klassen haben wie vor den Änderungen.&lt;/div&gt;&lt;div&gt;Überprüfen, ob das zuständige JS geladen wird&lt;/div&gt;&lt;div&gt;Im Network-Tab / Sources: nach Scripts suchen, die normalerweise das Toggle machen (z. B. resource_* oder package/resource_form.js). Prüfen, ob sie geladen werden oder fehlen.&lt;/div&gt;&lt;div&gt;In den Templates nach Asset-Includes suchen (z. B. {% asset &#39;...&#39; %} oder Blocks wie scripts/foot) — prüfen, ob {{ super() }} erhalten blieb, damit Standard-Assets geladen werden.&lt;/div&gt;&lt;div&gt;Event-Handler prüfen&lt;/div&gt;&lt;div&gt;In der Konsole: document.querySelectorAll(&#39;...&#39;) für die erwarteten Selektoren ausführen und prüfen, ob Event-Listener vorhanden sind (getEventListeners in Chrome).&lt;/div&gt;&lt;div&gt;Schnelltest&lt;/div&gt;&lt;div&gt;Entfernen/Anpassen des neu hinzugefügten Wrapper-div (z. B. temporär die neue id entfernen) um zu sehen, ob Toggle dann wieder funktioniert — wenn ja, ist es ein Struktur-/Selektor-Problem.&lt;/div&gt;&lt;div&gt;Mögliche Behebungen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Falls IDs/Klassen fehlen oder verschoben wurden: Template so anpassen, dass die originalen IDs/Klassen/Struktur (die das JS erwartet) wieder vorhanden sind, oder das JS an die neue Struktur anpassen.&lt;/div&gt;&lt;div&gt;Falls Assets nicht geladen werden: In den überschreibenden Templates sicherstellen, dass die Blocks, in denen CKAN seine JS/CSS einbindet, nicht vollständig ersetzt werden — stattdessen {{ super() }} aufrufen oder die benötigten asset-Includes wieder hinzufügen.&lt;/div&gt;&lt;div&gt;Alternativ: das Toggle-JS robust gegen Strukturänderungen machen (z. B. event delegation am document/body, oder Selektoren erweitern).&lt;/div&gt;&lt;div&gt;Wenn du möchtest, kann ich gezielt:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;im Repo nach dem JavaScript/Template suchen, das den Upload/Link-Toggle implementiert, und genau die Diskrepanz zwischen dem erwarteten Selektor und der neuen Template-Struktur anzeigen,&lt;/div&gt;&lt;div&gt;oder dir eine Liste der konkreten Stellen (Dateien/blocks/IDs) liefern, die angepasst werden sollten.&lt;/div&gt;&lt;div&gt;Welche Option soll ich als nächstes prüfen? (Ich kann direkt die relevanten Dateien durchsuchen und die genaue Ursache benennen.)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1200" width="810" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-66" value="&lt;div&gt;Kurz: Schau in den mobidplayout-Templates und in den resource-snippets nach — dort wurde die DOM-Struktur verändert, deshalb findet das Toggle-JS die erwarteten IDs/Klassen/Assets nicht mehr. Konkret prüfen und ggf. anpassen kannst du in folgenden Dateien:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Wichtige mobidplayout-Templates (neu/überschrieben) — hier wurde Wrapper-HTML eingefügt:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;python/ckan/ckan/images/ckan/2.10/plugins/ckanext-mobidplayout/ckanext/mobidplayout/templates/package/new_resource_not_draft.html&lt;/div&gt;&lt;div&gt;python/ckan/ckan/images/ckan/2.10/plugins/ckanext-mobidplayout/ckanext/mobidplayout/templates/package/resource_edit.html&lt;/div&gt;&lt;div&gt;python/ckan/ckan/images/ckan/2.10/plugins/ckanext-mobidplayout/ckanext/mobidplayout/templates/package/resource_read.html&lt;/div&gt;&lt;div&gt;python/ckan/ckan/images/ckan/2.10/plugins/ckanext-mobidplayout/ckanext/mobidplayout/templates/package/resource_views.html&lt;/div&gt;&lt;div&gt;python/ckan/ckan/images/ckan/2.10/plugins/ckanext-mobidplayout/ckanext/mobidplayout/templates/package/resources.html&lt;/div&gt;&lt;div&gt;python/ckan/ckan/images/ckan/2.10/plugins/ckanext-mobidplayout/ckanext/mobidplayout/templates/package/read.html&lt;/div&gt;&lt;div&gt;(und die allgemeinen page-Overrides: edit.html, edit_view.html, group_list.html, search.html)&lt;/div&gt;&lt;div&gt;SCSS/Asset-Dateien, die das Markup oder Click-Verhalten beeinflussen können:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;python/ckan/ckan/images/ckan/2.10/plugins/ckanext-mobidplayout/ckanext/mobidplayout/assets/scss/common/_controls.scss&lt;/div&gt;&lt;div&gt;alle neuen/verschobenen SCSS in assets/scss/datasets/... (z. B. resources/_resource_add.scss, resources/_resource_edit.scss)&lt;/div&gt;&lt;div&gt;Weitere Stellen, die das Toggle-JS oder Snippets betreffen:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Das eigentliche Resource-Form-Snippet / Formular (CKAN-Core oder Plugin-snippets):&lt;/div&gt;&lt;div&gt;package/snippets/resource_form.html (oder resource_form_snippet; die mobid-Templates rufen {% snippet resource_form_snippet, ... %} auf)&lt;/div&gt;&lt;div&gt;package/snippets/resource_edit_form.html Diese Dateien liegen in den CKAN-Template-Ordnern (oder können von Extensions überschrieben worden sein). Prüfe, ob die erwarteten Elemente/IDs dort noch vorhanden sind.&lt;/div&gt;&lt;div&gt;Basis-/Layout-Templates / Asset-Includes (wichtig, damit JS geladen wird):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Stelle sicher, dass die überschreibenden Templates die relevanten Blocks nicht komplett ersetzen (sondern {{ super() }} verwenden), damit CKAN seine Standard-JS/CSS-Assets weiterhin einbindet. Prüfe z. B.:&lt;/div&gt;&lt;div&gt;package/resource_edit_base.html (in Core oder Extensions, z. B. plugin/xloader zeigt ein solches Base-Template)&lt;/div&gt;&lt;div&gt;base- oder layout-Templates, die scripts/foot oder asset-Blocks definieren&lt;/div&gt;&lt;div&gt;Was du dort konkret prüfen / ändern solltest&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Suche in den resource-snippets nach den Elementen, auf die das Toggle-JS hört (typisch):&lt;/div&gt;&lt;div&gt;Buttons/Inputs mit IDs wie #resource-upload-button und #resource-link-button&lt;/div&gt;&lt;div&gt;radio-Inputs mit name=&quot;url_type&quot; oder name=&quot;upload&quot; / value=&quot;upload&quot; vs. &quot;link&quot;&lt;/div&gt;&lt;div&gt;container-Klassen wie .resource-upload-field .select-type Wenn diese IDs/Klassen fehlen oder verschoben sind, passe die Template-Markup so an, dass die Selektoren wieder stimmen, oder passe das JS an die neue Struktur an.&lt;/div&gt;&lt;div&gt;Prüfe, ob das JS, das das Umschalten macht, noch geladen wird:&lt;/div&gt;&lt;div&gt;DevTools → Network / Sources: fehlt ein bestimmtes script? (z. B. CKAN-asset, plugin-JS)&lt;/div&gt;&lt;div&gt;In überschreibenden Templates: wird {{ super() }} in den relevanten Blocks aufgerufen? Falls nicht, Assets wieder einbinden.&lt;/div&gt;&lt;div&gt;Prüfe CSS, das Klicks oder Sichtbarkeit beeinflusst (z. B. z-index, pointer-events): Die neuen Regeln rund um a.select2-choice / buttons könnten unerwartet Elemente überdecken oder anklickbar machen.&lt;/div&gt;&lt;div&gt;Falls du das JS robuster machen willst: Verwende event delegation (body/document) statt direktes Binden an συγκεκριerten Elements — so übersteht das Toggle Wrapper-Änderungen.&lt;/div&gt;&lt;div&gt;Kurzcheck-Liste (schnell durchgehen)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Öffne die Seite → DevTools Console: JS-Fehler?&lt;/div&gt;&lt;div&gt;Network: Werden alle JS-Assets geladen?&lt;/div&gt;&lt;div&gt;DOM: Existieren #resource-upload-button, #resource-link-button, radio name=&quot;url_type&quot;?&lt;/div&gt;&lt;div&gt;Wenn nicht: Passe die mobidplayout-Templates (oben aufgelistet) an oder passe das Toggle-JS.&lt;/div&gt;&lt;div&gt;Wenn du willst, nenne ich dir exakt die Zeilen in den betreffenden Template- oder Snippet-Dateien (resource_form.html / resource_edit_form.html und die mobidplayout-Templates), damit du die IDs/Blocks an die alten Erwartungen zurücksetzt — sag mir, ob ich die Core-snippets auch auflisten soll.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1920" width="810" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="f4Pi-UDRY6MygHjhPm0S-68" value="Jinja2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="1120" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
