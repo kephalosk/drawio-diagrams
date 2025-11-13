@@ -4,320 +4,476 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-7" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/462&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/462&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-7" target="m6-y3cwwfS3Qt0wqjgRr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-7" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/462&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/462&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="40" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-29" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-29" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-2">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-3">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-4">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-5">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-6">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-8">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-9">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-10">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-11">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-12">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-13">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-14">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-15">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-16">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-17">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-18">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-19">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-20">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-21">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-22">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-23">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-24">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-25">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-53" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-26">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-53" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-27">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-28" value="mobidrom - cr004" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-28" value="mobidrom - cr004" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1040" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-60" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-1" target="GzSOYbMVtFPcbZGWJc5L-7">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-60" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-1" target="GzSOYbMVtFPcbZGWJc5L-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-1" value="bug/462 - Pen-Test: Informationspreisgabe durch unzureichende Fehlerbehandlung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-1" value="bug/462 - Pen-Test: Informationspreisgabe durch unzureichende Fehlerbehandlung" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-2" target="GzSOYbMVtFPcbZGWJc5L-55">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-2" target="GzSOYbMVtFPcbZGWJc5L-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-2" value="user-story/479 - leere Metadaten-Felder im CKAN-Datenkatalog ausblenden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-2" value="user-story/479 - leere Metadaten-Felder im CKAN-Datenkatalog ausblenden" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="120" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-62" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-3" target="GzSOYbMVtFPcbZGWJc5L-56">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-62" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-3" target="GzSOYbMVtFPcbZGWJc5L-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-3" value="epic/485 -&amp;nbsp;Dateibasierte Datenquellen/-angebote (ohne Import in kanonisches Modell oder PostGIS-DB)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-3" value="epic/485 -&amp;nbsp;Dateibasierte Datenquellen/-angebote (ohne Import in kanonisches Modell oder PostGIS-DB)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-63" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-4" target="GzSOYbMVtFPcbZGWJc5L-57">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-63" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-4" target="GzSOYbMVtFPcbZGWJc5L-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-4" value="503 -&amp;nbsp;Ressourcenverwaltung im CKAN-Datenkatalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-4" value="503 -&amp;nbsp;Ressourcenverwaltung im CKAN-Datenkatalog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="280" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-64" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-5" target="GzSOYbMVtFPcbZGWJc5L-58">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-64" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-5" target="GzSOYbMVtFPcbZGWJc5L-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-5" value="user-story/504 - Lizenz zu einer Ressource pflegen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-5" value="user-story/504 - Lizenz zu einer Ressource pflegen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="360" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-6" target="GzSOYbMVtFPcbZGWJc5L-59">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-6" target="GzSOYbMVtFPcbZGWJc5L-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-6" value="user-story/507 - CKAN-Darstellung der Ressourcen überarbeiten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-6" value="user-story/507 - CKAN-Darstellung der Ressourcen überarbeiten" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="440" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-70" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-8" target="GzSOYbMVtFPcbZGWJc5L-66">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-70" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-8" target="GzSOYbMVtFPcbZGWJc5L-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-8" value="epic/508 - Einbindung von Argo-Workflow Datenquellen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-8" value="epic/508 - Einbindung von Argo-Workflow Datenquellen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="520" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-71" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-9" target="GzSOYbMVtFPcbZGWJc5L-67">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-71" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-9" target="GzSOYbMVtFPcbZGWJc5L-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-9" value="user-story/510 - Argo-Workflow-Datenquelle konfigurieren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-9" value="user-story/510 - Argo-Workflow-Datenquelle konfigurieren" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="600" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-72" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-10" target="GzSOYbMVtFPcbZGWJc5L-68">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-72" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-10" target="GzSOYbMVtFPcbZGWJc5L-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-10" value="user-story/523 - Argo-Workflows in Datenqualitätscockpit einbinden" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-10" value="user-story/523 - Argo-Workflows in Datenqualitätscockpit einbinden" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="680" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-73" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-11" target="GzSOYbMVtFPcbZGWJc5L-69">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-73" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-11" target="GzSOYbMVtFPcbZGWJc5L-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-11" value="bug/536 - Datenangebotsverwaltung - Pflegeintervalle fehlen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-11" value="bug/536 - Datenangebotsverwaltung - Pflegeintervalle fehlen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="760" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-78" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-12" target="GzSOYbMVtFPcbZGWJc5L-74">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-78" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-12" target="GzSOYbMVtFPcbZGWJc5L-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-12" value="epic/546 - Einführung einer Testautomatisierungslösung zur Absicherung der Regressionstests der Mobidrom-Datenplattform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-12" value="epic/546 - Einführung einer Testautomatisierungslösung zur Absicherung der Regressionstests der Mobidrom-Datenplattform" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="840" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-79" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-13" target="GzSOYbMVtFPcbZGWJc5L-75">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-79" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-13" target="GzSOYbMVtFPcbZGWJc5L-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-13" value="epic/549 - Absicherung des Kafka-Zugriffs über ACLs nach Sicherheitsbewertung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-13" value="epic/549 - Absicherung des Kafka-Zugriffs über ACLs nach Sicherheitsbewertung" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="920" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-80" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-14" target="GzSOYbMVtFPcbZGWJc5L-76">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-80" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-14" target="GzSOYbMVtFPcbZGWJc5L-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-14" value="user-story/554 - CKAN-Datensatz - Aktualisierungsdatum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-14" value="user-story/554 - CKAN-Datensatz - Aktualisierungsdatum" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1000" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-81" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-15" target="GzSOYbMVtFPcbZGWJc5L-77">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-81" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-15" target="GzSOYbMVtFPcbZGWJc5L-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-15" value="user-story/559 - Sichtbarkeit von Datenangeboten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-15" value="user-story/559 - Sichtbarkeit von Datenangeboten" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1080" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-85" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-16" target="GzSOYbMVtFPcbZGWJc5L-82">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-85" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-16" target="GzSOYbMVtFPcbZGWJc5L-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-16" value="epic/560 - Sammelissue Pen-Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-16" value="epic/560 - Sammelissue Pen-Test" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1160" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-84" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-17" target="GzSOYbMVtFPcbZGWJc5L-83">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-84" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-17" target="GzSOYbMVtFPcbZGWJc5L-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-17" value="epic/561 - Sammelissue CKAN-Refinement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-17" value="epic/561 - Sammelissue CKAN-Refinement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1240" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-88" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-18" target="GzSOYbMVtFPcbZGWJc5L-86">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-88" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-18" target="GzSOYbMVtFPcbZGWJc5L-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-18" value="user-story/577 - Eindeutige URL für jeden Datensatz im CKAN-Datenkatalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-18" value="user-story/577 - Eindeutige URL für jeden Datensatz im CKAN-Datenkatalog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1320" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-89" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-19" target="GzSOYbMVtFPcbZGWJc5L-87">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-89" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-19" target="GzSOYbMVtFPcbZGWJc5L-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-19" value="epic/578 - Sensible Daten im GIT verschlüsseln" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-19" value="epic/578 - Sensible Daten im GIT verschlüsseln" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1400" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-92" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-20" target="GzSOYbMVtFPcbZGWJc5L-90">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-92" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-20" target="GzSOYbMVtFPcbZGWJc5L-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-20" value="user-story/586 - Privatorganisation anlegen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-20" value="user-story/586 - Privatorganisation anlegen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1480" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-93" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-21" target="GzSOYbMVtFPcbZGWJc5L-91">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-93" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-21" target="GzSOYbMVtFPcbZGWJc5L-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-21" value="user-story/587 - Hinzufügen des Zugriffsrechts &quot;öffentlich&quot; in der Datenquellenverwaltung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-21" value="user-story/587 - Hinzufügen des Zugriffsrechts &quot;öffentlich&quot; in der Datenquellenverwaltung" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1560" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-98" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-22" target="GzSOYbMVtFPcbZGWJc5L-94">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-98" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-22" target="GzSOYbMVtFPcbZGWJc5L-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-22" value="user-story/589 - Argo-Workflow-Datenangebot konfigurieren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-22" value="user-story/589 - Argo-Workflow-Datenangebot konfigurieren" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1640" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-99" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-23" target="GzSOYbMVtFPcbZGWJc5L-95">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-99" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-23" target="GzSOYbMVtFPcbZGWJc5L-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-23" value="user-story/591 - Konfiguration dateibasierter Datenangebote in der Datenangebotsverwaltung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-23" value="user-story/591 - Konfiguration dateibasierter Datenangebote in der Datenangebotsverwaltung" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1720" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-100" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-24" target="GzSOYbMVtFPcbZGWJc5L-96">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-100" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-24" target="GzSOYbMVtFPcbZGWJc5L-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-24" value="epic/593 - Zugriffskonfiguration für Datenangebote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-24" value="epic/593 - Zugriffskonfiguration für Datenangebote" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1800" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-101" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-25" target="GzSOYbMVtFPcbZGWJc5L-97">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-101" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-25" target="GzSOYbMVtFPcbZGWJc5L-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-25" value="user-story/627 - Auswahl und Einrichtung eines Testframeworks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-25" value="user-story/627 - Auswahl und Einrichtung eines Testframeworks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1880" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-104" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-26" target="GzSOYbMVtFPcbZGWJc5L-102">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-104" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-26" target="GzSOYbMVtFPcbZGWJc5L-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-26" value="user-story/628 - Automatisierung eines bestimmten Teils der Regressionstests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-26" value="user-story/628 - Automatisierung eines bestimmten Teils der Regressionstests" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1960" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-105" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-27" target="GzSOYbMVtFPcbZGWJc5L-103">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-105" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-27" target="GzSOYbMVtFPcbZGWJc5L-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-27" value="690 - Sichtung sensibler Daten, Anlegen im Secret-Management, Anpassung aller Dienste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-27" value="690 - Sichtung sensibler Daten, Anlegen im Secret-Management, Anpassung aller Dienste" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="2040" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-55" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/479&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/479&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-55" target="m6-y3cwwfS3Qt0wqjgRr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-55" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/479&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/479&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="120" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-56" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/485&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/485&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-56" target="m6-y3cwwfS3Qt0wqjgRr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-56" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/485&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/485&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="200" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-57" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/503&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/503&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-57" target="m6-y3cwwfS3Qt0wqjgRr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-57" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/503&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/503&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="280" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-58" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/504&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/504&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-58" target="m6-y3cwwfS3Qt0wqjgRr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-58" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/504&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/504&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="360" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-59" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/507&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/507&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-59" target="m6-y3cwwfS3Qt0wqjgRr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-59" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/507&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/507&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="440" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-66" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/508&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/508&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-66" target="m6-y3cwwfS3Qt0wqjgRr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-66" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/508&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/508&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="520" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-67" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/510&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/510&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-67" target="m6-y3cwwfS3Qt0wqjgRr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-67" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/510&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/510&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="600" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-68" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/523&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/523&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-68" target="m6-y3cwwfS3Qt0wqjgRr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-68" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/523&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/523&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="680" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-69" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/523&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/523&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-69" target="m6-y3cwwfS3Qt0wqjgRr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-69" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/523&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/5&lt;/a&gt;36" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="760" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-74" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/546&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/546&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-74" target="m6-y3cwwfS3Qt0wqjgRr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-74" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/546&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/546&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="840" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-75" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/546&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/546&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-75" target="m6-y3cwwfS3Qt0wqjgRr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-75" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/546&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/546&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="920" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-76" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/554&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/554&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-76" target="m6-y3cwwfS3Qt0wqjgRr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-76" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/554&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/554&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1000" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-77" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/559&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/559&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-77" target="m6-y3cwwfS3Qt0wqjgRr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-77" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/559&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/559&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1080" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-82" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/560&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/560&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-82" target="m6-y3cwwfS3Qt0wqjgRr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-82" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/560&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/560&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1160" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-83" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/561&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/561&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-83" target="m6-y3cwwfS3Qt0wqjgRr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-83" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/561&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/561&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1240" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-86" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/577&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/577&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-86" target="m6-y3cwwfS3Qt0wqjgRr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-86" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/577&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/577&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1320" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-87" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/578&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/578&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-87" target="m6-y3cwwfS3Qt0wqjgRr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-87" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/578&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/578&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1400" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-90" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/586&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/586&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-90" target="m6-y3cwwfS3Qt0wqjgRr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-90" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/586&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/586&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1480" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-91" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/587&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/587&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-91" target="m6-y3cwwfS3Qt0wqjgRr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-91" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/587&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/587&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1560" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-94" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/589&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/589&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-94" target="m6-y3cwwfS3Qt0wqjgRr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-94" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/589&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/589&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1640" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-95" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/591&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/591&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-95" target="m6-y3cwwfS3Qt0wqjgRr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-95" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/591&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/591&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1720" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-96" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/593&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/593&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-96" target="m6-y3cwwfS3Qt0wqjgRr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-96" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/593&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/593&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1800" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-97" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/627&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/627&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-97" target="m6-y3cwwfS3Qt0wqjgRr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-97" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/627&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/627&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1880" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-102" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/628&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/628&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-102" target="m6-y3cwwfS3Qt0wqjgRr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-102" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/628&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/628&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1960" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-103" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/690&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/690&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-103" target="m6-y3cwwfS3Qt0wqjgRr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-103" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/690&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/690&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="2040" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-1" value="1PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="40" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-2" value="1PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="120" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-3" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="200" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-4" value="10PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="280" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-5" value="2PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="360" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-6" value="5PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="440" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-7" value="4PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="600" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-8" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="520" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-9" value="1PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="760" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-10" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="680" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-11" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="840" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-12" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="920" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-13" value="2PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1000" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-14" value="6PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1080" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-15" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1160" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-16" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1240" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-17" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="1320" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-18" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="1400" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-19" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="1480" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-20" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="1560" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-21" value="5PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1640" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-22" value="3PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1720" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-23" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="1800" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-24" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1880" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-25" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1960" width="79.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-26" value="0PT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2040" width="79.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
