@@ -88,7 +88,7 @@
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-54" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-28" target="GzSOYbMVtFPcbZGWJc5L-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-28" value="mobidrom - cr004" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-28" value="mobidrom - CR004 - Restaufwände" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="1240" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-60" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-1" target="GzSOYbMVtFPcbZGWJc5L-7" edge="1">
