@@ -843,7 +843,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-206" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-164" target="m6-y3cwwfS3Qt0wqjgRr-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-164" value="Umsetzung gefährdet durch Abstimmungsbedarf" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-164" value="Umsetzung gefährdet durch Abstimmungsbedarf" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="2360" y="1320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-166" value="nach CR006 verschieben?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
@@ -912,7 +912,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-197" value="3. Mit Umsetzung starten von&lt;div&gt;&amp;nbsp;user-story/510 = 4PT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="2680" y="840" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-200" value="Merge-Konflikte lösen von&lt;br&gt;&lt;div&gt;&amp;nbsp;user-story/591&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=#31FFFF;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-200" value="4. Merge-Konflikte lösen von&lt;br&gt;&lt;div&gt;&amp;nbsp;user-story/591 = 1PT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="2680" y="2040" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
