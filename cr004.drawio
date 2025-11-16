@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="28.2.9">
   <diagram name="Seite-1" id="ZnjMjwEt3fux6z1S6ksP">
-    <mxGraphModel dx="1697" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,7 +136,7 @@
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-71" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-9" target="GzSOYbMVtFPcbZGWJc5L-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-9" value="user-story/510 - Argo-Workflow-Datenquelle konfigurieren" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-9" value="user-story/510 - Argo-Workflow-Datenquelle konfigurieren" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;fillColor=#33FF33;" parent="1" vertex="1">
           <mxGeometry x="440" y="800" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-72" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-10" target="GzSOYbMVtFPcbZGWJc5L-68" edge="1">
@@ -214,13 +214,13 @@
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-98" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-22" target="GzSOYbMVtFPcbZGWJc5L-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-22" value="user-story/589 - Argo-Workflow-Datenangebot konfigurieren" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-22" value="user-story/589 - Argo-Workflow-Datenangebot konfigurieren" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;fillColor=#33FF33;" parent="1" vertex="1">
           <mxGeometry x="440" y="1840" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-99" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-23" target="GzSOYbMVtFPcbZGWJc5L-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-23" value="user-story/591 - Konfiguration dateibasierter Datenangebote in der Datenangebotsverwaltung" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" parent="1" vertex="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-23" value="user-story/591 - Konfiguration dateibasierter Datenangebote in der Datenangebotsverwaltung" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;fillColor=#33FF33;" parent="1" vertex="1">
           <mxGeometry x="440" y="1920" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzSOYbMVtFPcbZGWJc5L-100" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GzSOYbMVtFPcbZGWJc5L-24" target="GzSOYbMVtFPcbZGWJc5L-96" edge="1">
@@ -286,7 +286,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-67" target="m6-y3cwwfS3Qt0wqjgRr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-67" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/510&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/510&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-67" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/510&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/510&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" parent="1" vertex="1">
           <mxGeometry x="840" y="800" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-44" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-68" target="m6-y3cwwfS3Qt0wqjgRr-10">
@@ -364,7 +364,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-94" target="m6-y3cwwfS3Qt0wqjgRr-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GzSOYbMVtFPcbZGWJc5L-94" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/589&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/589&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="GzSOYbMVtFPcbZGWJc5L-94" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/589&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/589&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" parent="1" vertex="1">
           <mxGeometry x="840" y="1840" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzSOYbMVtFPcbZGWJc5L-95" target="m6-y3cwwfS3Qt0wqjgRr-22">
@@ -430,7 +430,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-6" value="5PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="1240" y="640" width="79.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-7" value="4PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-7" value="4PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="1240" y="800" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-8" value="0PT" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#999999;glass=1;" vertex="1" parent="1">
@@ -484,7 +484,10 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-128" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-21" target="m6-y3cwwfS3Qt0wqjgRr-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-21" value="5PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-212" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-21" target="m6-y3cwwfS3Qt0wqjgRr-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-21" value="5PT" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="1240" y="1840" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-132" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-22" target="m6-y3cwwfS3Qt0wqjgRr-131">
@@ -660,7 +663,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-107" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-111" target="m6-y3cwwfS3Qt0wqjgRr-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-104" value="eine neue Argo-Workflow-Datenquelle über die Datenquellenverwaltung konfigurieren können" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-104" value="eine neue Argo-Workflow-Datenquelle über die Datenquellenverwaltung konfigurieren können" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="1400" y="800" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-145" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-105" target="m6-y3cwwfS3Qt0wqjgRr-140">
@@ -672,7 +675,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-185" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-105" target="m6-y3cwwfS3Qt0wqjgRr-184">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-105" value="4PT?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-105" value="1PT?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="2200" y="800" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-108" value="noch nicht in Bearbeitung" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
@@ -690,7 +693,7 @@
             <mxPoint x="2200" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-111" value="Umsetzung ausstehend" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-111" value="Review ausstehend" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="1800" y="800" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-113" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-115" target="m6-y3cwwfS3Qt0wqjgRr-114">
@@ -741,13 +744,13 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-130" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-123" target="m6-y3cwwfS3Qt0wqjgRr-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-123" value="Neues Datenangebot mit Argo-Workflows-Datenquellen via Datenangebotsverwaltung erstellen und konfigurieren" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-123" value="Neues Datenangebot mit Argo-Workflows-Datenquellen via Datenangebotsverwaltung erstellen und konfigurieren" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1840" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-124" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-125" target="m6-y3cwwfS3Qt0wqjgRr-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-125" value="Umsetzung ausstehend" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-125" value="Umsetzung ausstehend" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="1800" y="1840" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-148" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-126" target="m6-y3cwwfS3Qt0wqjgRr-140">
@@ -759,7 +762,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-167" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-126" target="m6-y3cwwfS3Qt0wqjgRr-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-126" value="5PT?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-126" value="5PT?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="2200" y="1840" width="79.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-129" target="m6-y3cwwfS3Qt0wqjgRr-111">
@@ -801,7 +804,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-137" value="1PT?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="2200" y="1960" width="79.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-140" value="22PT gesamt Restaufwand für CR004?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-140" value="19PT gesamt Restaufwand für CR004?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="2360" y="1160" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-207" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-150" target="m6-y3cwwfS3Qt0wqjgRr-166">
@@ -810,7 +813,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-210" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-150" target="m6-y3cwwfS3Qt0wqjgRr-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-150" value="Umsetzung gefährdet durch Abhängigkeit zu user-story/510" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-150" value="Umsetzung gefährdet durch Abhängigkeit zu user-story/510" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="2360" y="1800" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-152" value="Warten auf merge von&amp;nbsp;&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/869&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/869&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FFFF66;" vertex="1" parent="1">
@@ -852,7 +855,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-209" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-166" target="m6-y3cwwfS3Qt0wqjgRr-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-166" value="nach CR006 verschieben?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-166" value="nach CR006 verschieben?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="2360" y="1880" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-169" value="nach CR006 verschieben?" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#FF0000;" vertex="1" parent="1">
@@ -891,7 +894,7 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-198" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-184" target="m6-y3cwwfS3Qt0wqjgRr-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-184" value="Mit Umsetzung starten" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-184" value="Review durchführen" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="2360" y="880" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-193" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6-y3cwwfS3Qt0wqjgRr-187" target="m6-y3cwwfS3Qt0wqjgRr-191">
@@ -915,14 +918,17 @@
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-195" value="2. Review durchführen von&lt;div&gt;&amp;nbsp;user-story/507 = 1PT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=default;strokeColor=default;gradientColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="2680" y="640" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-197" value="1. Mit Umsetzung starten von&lt;div&gt;&amp;nbsp;user-story/510 = 4PT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=#31FFFF;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-197" value="&lt;div&gt;Review durchführen von&lt;/div&gt;&lt;div&gt;&amp;nbsp;user-story/510 = 4PT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="2680" y="840" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6-y3cwwfS3Qt0wqjgRr-200" value="4. Merge-Konflikte lösen von&lt;br&gt;&lt;div&gt;&amp;nbsp;user-story/591 = 1PT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="2680" y="2040" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-208" value="2. Mit Umsetzung starten von&lt;div&gt;&amp;nbsp;user-story/510 = 4PT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=#31FFFF;" vertex="1" parent="1">
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-208" value="Mit Umsetzung starten von&lt;div&gt;&amp;nbsp;user-story/589 = 4PT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=#31FFFF;" vertex="1" parent="1">
           <mxGeometry x="2680" y="1840" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6-y3cwwfS3Qt0wqjgRr-211" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-data-platform/pull/296&quot;&gt;https://github.com/Mobidrom/mobidp-data-platform/pull/296&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;gradientColor=#31FFFF;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1760" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
