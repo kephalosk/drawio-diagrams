@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="29.0.3">
   <diagram name="Seite-1" id="Dzsrh6YwMvC1JgAmr5E6">
-    <mxGraphModel>
+    <mxGraphModel dx="1018" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-1" target="J_fL0BtIRvY3yV5KD3YF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-1" target="J_fL0BtIRvY3yV5KD3YF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-1" target="J_fL0BtIRvY3yV5KD3YF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-1" target="J_fL0BtIRvY3yV5KD3YF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-1" target="J_fL0BtIRvY3yV5KD3YF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-1" target="J_fL0BtIRvY3yV5KD3YF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-1" value="ckan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-2" target="J_fL0BtIRvY3yV5KD3YF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-2" value="was?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-3" target="J_fL0BtIRvY3yV5KD3YF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-3" value="wer?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-4" target="J_fL0BtIRvY3yV5KD3YF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-4" value="wo?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-5" target="J_fL0BtIRvY3yV5KD3YF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-5" value="wann?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-6" target="J_fL0BtIRvY3yV5KD3YF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-6" value="warum?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J_fL0BtIRvY3yV5KD3YF-7" target="J_fL0BtIRvY3yV5KD3YF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-7" value="wie?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-14" value="&lt;div&gt;CKAN (ausgesprochen „Sieh-Kan“) ist ein Open-Source-Datenportal-System, das weltweit von Verwaltungen, Forschungseinrichtungen, NGOs und Unternehmen genutzt wird, um Daten zu verwalten, zu katalogisieren und öffentlich bereitzustellen. Oft begegnet man CKAN auf Open-Data-Portalen von Städten, Ländern oder internationalen Organisationen.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CKAN ist ein flexibles, mächtiges und weit verbreitetes System, um Daten professionell zu organisieren und für Nutzer zugänglich zu machen – ein Herzstück vieler Open-Data-Strategien.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="960" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-16" value="Der Name CKAN steht für “Comprehensive Knowledge Archive Network” und beschreibt ein Projekt, das von der Open Knowledge Foundation initiiert wurde. Es hat also keinen persönlichen „Erfinder-Namen“ und ist keine Figur oder Organisation, sondern schlicht ein technisches Werkzeug." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="960" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-18" value="&lt;div&gt;CKAN ist eine Software, die auf einem Server installiert wird.&lt;/div&gt;&lt;div&gt;Das heißt:&lt;/div&gt;&lt;div&gt;Sie „ist“ dort, wo man sie hostet – z. B. in einer Cloud, auf einem eigenen Server, bei einem Hosting-Anbieter.&lt;/div&gt;&lt;div&gt;Der Quellcode liegt öffentlich auf GitHub (Open-Source).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CKAN läuft auf vielen nationalen und regionalen Open-Data-Portalen weltweit, z. B.:&lt;/div&gt;&lt;div&gt;data.gov (USA)&lt;/div&gt;&lt;div&gt;data.gov.uk (UK)&lt;/div&gt;&lt;div&gt;Viele Städte wie Berlin, Wien, Zürich&lt;/div&gt;&lt;div&gt;Forschungsorganisationen und NGOs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="960" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-21" value="&lt;div&gt;CKAN entstand ab 2006/2007 als Projekt der Open Knowledge Foundation.&lt;/div&gt;&lt;div&gt;Es wurde in dieser Zeit erstmals veröffentlicht und danach kontinuierlich weiterentwickelt.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2006–2007: Beginn der Entwicklung; erste Prototypen&lt;/div&gt;&lt;div&gt;2009–2010: CKAN wird von immer mehr Open-Data-Portalen übernommen&lt;/div&gt;&lt;div&gt;ab 2012: Viele nationale Portale weltweit steigen auf CKAN um&lt;/div&gt;&lt;div&gt;heute: CKAN ist eines der meistgenutzten Open-Source-Datenportalsysteme&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CKAN „ist“ seit etwa 2007 da – als dauerhaft weiterentwickeltes Open-Source-Projekt.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="960" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-23" value="&lt;div&gt;CKAN existiert, weil es ein konkretes Problem lösen sollte, das vor seiner Entwicklung kaum adressiert wurde:&lt;/div&gt;&lt;div&gt;Wie kann man große Mengen an offenen, strukturierten Daten so bereitstellen, dass sie auffindbar, verständlich und wiederverwendbar sind?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vor CKAN lagen Datensätze oft verstreut auf Websites, unstrukturiert oder schwer auffindbar.&lt;/div&gt;&lt;div&gt;CKAN sollte einen zentralen Katalog schaffen, in dem Daten sauber beschrieben und durchsuchbar sind.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mit dem Aufkommen der Open-Data-Bewegung (ab 2006) brauchten Regierungen, Städte und Institutionen ein Werkzeug,&lt;/div&gt;&lt;div&gt;um Daten transparent und wiederverwendbar zu veröffentlichen.&lt;/div&gt;&lt;div&gt;CKAN wurde genau für diese Anforderungen gebaut.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Eine der größten Herausforderungen war nicht das Speichern der Dateien,&lt;/div&gt;&lt;div&gt;sondern das Verwalten von Metadaten:&lt;/div&gt;&lt;div&gt;Was bedeutet dieser Datensatz?&lt;/div&gt;&lt;div&gt;Wer hat ihn veröffentlicht?&lt;/div&gt;&lt;div&gt;Wie aktuell ist er?&lt;/div&gt;&lt;div&gt;Unter welcher Lizenz steht er?&lt;/div&gt;&lt;div&gt;CKAN bietet hierfür ein strukturiertes, standardisiertes System.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Datenportale sollten nicht nur für Menschen, sondern auch für Maschinen nutzbar sein.&lt;/div&gt;&lt;div&gt;CKAN wurde mit einer öffentlichen API entwickelt, damit Apps, Webseiten und Analysewerkzeuge&lt;/div&gt;&lt;div&gt;automatisch auf Daten zugreifen können.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Viele existierende Datenportale waren teuer, geschlossen und unflexibel.&lt;/div&gt;&lt;div&gt;CKAN sollte offen, erweiterbar und für jede Organisation nutzbar sein – ohne Lizenzkosten.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CKAN gibt es, um Wissen besser zugänglich zu machen,&lt;/div&gt;&lt;div&gt;Daten fair und offen bereitzustellen&lt;/div&gt;&lt;div&gt;und Organisationen ein Werkzeug zu geben, das Transparenz und Innovation unterstützt.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="960" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="J_fL0BtIRvY3yV5KD3YF-25" value="&lt;div&gt;CKAN ist ein robustes, modulares und erweiterbares Datenportalsystem.&lt;/div&gt;&lt;div&gt;Es wurde entwickelt, um große Mengen von Datensätzen professionell zu verwalten und zugänglich zu machen.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Eigenschaften&lt;/div&gt;&lt;div&gt;Stabil und zuverlässig: Für langfristige Open-Data-Portale gebaut&lt;/div&gt;&lt;div&gt;Erweiterbar: Plugins, Themes, APIs, Integrationen&lt;/div&gt;&lt;div&gt;Benutzerfreundlich: Klare Oberfläche für das Durchsuchen, Filtern und Herunterladen von Daten&lt;/div&gt;&lt;div&gt;Entwicklerfreundlich: Vollständige REST-API für Automatisierung und App-Entwicklung&lt;/div&gt;&lt;div&gt;Offen &amp;amp; transparent: Open Source, von einer Community weltweit weiterentwickelt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Für Besucher:&lt;/div&gt;&lt;div&gt;Man durchsucht Datensätze nach Themen, Stichwörtern, Formaten&lt;/div&gt;&lt;div&gt;Man kann Ressourcen wie CSV, JSON, Geo-Daten oder APIs herunterladen&lt;/div&gt;&lt;div&gt;Visualisierungen, Previews und Metadaten erleichtern das Verständnis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Für Datenbereitsteller:&lt;/div&gt;&lt;div&gt;Einfache Formulare zum Hochladen von Daten&lt;/div&gt;&lt;div&gt;Verwaltung von Organisationen, Rechten und Versionen&lt;/div&gt;&lt;div&gt;Automatische Generierung von API-Endpunkten&lt;/div&gt;&lt;div&gt;Möglichkeit, Datensätze regelmäßig zu aktualisieren&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Architektur:&lt;/div&gt;&lt;div&gt;Backend: Python&lt;/div&gt;&lt;div&gt;Datenbank: PostgreSQL&lt;/div&gt;&lt;div&gt;Suche: Solr oder OpenSearch&lt;/div&gt;&lt;div&gt;Frontend: Jinja2-Templates, JavaScript, Themes frei anpassbar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Plugin-System:&lt;/div&gt;&lt;div&gt;CKAN kann durch Erweiterungen komplett angepasst werden:&lt;/div&gt;&lt;div&gt;neue Datentypen&lt;/div&gt;&lt;div&gt;Geo-Features&lt;/div&gt;&lt;div&gt;Harvesting (Automatisches Einsammeln von Daten aus anderen Portalen)&lt;/div&gt;&lt;div&gt;Single Sign-on&lt;/div&gt;&lt;div&gt;Dashboards, Visualisierungen, Workflow-Automatisierung&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Das Standard-Theme ist funktional, klar und schlicht aufgebaut, lässt sich aber flexibel umgestalten. Viele Portale verwenden eigene Designs, sodass CKAN sehr unterschiedlich aussehen kann.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CKAN ist ein leistungsfähiges, flexibles und verständliches System, das Daten strukturiert, durchsuchbar und verlässlich zugänglich macht – sowohl für Endnutzer als auch für Entwickler und Datenverantwortliche.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="960" width="960" height="560" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
