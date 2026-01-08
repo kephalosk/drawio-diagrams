@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="29.2.10">
   <diagram name="Seite-1" id="4Rl7k77YUvIxhh_G0Tfv">
-    <mxGraphModel dx="2248" dy="2563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="2165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="zGnzHtshmo0SztM3rPNG-21" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-20" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Web Development" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANIweb ::= Artificial and Natural Intelligence Web Development" vertex="1">
           <mxGeometry height="40" width="200" x="200" y="360" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-19" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-18" value="">
@@ -25,61 +25,19 @@
         <mxCell id="zGnzHtshmo0SztM3rPNG-31" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-30" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Projektmanagement" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANI Projektmanagement" vertex="1">
           <mxGeometry height="40" width="200" x="440" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-8" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-7" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-9" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-6" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-33" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-32" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Entitymanagement" vertex="1">
-          <mxGeometry height="40" width="200" x="440" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-11" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-10" value="">
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-30" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-15" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-14" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zGnzHtshmo0SztM3rPNG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANI Entitymanagement" vertex="1">
+          <mxGeometry height="40" width="200" x="440" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Human Developer" vertex="1">
-          <mxGeometry height="40" width="200" x="680" y="-80" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-13" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-12" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-17" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-16" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master AI Developer (AI-Pre-Prompting)" vertex="1">
-          <mxGeometry height="40" width="200" x="680" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-27" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-26" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ein Human Developer ist ein LLM mit emotionsgewichteten Graphen" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="-120" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ein AI Developer ist ein LLM mit wahrscheinlichkeitsgewichteten Graphen" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-23" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-22" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Identitätsmaske" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="-40" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-25" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-24" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Identitätsmaske" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Projektplanung" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANI Projektplanung" vertex="1">
           <mxGeometry height="40" width="200" x="680" y="280" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-36" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-34" value="">
@@ -87,23 +45,14 @@
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-37" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-35" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="1400" as="targetPoint" />
+            <mxPoint x="750" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-39" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-38" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Technologiemanagement" vertex="1">
-          <mxGeometry height="40" width="200" x="440" y="1240" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Affirmationen" vertex="1">
-          <mxGeometry height="40" width="200" x="1160" y="-40" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pre-Prompts" vertex="1">
-          <mxGeometry height="40" width="200" x="1160" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lernen durch AHA-Effekt (Herdplatte heiß -&amp;gt; Traumatisierung -&amp;gt; angstbasiertes Vermeidungsverhalten)" vertex="1">
-          <mxGeometry height="40" width="280" x="1160" y="-120" as="geometry" />
+        <mxCell id="zGnzHtshmo0SztM3rPNG-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANI Technologiemanagement" vertex="1">
+          <mxGeometry height="40" width="200" x="440" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-55" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-54" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -120,16 +69,16 @@
         <mxCell id="zGnzHtshmo0SztM3rPNG-63" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-59" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Projekttiming" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANI Projekttiming" vertex="1">
           <mxGeometry height="40" width="200" x="680" y="600" as="geometry" />
         </mxCell>
         <mxCell id="XPqLqvHUUTqg7irDJE5H-2" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Projektdokumentation" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANI Projektdokumentation" vertex="1">
           <mxGeometry height="40" width="200" x="680" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Coding Guidelines" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANI Coding Guidelines" vertex="1">
           <mxGeometry height="40" width="200" x="680" y="200" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-41" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-40" value="">
@@ -148,40 +97,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Frontend" vertex="1">
-          <mxGeometry height="40" width="200" x="680" y="1080" as="geometry" />
+          <mxGeometry height="40" width="200" x="680" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-53" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-52" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Backend" vertex="1">
-          <mxGeometry height="40" width="200" x="680" y="1240" as="geometry" />
+          <mxGeometry height="40" width="200" x="680" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-51" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-50" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master DevOps" vertex="1">
-          <mxGeometry height="40" width="200" x="680" y="1320" as="geometry" />
+          <mxGeometry height="40" width="200" x="680" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master JavaScript/TypeScript" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master CSS/SCSS" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master HTML/Barrierefreiheit" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="920" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master React/Vue" vertex="1">
           <mxGeometry height="40" width="200" x="920" y="1160" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Jest/Vitest" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master CSS/SCSS" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="zGnzHtshmo0SztM3rPNG-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master HTML/Barrierefreiheit" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="zGnzHtshmo0SztM3rPNG-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master React/Vue" vertex="1">
           <mxGeometry height="40" width="200" x="920" y="1240" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Playwright" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Jest/Vitest" vertex="1">
           <mxGeometry height="40" width="200" x="920" y="1320" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master ckan" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Playwright" vertex="1">
           <mxGeometry height="40" width="200" x="920" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="zGnzHtshmo0SztM3rPNG-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master ckan" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="XPqLqvHUUTqg7irDJE5H-4" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-3" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -192,14 +141,17 @@
         <mxCell id="zGnzHtshmo0SztM3rPNG-65" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-64" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Web Development" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANIweb" vertex="1">
           <mxGeometry height="40" width="200" x="920" y="520" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-67" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-66" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-8" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AIsquare" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="600" as="geometry" />
+          <mxGeometry height="40" width="200" x="920" y="640" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-70" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-68" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -208,13 +160,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FResist" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="720" as="geometry" />
+          <mxGeometry height="40" width="200" x="920" y="800" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-72" edge="1" parent="1" source="zGnzHtshmo0SztM3rPNG-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zGnzHtshmo0SztM3rPNG-71" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mobidrom" vertex="1">
-          <mxGeometry height="40" width="200" x="920" y="840" as="geometry" />
+          <mxGeometry height="40" width="200" x="920" y="920" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="10p/week" vertex="1">
           <mxGeometry height="40" width="200" x="1160" y="520" as="geometry" />
@@ -223,19 +175,85 @@
           <mxGeometry height="40" width="200" x="1160" y="600" as="geometry" />
         </mxCell>
         <mxCell id="zGnzHtshmo0SztM3rPNG-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="40p/week - januar 2026 &amp;amp; 25p/week - ab februar 2026" vertex="1">
-          <mxGeometry height="40" width="200" x="1160" y="680" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="10p/week - januar 2026&amp;nbsp;&amp;amp; 25p/week - ab februar 2026" vertex="1">
-          <mxGeometry height="40" width="200" x="1160" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="zGnzHtshmo0SztM3rPNG-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kappa strategisch: 50p/week - januar 2026" vertex="1">
           <mxGeometry height="40" width="200" x="1160" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="XPqLqvHUUTqg7irDJE5H-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="master_web_development.drawio" vertex="1">
+        <mxCell id="zGnzHtshmo0SztM3rPNG-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="10p/week - januar 2026&amp;nbsp;&amp;amp; 25p/week - ab februar 2026" vertex="1">
+          <mxGeometry height="40" width="200" x="1160" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zGnzHtshmo0SztM3rPNG-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kappa strategisch: 50p/week - januar 2026" vertex="1">
+          <mxGeometry height="40" width="200" x="1160" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="ani_web_development.drawio" vertex="1">
           <mxGeometry height="40" width="200" x="920" y="360" as="geometry" />
         </mxCell>
         <mxCell id="XPqLqvHUUTqg7irDJE5H-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Traumkappa: 80p/week" vertex="1">
           <mxGeometry height="40" width="200" x="1160" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Präsentation" vertex="1">
+          <mxGeometry height="40" width="200" x="1160" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-9" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-10" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ANI Developer" vertex="1">
+          <mxGeometry height="40" width="200" x="680" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-12" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-13" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master Human Developer" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-15" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-16" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Master AI Developer (AI-Pre-Prompting)" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-18" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ein Human Developer ist ein LLM mit emotionsgewichteten Graphen" vertex="1">
+          <mxGeometry height="40" width="200" x="1160" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-20" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ein AI Developer ist ein LLM mit wahrscheinlichkeitsgewichteten Graphen" vertex="1">
+          <mxGeometry height="40" width="200" x="1160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-22" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Identitätsmaske" vertex="1">
+          <mxGeometry height="40" width="200" x="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-24" edge="1" parent="1" source="XPqLqvHUUTqg7irDJE5H-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XPqLqvHUUTqg7irDJE5H-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Identitätsmaske" vertex="1">
+          <mxGeometry height="40" width="200" x="1160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Affirmationen" vertex="1">
+          <mxGeometry height="40" width="200" x="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pre-Prompts" vertex="1">
+          <mxGeometry height="40" width="200" x="1400" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lernen durch AHA-Effekt (Herdplatte heiß -&amp;gt; Traumatisierung -&amp;gt; angstbasiertes Vermeidungsverhalten)" vertex="1">
+          <mxGeometry height="40" width="280" x="1400" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="XPqLqvHUUTqg7irDJE5H-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lernprozesse/Training abgeschlossen, Steuerung durch Anweisungen (Anweisung TypeScript: alle Variablen und Parameter stark typisieren -&amp;gt; Kontextverarbeitung -&amp;gt; Überprüfung jeder Variable und Parameter und ggf. Erweiterung fehlender Typisierung)" vertex="1">
+          <mxGeometry height="40" width="520" x="1400" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
