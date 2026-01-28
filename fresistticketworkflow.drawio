@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="29.3.4">
+  <diagram name="Seite-1" id="bcD5-6D6A_SRbauB4KY-">
+    <mxGraphModel dx="1454" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://jira.materna.net/browse/FRESIST-1221&quot;&gt;https://jira.materna.net/browse/FRESIST-1221&lt;/a&gt;" vertex="1">
+          <mxGeometry height="40" width="280" x="80" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-3" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-5" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FRESIST-1221 - [FE] Frontend-/Backend-Verknüpfung: Version freigeben" vertex="1">
+          <mxGeometry height="40" width="280" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-7" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Intentionsklärung" vertex="1">
+          <mxGeometry height="40" width="280" x="400" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-9" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Was für eine Art Problem soll gelöst werden?" vertex="1">
+          <mxGeometry height="40" width="280" x="720" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-11" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add new Backend Service" vertex="1">
+          <mxGeometry height="40" width="280" x="1040" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-13" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-17" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Doku" vertex="1">
+          <mxGeometry height="40" width="280" x="1360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-15" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="https://wiki.materna.net/x/oQHnHg" vertex="1">
+          <mxGeometry height="40" width="280" x="1360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HowTo add a new Backend Service in Vue" vertex="1">
+          <mxGeometry height="40" width="280" x="1360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-19" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-21" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Next Steps" vertex="1">
+          <mxGeometry height="40" width="280" x="1680" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-31" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Check API documentation" vertex="1">
+          <mxGeometry height="40" width="280" x="2000" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-23" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-25" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-27" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-29" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Check anzubindene Endpunkte" vertex="1">
+          <mxGeometry height="40" width="280" x="2000" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST /public-events/{public_event_id}/security-concepts/versions/release" vertex="1">
+          <mxGeometry height="40" width="280" x="2320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST /public-events/{public_event_id}/security-concepts/versions/draft" vertex="1">
+          <mxGeometry height="40" width="280" x="2320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST /public-events/{public_event_id}/security-concepts/versions/number/{version_num}/share" vertex="1">
+          <mxGeometry height="40" width="280" x="2320" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GET /public-events/{public_event_id}/security-concepts/versions" vertex="1">
+          <mxGeometry height="40" width="280" x="2320" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-33" edge="1" parent="1" source="dOF2IHOtsRfjQDYDQ64M-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dOF2IHOtsRfjQDYDQ64M-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="https://gitlab.materna.work/proj-fresist-001/backend-services/rest-api/public-event-api/-/blob/main/openapi/openapi.json" vertex="1">
+          <mxGeometry height="40" width="280" x="2000" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dOF2IHOtsRfjQDYDQ64M-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="https://editor.swagger.io" vertex="1">
+          <mxGeometry height="40" width="280" x="2000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
