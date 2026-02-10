@@ -1,9 +1,110 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15" version="29.3.8">
   <diagram name="Seite-1" id="kNT8ItYoxz57ANJbjShQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1018" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-3" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bewusstsein fokussieren" vertex="1">
+          <mxGeometry height="40" width="200" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-5" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. zu lösendes Problem" vertex="1">
+          <mxGeometry height="40" width="200" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-7" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-13" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="[User Story]: Eindeutige URL für jeden Datensatz im CKAN-Datenkatalog #577" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-9" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-planning/issues/577&quot;&gt;https://github.com/Mobidrom/mobidp-planning/issues/577&lt;/a&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-11" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="feature/577 ckan redirect in api gateway#390" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a href=&quot;https://github.com/Mobidrom/mobidp-data-platform/pull/390&quot;&gt;https://github.com/Mobidrom/mobidp-data-platform/pull/390&lt;/a&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-15" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenfluss-Diagramm" vertex="1">
+          <mxGeometry height="40" width="200" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-17" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="für jeden veröffentlichten CKAN-Datensatz eine dauerhafte, eindeutige, teilbare API-URL" vertex="1">
+          <mxGeometry height="40" width="200" x="520" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-19" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aufruf API-URL" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-22" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dauSPjSbRWiKDdZ_-KB4-21" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Weiterleitung ans Backend" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-25" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mapping auf&amp;nbsp;„sprechende“ SEO-URL" vertex="1">
+          <mxGeometry height="40" width="120" x="760" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-30" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aufruf SEO-URL" vertex="1">
+          <mxGeometry height="40" width="120" x="920" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-32" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Weiterleitung an Frontend-Service" vertex="1">
+          <mxGeometry height="40" width="120" x="920" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-34" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MobiDP wird geladen" vertex="1">
+          <mxGeometry height="40" width="120" x="920" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-36" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Router hat SEO-URL" vertex="1">
+          <mxGeometry height="40" width="120" x="920" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-38" edge="1" parent="1" source="dauSPjSbRWiKDdZ_-KB4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dauSPjSbRWiKDdZ_-KB4-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="App lädt ckan wie gewohnt über iFrame und zeigt Datensatz an" vertex="1">
+          <mxGeometry height="40" width="140" x="910" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="dauSPjSbRWiKDdZ_-KB4-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="next step: open ckan wie bisher" vertex="1">
+          <mxGeometry height="40" width="120" x="1080" y="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
