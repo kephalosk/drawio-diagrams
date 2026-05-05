@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="KQ5BoIzBOyMgq-pGERXE">
-    <mxGraphModel dx="1919" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2840" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,37 +11,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mobidrom" vertex="1">
-          <mxGeometry height="40" width="240" x="80" y="80" as="geometry" />
+          <mxGeometry height="40" width="240" x="-1520" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-5" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-4" value="">
+        <mxCell id="Lmocth8-zrJSxd0wN2li-1" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ziel" vertex="1">
-          <mxGeometry height="40" width="240" x="80" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-8" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-7" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-10" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-9" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="40" width="240" x="-1520" y="390" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-61" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-60" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dem Nutzer Daten anbieten, damit er sie für seine eigenen Projekte nutzen kann." vertex="1">
-          <mxGeometry height="40" width="240" x="80" y="320" as="geometry" />
+        <mxCell id="Lmocth8-zrJSxd0wN2li-5" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-2" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Daten sammeln aus unterschiedlichen Quellen" vertex="1">
-          <mxGeometry height="40" width="240" x="80" y="400" as="geometry" />
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nutzern Daten anbieten über eine Plattform, damit diese sie für ihre eigenen Projekte nutzen können." vertex="1">
+          <mxGeometry height="60" width="240" x="-1240" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dem Nutzer eine Möglichkeit geben zur Verwaltung von angebotenen Daten." vertex="1">
-          <mxGeometry height="40" width="240" x="360" y="320" as="geometry" />
+        <mxCell id="Lmocth8-zrJSxd0wN2li-14" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Administratoren der Plattform brauchen ein UI zur Verwaltung aller Quellen aus denen die angebotenen Daten gesammelt werden." vertex="1">
+          <mxGeometry height="50" width="240" x="-680" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-12" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Administratoren der Plattform brauchen ein UI zur Verwaltung von angebotenen Daten." vertex="1">
+          <mxGeometry height="40" width="240" x="-680" y="280" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-13" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fachlicher Kontext" vertex="1">
-          <mxGeometry height="40" width="240" x="80" y="160" as="geometry" />
+          <mxGeometry height="40" width="240" x="-1520" y="200" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-17" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-16" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -117,12 +122,6 @@
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-52" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-49" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-54" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1200" y="-870" as="sourcePoint" />
-            <mxPoint x="1360" y="-830" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-72" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-62" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -226,8 +225,11 @@
         <mxCell id="QD2YlCtqEmp9hikeIm1K-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="react/src/components/Datenquellenverwaltung/&lt;br&gt;react/src/hooks/Datenquellenverwaltung/&lt;br&gt;react/src/models/Datenquellenverwaltung/&lt;br&gt;react/src/objects/Datenquellenverwaltung/&lt;br&gt;react/src/pages/DatenquellenverwaltungPage.tsx&lt;br&gt;react/src/services/Datenquellenverwaltung/&lt;br&gt;react/src/stores/Datenquellenverwaltung/&lt;br&gt;react/src/utils/Datenquellenverwaltung/" vertex="1">
           <mxGeometry height="120" width="280" x="2680" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beispiel: Der Nutzer will eine App bauen, die Ladesäulen in der Nähe anzeigt. Dafür braucht er die Koordinaten der Ladesäulen." vertex="1">
-          <mxGeometry height="40" width="240" x="-200" y="320" as="geometry" />
+        <mxCell id="Lmocth8-zrJSxd0wN2li-4" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beispiel" vertex="1">
+          <mxGeometry height="40" width="240" x="-960" y="200" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-65" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-64" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -295,7 +297,7 @@
         <mxCell id="QD2YlCtqEmp9hikeIm1K-160" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-159" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="(KI-freundliche) Coding-Empfehlungen (Ziel: Vermeidung von Kontextvermischung, Side-Effects, Kontext-Overload)" vertex="1">
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="(KI-freundliche) Coding-Empfehlungen (Ziel: Vermeidung von Kontextvermischung, Side-Effects, Kontext-Overload bei KI-Agenten)" vertex="1">
           <mxGeometry height="60" width="280" x="2040" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="wo möglich Single Responsibility Principle anwenden" vertex="1">
@@ -462,6 +464,122 @@
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="change/${issue-number} kurze beschreibung für Änderungen, die nicht abgenommen werden müssen (z.B. Dependency-Updates)" vertex="1">
           <mxGeometry height="60" width="280" x="1080" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-7" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-8" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-680" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-20" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Voraussetzungen" vertex="1">
+          <mxGeometry height="40" width="240" x="-960" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ein Nutzer will eine App bauen, die Ladesäulen in der Nähe anzeigt. Dafür braucht er die Koordinaten der Ladesäulen. Die mobidrom-Plattform stellt diese bereit." vertex="1">
+          <mxGeometry height="70" width="240" x="-680" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-16" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lösung" vertex="1">
+          <mxGeometry height="40" width="120" x="-400" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-18" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lösung" vertex="1">
+          <mxGeometry height="40" width="120" x="-400" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-28" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-30" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-32" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-40" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="separate Seite im Admin-Bereich der Plattform für die Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="40" width="380" x="-240" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-26" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-36" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-42" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-43" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-44" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-45" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="separate Seite im Admin-Bereich der Plattform für die Datenquellenverwaltung" vertex="1">
+          <mxGeometry height="40" width="380" x="-240" y="560.31" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-22" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="einheitliche Formate für die bereitgestellten Daten" vertex="1">
+          <mxGeometry height="40" width="240" x="-680" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-24" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lösung" vertex="1">
+          <mxGeometry height="40" width="120" x="-400" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-25" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-37" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-38" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-46" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Definition einheitlicher Formate mit Hilfe sogenannter System-Adapter (Stand 5.5.26 gibt es 8 Arten von Adaptern (&#39;GBFS&#39;,&#39;GTFS&#39;,&#39;GTFS-RT&#39;,&#39;Holger Bruch Haltestellen&#39;,&#39;Mobilithek Baustellen&#39;,&#39;Mobilithek Parkplätze&#39;,&#39;VRR Status&#39;,&#39;VRR Bike &amp;amp; Ride&#39;). Dazu gibt es als 9. die Möglichkeit manuelle KStore-Tabellen anzulegen und Dateien hochzuladen" vertex="1">
+          <mxGeometry height="100" width="380" x="-240" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Übersicht von Datenangeboten in einer Tabelle" vertex="1">
+          <mxGeometry height="40" width="240" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bearbeitung von Datenangeboten über ein Dialog-Modal" vertex="1">
+          <mxGeometry height="40" width="240" x="200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Löschung von Datenangeboten über ein Dialog-Modal" vertex="1">
+          <mxGeometry height="40" width="240" x="200" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Übersicht von Datenquellen in einer Tabelle" vertex="1">
+          <mxGeometry height="40" width="240" x="200" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bearbeitung von&amp;nbsp;Datenquellen auf Grundlage des ausgewählten Adapters über ein Dialog-Modal" vertex="1">
+          <mxGeometry height="50" width="240" x="200" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Löschung von&amp;nbsp;Datenquellen auf Grundlage des ausgewählten Adapters über ein Dialog-Modal" vertex="1">
+          <mxGeometry height="50" width="240" x="200" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Erstellung von Datenangeboten über ein Dialog-Modal" vertex="1">
+          <mxGeometry height="40" width="240" x="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hinzufügen von Datenquellen auf Grundlage des ausgewählten Adapters über ein Dialog-Modal" vertex="1">
+          <mxGeometry height="50" width="240" x="200" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
