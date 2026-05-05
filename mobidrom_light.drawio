@@ -1,0 +1,469 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="KQ5BoIzBOyMgq-pGERXE">
+    <mxGraphModel dx="1919" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-12" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-15" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mobidrom" vertex="1">
+          <mxGeometry height="40" width="240" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-5" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ziel" vertex="1">
+          <mxGeometry height="40" width="240" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-8" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-10" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-61" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dem Nutzer Daten anbieten, damit er sie für seine eigenen Projekte nutzen kann." vertex="1">
+          <mxGeometry height="40" width="240" x="80" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Daten sammeln aus unterschiedlichen Quellen" vertex="1">
+          <mxGeometry height="40" width="240" x="80" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dem Nutzer eine Möglichkeit geben zur Verwaltung von angebotenen Daten." vertex="1">
+          <mxGeometry height="40" width="240" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-13" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fachlicher Kontext" vertex="1">
+          <mxGeometry height="40" width="240" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-17" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-32" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-136" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-119" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="technischer Kontext" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-145" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-143" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Entwicklungsprozess" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-23" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-138" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-137" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-140" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-139" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-142" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-141" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Branch aus aktuellem Release-Branch erstelllen nach Namenskonvention" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-24" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-165" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-162" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-166" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-163" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-167" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-164" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PR erstellen mit Titel nach Namenskonvention (Achtung: Titel muss lowercase beginnen)" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-26" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="für Deployment auf DEV den PR kommentieren mit: --deploy-dev" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-57" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Deployment abwarten(Dauer ~12min) und anschließend&amp;nbsp;aufrufen über http://dev.mobilitaetsdaten.nrw/" vertex="1">
+          <mxGeometry height="50" width="280" x="760" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-56" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-55" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Review anfragen" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-34" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-36" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-52" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-54" edge="1" parent="1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="-870" as="sourcePoint" />
+            <mxPoint x="1360" y="-830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-72" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-73" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-70" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-75" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-74" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-79" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-78" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-85" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-97" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-96" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-101" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-100" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-152" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-150" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-161" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Code-Struktur" vertex="1">
+          <mxGeometry height="40" width="280" x="1720" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-38" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kein Global State Management bisher" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-40" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-42" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Frontend Logic-Entrypoints für alte Architektur" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-83" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stattdessen MODAL_GETTERS / MODAL_SETTERS zur State-Verwaltung" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-44" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenquellenverwaltung" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-46" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="react/src/components/pages/dataEntry_configuration/DataEntryConfiguration.tsx" vertex="1">
+          <mxGeometry height="40" width="280" x="2680" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="react/src/components/pages/feedbundle_configuration/FeedBundleConfiguration.tsx" vertex="1">
+          <mxGeometry height="40" width="280" x="2680" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-48" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-66" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Frontend Logic-Entrypoints für neue Architektur" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="520.31" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-59" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenquellenverwaltung" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-68" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Einbindung externer Dienste über IFrames (z.B. ckan - Datenverwaltungssystem)" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-112" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nach erfolgreichem Review für Übergabe an QA am PR kommentieren mit: --readytest" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="react/src/components/Datenquellenverwaltung/&lt;br&gt;react/src/hooks/Datenquellenverwaltung/&lt;br&gt;react/src/models/Datenquellenverwaltung/&lt;br&gt;react/src/objects/Datenquellenverwaltung/&lt;br&gt;react/src/pages/DatenquellenverwaltungPage.tsx&lt;br&gt;react/src/services/Datenquellenverwaltung/&lt;br&gt;react/src/stores/Datenquellenverwaltung/&lt;br&gt;react/src/utils/Datenquellenverwaltung/" vertex="1">
+          <mxGeometry height="120" width="280" x="2680" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beispiel: Der Nutzer will eine App bauen, die Ladesäulen in der Nähe anzeigt. Dafür braucht er die Koordinaten der Ladesäulen." vertex="1">
+          <mxGeometry height="40" width="240" x="-200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-65" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Namenskonvention alte Architektur" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fachlich englisch, technisch englisch (z.B:&amp;nbsp;FeedBundleConfiguration.tsx)" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="react/src/components/Datenangebotsverwaltung/&lt;br&gt;react/src/hooks/Datenangebotsverwaltung/&lt;br&gt;react/src/models/Datenangebotsverwaltung/&lt;br&gt;react/src/objects/Datenangebotsverwaltung/&lt;br&gt;react/src/pages/DatenangebotsverwaltungPage.tsx&lt;br&gt;react/src/services/Datenangebotsverwaltung/&lt;br&gt;react/src/stores/Datenangebotsverwaltung/&lt;br&gt;react/src/utils/Datenangebotsverwaltung/" vertex="1">
+          <mxGeometry height="119.69" width="280" x="2680" y="560.31" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-69" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-71" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Namenskonvention neue Architektur" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fachlich deutsch, technisch englisch (z.B: DatenangebotsverwaltungPage.tsx)" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-77" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API-Requests erfolgen direkt über fetch" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bisher kein eigener API-Layer mit Services/Mapper/DTO&#39;s/Domain-Models/Error-Handling" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-81" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wenn möglich, wo es geht Typen aus dem kanonischen Datenmodell nutzen" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="java/datenmodell/target/typescript-generator/data-model.ts" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="react/src/components/pages/dataEntry_configuration/dataEntry_configuration_modal/DataEntryContext.tsx" vertex="1">
+          <mxGeometry height="70" width="280" x="2680" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-87" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-89" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-88" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-103" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-105" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-104" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-107" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-106" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-109" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-108" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-156" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-155" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-160" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-159" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="(KI-freundliche) Coding-Empfehlungen (Ziel: Vermeidung von Kontextvermischung, Side-Effects, Kontext-Overload)" vertex="1">
+          <mxGeometry height="60" width="280" x="2040" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="wo möglich Single Responsibility Principle anwenden" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-93" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-90" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-94" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-91" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-95" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="100% Unit Test Abdeckung anstreben" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="manuelle Unit Test-Erstellung" vertex="1">
+          <mxGeometry height="40" width="280" x="2680" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-114" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-113" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kI-generierte Unit Test-Erstellung mit Hilfe von kontextabgegrenzten GPT-5-KI-Agenten" vertex="1">
+          <mxGeometry height="40" width="280" x="2680" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kI-generierte Unit Test-Erstellung mit Hilfe von spec-Files" vertex="1">
+          <mxGeometry height="40" width="280" x="2680" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-99" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-98" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kein globaler Styling-Guide" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stattdessen einzelne scss-Dateien einzelner Komponenten importiert über App.scss in Layout.tsx" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dependencies veraltet" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="starke Typisierung aller Variablen/Returns statt Type Inference" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kleine, atomare Module bevorzugen mit wenigen consts oder best case single consts je modul named exportiert" vertex="1">
+          <mxGeometry height="50" width="280" x="2360" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Deep-Nesting vermeiden und ab Nesting-Tiefe 3 refactoren" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="semantische Programmierung mit eindeutig zugeordneten Datei- und Variablen-Namen" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ticket im Abschnitt Projects auf &quot;In QA&quot; setzen" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="neuen Chat öffnen mit Modus Agent und Modell gpt-5.4-medium ausführen und folgenden Prompt eingeben: &quot;führe aus react/prompts/agents/anni1_T_Unit-Tester_Jest-React-TS.standalone.de.md&quot;" vertex="1">
+          <mxGeometry height="90" width="280" x="3000" y="1415" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-117" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ticket im Abschnitt Projects auf &quot;In Development&quot; setzen und Status Development auf &quot;In Progress&quot; und ggf. auf aktuellen Sprint stellen" vertex="1">
+          <mxGeometry height="50" width="280" x="760" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-118" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-134" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="lokale Entwicklung" vertex="1">
+          <mxGeometry height="40" width="280" x="760" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-120" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-123" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Docker Desktop / Rancher Desktop starten" vertex="1">
+          <mxGeometry height="40" width="280" x="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-122" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-123" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-125" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="./developer-shell.sh im Root-Ordner der mobidp-data-platform ausführen" vertex="1">
+          <mxGeometry height="40" width="280" x="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-124" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-127" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cd nach java/xmi-tool und dort mvn clean install ausführen" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-126" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-127" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-129" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cd nach java/datenmodell und dort mvn clean install ausführen" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-128" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-131" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2e5d5fe8162e87397e6b6c4f9d17777deb8cd34d cherry picken (Entfernung von HTTP-Sec-Header)" vertex="1">
+          <mxGeometry height="40" width="280" x="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-130" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-132" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1290ad51ee74f9d6349cfda6a900181b6d8416e7 cherry picken (Setup-Prompts für KI-Agenten)" vertex="1">
+          <mxGeometry height="40" width="280" x="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cd nach react/ und npm install und npm run dev ausführen" vertex="1">
+          <mxGeometry height="40" width="280" x="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-133" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-134" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-121" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Repo git@github.com:Mobidrom/mobidp-data-platform.git klonen" vertex="1">
+          <mxGeometry height="40" width="280" x="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="feature/${issue-number}-kurze-beschreibung für User-Stories (z.B.: feature/1125-refactor-backup-page)" vertex="1">
+          <mxGeometry height="60" width="280" x="1080" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bugfix/${issue-number}-kurze-beschreibung für Bugs und Findings" vertex="1">
+          <mxGeometry height="40" width="280" x="1080" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="change/${issue-number}-kurze-beschreibung für Änderungen, die nicht abgenommen werden müssen (z.B. Dependency-Updates)" vertex="1">
+          <mxGeometry height="60" width="280" x="1080" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-148" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-147" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="https://github.com/orgs/Mobidrom/projects/24/views/16 öffnen und Ticket auswählen" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-149" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-147" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-115" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alle Assignees unassignen und nur dir das Ticket zuweisen" vertex="1">
+          <mxGeometry height="40" width="280" x="760" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-154" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-153" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Service Worker, der alle fetch-Requests abfängt, um für ckan-calls aus IFrames &quot;No-Redirect&quot; zu setzen" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Service Worker, der alle fetch-Requests abfängt, um für ckan-calls aus IFrames &quot;No-Redirect&quot; zu setzen" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-158" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-155" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-157" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beispiel für meinen Coding-Stil" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="react/src/sw-ckan-noredirect.ts" vertex="1">
+          <mxGeometry height="40" width="280" x="2680" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Methoden möglichst überschaubar halten (&amp;lt;50 Zeilen, wenn möglich)" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-162" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="feature/${issue-number} kurze beschreibung für User-Stories (z.B.: feature/1125 refactor backup page)" vertex="1">
+          <mxGeometry height="60" width="280" x="1080" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-163" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bugfix/${issue-number} kurze beschreibung für Bugs und Findings" vertex="1">
+          <mxGeometry height="40" width="280" x="1080" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="change/${issue-number} kurze beschreibung für Änderungen, die nicht abgenommen werden müssen (z.B. Dependency-Updates)" vertex="1">
+          <mxGeometry height="60" width="280" x="1080" y="780" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
