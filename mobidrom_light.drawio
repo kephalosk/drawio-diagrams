@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="KQ5BoIzBOyMgq-pGERXE">
-    <mxGraphModel dx="2650" dy="1773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5698" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,6 +8,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-15" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-73" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-72" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1" value="&lt;div&gt;Mobidrom&lt;/div&gt;" vertex="1">
@@ -156,6 +159,9 @@
         <mxCell id="Lmocth8-zrJSxd0wN2li-67" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-66" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-81" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" value="Code-Struktur" vertex="1">
           <mxGeometry height="40" width="280" x="1720" y="80" as="geometry" />
         </mxCell>
@@ -172,7 +178,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Frontend Logic-Entrypoints für alte Architektur" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="280" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="360" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-83" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-82" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -184,19 +190,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Datenquellenverwaltung" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="240" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="320" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-46" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-45" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Datenangebotsverwaltung" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="320" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="400" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCFF;strokeColor=#6c8ebf;fontStyle=1" value="react/src/components/pages/dataEntry_configuration/DataEntryConfiguration.tsx" vertex="1">
-          <mxGeometry height="50" width="280" x="2680" y="235" as="geometry" />
+          <mxGeometry height="50" width="280" x="2680" y="315" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCFF;strokeColor=#6c8ebf;fontStyle=1" value="react/src/components/pages/feedbundle_configuration/FeedBundleConfiguration.tsx" vertex="1">
-          <mxGeometry height="50" width="280" x="2680" y="315" as="geometry" />
+          <mxGeometry height="50" width="280" x="2680" y="395" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-48" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-51" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -205,22 +211,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Frontend Logic-Entrypoints für neue Architektur" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="520.31" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="600.31" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-59" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-58" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Datenquellenverwaltung" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="440" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="520" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-68" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-67" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Datenangebotsverwaltung" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="600" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="680" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Einbindung externer Dienste über IFrames (z.B. ckan - Datenverwaltungssystem)" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="160" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="240" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-112" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-111" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -229,7 +235,7 @@
           <mxGeometry height="40" width="280" x="760" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#CCCCFF;strokeColor=#6c8ebf;fontStyle=1" value="react/src/components/Datenquellenverwaltung/&lt;br&gt;react/src/hooks/Datenquellenverwaltung/&lt;br&gt;react/src/models/Datenquellenverwaltung/&lt;br&gt;react/src/objects/Datenquellenverwaltung/&lt;br&gt;react/src/pages/DatenquellenverwaltungPage.tsx&lt;br&gt;react/src/services/Datenquellenverwaltung/&lt;br&gt;react/src/stores/Datenquellenverwaltung/&lt;br&gt;react/src/utils/Datenquellenverwaltung/" vertex="1">
-          <mxGeometry height="130" width="290" x="2680" y="395" as="geometry" />
+          <mxGeometry height="130" width="290" x="2680" y="475" as="geometry" />
         </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-4" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-3" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -241,40 +247,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Namenskonvention alte Architektur" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="720" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="800" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fachlich englisch, technisch englisch (z.B:&amp;nbsp;FeedBundleConfiguration.tsx)" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="720" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="800" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#CCCCFF;strokeColor=#6c8ebf;fontStyle=1" value="react/src/components/Datenangebotsverwaltung/&lt;br&gt;react/src/hooks/Datenangebotsverwaltung/&lt;br&gt;react/src/models/Datenangebotsverwaltung/&lt;br&gt;react/src/objects/Datenangebotsverwaltung/&lt;br&gt;react/src/pages/DatenangebotsverwaltungPage.tsx&lt;br&gt;react/src/services/Datenangebotsverwaltung/&lt;br&gt;react/src/stores/Datenangebotsverwaltung/&lt;br&gt;react/src/utils/Datenangebotsverwaltung/" vertex="1">
-          <mxGeometry height="139.69" width="290" x="2680" y="550.31" as="geometry" />
+          <mxGeometry height="139.69" width="290" x="2680" y="630.31" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-69" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-71" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Namenskonvention neue Architektur" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="800" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="880" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fachlich deutsch, technisch englisch (z.B: DatenangebotsverwaltungPage.tsx)" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="800" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="880" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-77" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-76" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API-Requests erfolgen direkt über fetch" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="880" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="960" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bisher kein eigener API-Layer mit Services/Mapper/DTO&#39;s/Domain-Models/Error-Handling" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="880" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="960" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-81" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-80" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wenn möglich, wo es geht Typen aus dem kanonischen Datenmodell nutzen" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="960" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;strokeColor=#6c8ebf;fontStyle=1" value="java/datenmodell/target/typescript-generator/data-model.ts" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="960" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#CCCCFF;strokeColor=#6c8ebf;fontStyle=1" value="react/src/components/pages/dataEntry_configuration/dataEntry_configuration_modal/DataEntryContext.tsx" vertex="1">
           <mxGeometry height="70" width="280" x="2680" y="65" as="geometry" />
@@ -304,10 +310,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="(KI-freundliche) Coding-Empfehlungen (Ziel: Vermeidung von Kontextvermischung, Side-Effects und Kontext-Overload von KI-Agenten)" vertex="1">
-          <mxGeometry height="60" width="280" x="2040" y="1710" as="geometry" />
+          <mxGeometry height="60" width="280" x="2040" y="1790" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="wo möglich Single Responsibility Principle anwenden" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1440" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-93" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#000000;" target="QD2YlCtqEmp9hikeIm1K-90" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -319,49 +325,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="100% Unit Test Abdeckung anstreben" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1520" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="Möglichkeit 1: manuelle Unit Test-Erstellung" vertex="1">
-          <mxGeometry height="40" width="280" x="2680" y="1440" as="geometry" />
+          <mxGeometry height="40" width="280" x="2680" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-114" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#000000;" target="QD2YlCtqEmp9hikeIm1K-113" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="Möglichkeit 3: KI-generierte Unit Test-Erstellung mit Hilfe von kontextabgegrenzten GPT-5-KI-Agenten" vertex="1">
-          <mxGeometry height="50" width="280" x="2680" y="1600" as="geometry" />
+          <mxGeometry height="50" width="280" x="2680" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="Möglichkeit 2: KI-generierte Unit Test-Erstellung mit Hilfe von spec-Files (noch nicht implementiert)" vertex="1">
-          <mxGeometry height="60" width="280" x="2680" y="1510" as="geometry" />
+          <mxGeometry height="60" width="280" x="2680" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-99" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-98" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="kein globaler Styling-Guide" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stattdessen einzelne scss-Dateien einzelner Komponenten importiert über App.scss in Layout.tsx" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="QD2YlCtqEmp9hikeIm1K-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dependencies veraltet" vertex="1">
           <mxGeometry height="40" width="280" x="2040" y="1120" as="geometry" />
         </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-116" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-115" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stattdessen einzelne scss-Dateien einzelner Komponenten importiert über App.scss in Layout.tsx" vertex="1">
+          <mxGeometry height="40" width="280" x="2360" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2YlCtqEmp9hikeIm1K-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dependencies veraltet" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="1200" as="geometry" />
+        </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="starke Typisierung aller Variablen/Returns statt Type Inference" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1600" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="kleine, atomare Module bevorzugen mit wenigen consts oder best case single consts je modul named exportiert" vertex="1">
-          <mxGeometry height="50" width="280" x="2360" y="1680" as="geometry" />
+          <mxGeometry height="50" width="280" x="2360" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="Deep-Nesting vermeiden und ab Nesting-Tiefe 3 refactoren" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1760" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="1840" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="semantische Programmierung mit eindeutig zugeordneten Datei- und Variablen-Namen" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1840" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="1920" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ticket im Abschnitt Projects auf &quot;In QA&quot; setzen" vertex="1">
           <mxGeometry height="40" width="280" x="760" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="neuen Chat öffnen mit Modus Agent und Modell gpt-5.4-medium ausführen und folgenden Prompt eingeben: &quot;führe aus react/prompts/agents/anni1_T_Unit-Tester_Jest-React-TS.standalone.de.md&quot;" vertex="1">
-          <mxGeometry height="90" width="280" x="3000" y="1575" as="geometry" />
+          <mxGeometry height="90" width="280" x="3000" y="1655" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-117" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QD2YlCtqEmp9hikeIm1K-18" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -411,9 +420,6 @@
         <mxCell id="QD2YlCtqEmp9hikeIm1K-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1290ad51ee74f9d6349cfda6a900181b6d8416e7 cherry picken (Setup-Prompts für KI-Agenten)" vertex="1">
           <mxGeometry height="40" width="280" x="3000" as="geometry" />
         </mxCell>
-        <mxCell id="Lmocth8-zrJSxd0wN2li-61" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-132" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-60" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cd nach react/ und npm install und npm run dev ausführen" vertex="1">
           <mxGeometry height="40" width="280" x="3320" as="geometry" />
         </mxCell>
@@ -448,22 +454,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Service Worker, der alle fetch-Requests abfängt, um für ckan-calls aus IFrames &quot;No-Redirect&quot; zu setzen" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="1200" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCCCFF;strokeColor=#6c8ebf;" value="react/src/sw-ckan-noredirect.ts" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1200" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-158" edge="1" parent="1" source="QD2YlCtqEmp9hikeIm1K-155" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" target="QD2YlCtqEmp9hikeIm1K-157" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="Beispiel für meinen Coding-Stil" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="2000" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fillColor=#CCCCFF;strokeColor=#6c8ebf;" value="&lt;span style=&quot;&quot;&gt;react/src/sw-ckan-noredirect.ts&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="280" x="2680" y="2000" as="geometry" />
+          <mxGeometry height="40" width="280" x="2680" y="2080" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CCFFFF;strokeColor=#82b366;" value="Methoden möglichst überschaubar halten (&amp;lt;50 Zeilen, wenn möglich)" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1920" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="2000" as="geometry" />
         </mxCell>
         <mxCell id="QD2YlCtqEmp9hikeIm1K-162" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="feature/${issue-number} kurze beschreibung für User-Stories (z.B.: feature/1125 refactor backup page)" vertex="1">
           <mxGeometry height="60" width="280" x="1080" y="640" as="geometry" />
@@ -626,20 +632,17 @@
         <mxCell id="Lmocth8-zrJSxd0wN2li-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=none;fillColor=#CCCCFF;strokeColor=#6c8ebf;" value="react/src/components/pages/feedbundle_configuration/feedbundle_configuration_modal/FeedBundleConfigurationModal.tsx" vertex="1">
           <mxGeometry height="80" width="280" x="400" y="300.00000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="Lmocth8-zrJSxd0wN2li-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="für ESLint den Unterordner react zusätzlich zum Workspace hinzufügen, damit VSCode die Settings erkennt und in den Settings lint on Safe aktivieren und config angeben" vertex="1">
-          <mxGeometry height="70" width="280" x="3640" y="-15" as="geometry" />
-        </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-65" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-64" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Das gesamte Projekt liegt in einem Mono-Repo" vertex="1">
-          <mxGeometry height="40" width="280" x="2040" y="1280" as="geometry" />
+          <mxGeometry height="40" width="280" x="2040" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lokale Ausführung erfolgt über eine Dev-Shell, die in einem Docker-Container läuft" vertex="1">
-          <mxGeometry height="40" width="280" x="2360" y="1280" as="geometry" />
+          <mxGeometry height="40" width="280" x="2360" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="nach Möglichkeit Dokumentationen anfertigen und unter react/docs ablegen oder in docs, wenn mehrere Services außerhalb der react-App betroffen sind" vertex="1">
-          <mxGeometry height="70" width="280" x="2040" y="1350" as="geometry" />
+          <mxGeometry height="70" width="280" x="2040" y="1430" as="geometry" />
         </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="Fachliche Schwerpunkte" vertex="1">
           <mxGeometry height="40" width="160" x="-1560" y="600" as="geometry" />
@@ -652,6 +655,168 @@
         </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Legende" vertex="1">
           <mxGeometry height="40" width="160" x="-1560" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-77" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-114" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-113" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Organisatorischer Kontext" vertex="1">
+          <mxGeometry height="40" width="240" x="-1960" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-79" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-78" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-96" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-95" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-102" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-101" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-106" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-110" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-109" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" value="Wichtige Links" vertex="1">
+          <mxGeometry height="40" width="240" x="-2640" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-88" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Github" vertex="1">
+          <mxGeometry height="40" width="240" x="-2920" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-83" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wenige Gott-Komponenten nach Model-View-Controller-API-Pattern aufgeteilt" vertex="1">
+          <mxGeometry height="40" width="280" x="2040" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-85" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Refactoring hin zu moderner Frontend-Architektur ist geplant, doch bisher kaum umgesetzt, weil kein Budget/keine Zeit" vertex="1">
+          <mxGeometry height="55" width="280" x="2360" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/937" vertex="1">
+          <mxGeometry height="40" width="280" x="2680" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF99;" value="Links" vertex="1">
+          <mxGeometry height="40" width="160" x="-1560" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-90" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;" target="Lmocth8-zrJSxd0wN2li-89" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-93" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;" target="Lmocth8-zrJSxd0wN2li-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-94" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;" target="Lmocth8-zrJSxd0wN2li-91" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://github.com/Mobidrom" vertex="1">
+          <mxGeometry height="40" width="240" x="-3200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform" vertex="1">
+          <mxGeometry height="40" width="240" x="-3480" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning" vertex="1">
+          <mxGeometry height="40" width="240" x="-3480" y="-5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://github.com/Mobidrom/mobidp-landing-page" vertex="1">
+          <mxGeometry height="40" width="240" x="-3480" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-98" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-97" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ticket-Boards" vertex="1">
+          <mxGeometry height="40" width="240" x="-2920" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-100" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;" target="Lmocth8-zrJSxd0wN2li-99" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://github.com/orgs/Mobidrom/projects/24" vertex="1">
+          <mxGeometry height="40" width="240" x="-3200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://github.com/orgs/Mobidrom/projects/24/views/16" vertex="1">
+          <mxGeometry height="40" width="240" x="-3480" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-104" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-103" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ArgoCD" vertex="1">
+          <mxGeometry height="40" width="240" x="-2920" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://mgmt.mobilitaetsdaten.nrw/argocd" vertex="1">
+          <mxGeometry height="40" width="240" x="-3200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-108" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-107" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DEV-Deployment" vertex="1">
+          <mxGeometry height="40" width="240" x="-2920" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="http://dev.mobilitaetsdaten.nrw/" vertex="1">
+          <mxGeometry height="40" width="240" x="-3200" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-112" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TEST-Deployment" vertex="1">
+          <mxGeometry height="40" width="240" x="-2920" y="474.84" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="http://test.mobilitaetsdaten.nrw/" vertex="1">
+          <mxGeometry height="40" width="240" x="-3200" y="474.84000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-118" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-117" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-126" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-123" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-131" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-127" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" value="TiC Buchungen" vertex="1">
+          <mxGeometry height="40" width="240" x="-1960" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Es gibt keinen UX/UI Designer. Wir sind die UX/UI Designer." vertex="1">
+          <mxGeometry height="40" width="280" x="2680" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-120" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-117" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-119" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-122" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-117" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-121" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BTG-CR-006-Junior" vertex="1">
+          <mxGeometry height="40" width="240" x="-2240" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Für Arbeit an allen Tickets, die das Label CR006 haben" vertex="1">
+          <mxGeometry height="40" width="240" x="-2520" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Für reguläre Sprint-Termine (Daily, Planning, Working Joure Fix, Open Integration, Open Refinement)" vertex="1">
+          <mxGeometry height="50" width="240" x="-2520" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-125" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-123" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-124" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BTG-CR-008 Refinement-DEV" vertex="1">
+          <mxGeometry height="40" width="240" x="-2240" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-124" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Für Refinements für CR008" vertex="1">
+          <mxGeometry height="40" width="240" x="-2520" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-130" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-127" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-129" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WTG-Gewährleistung" vertex="1">
+          <mxGeometry height="40" width="240" x="-2240" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Für Aufwendungen, die nicht vertraglich geregelt sind. Im Zweifel immer Leslie fragen" vertex="1">
+          <mxGeometry height="50" width="240" x="-2520" y="435" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
