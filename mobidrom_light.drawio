@@ -680,6 +680,12 @@
         <mxCell id="Lmocth8-zrJSxd0wN2li-110" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-109" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-133" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-132" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-137" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-136" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" value="Wichtige Links" vertex="1">
           <mxGeometry height="40" width="240" x="-2640" y="80" as="geometry" />
         </mxCell>
@@ -817,6 +823,24 @@
         </mxCell>
         <mxCell id="Lmocth8-zrJSxd0wN2li-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Für Aufwendungen, die nicht vertraglich geregelt sind. Im Zweifel immer Leslie fragen" vertex="1">
           <mxGeometry height="50" width="240" x="-2520" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-135" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-132" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-134" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abwesenheitsliste" vertex="1">
+          <mxGeometry height="40" width="240" x="-2920" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://maternagroup.sharepoint.com/:x:/r/sites/CP.Mobidrom-Materna-intern/_layouts/15/doc2.aspx?sourcedoc=%7BF6E81F00-4C1C-4009-A490-67EB97F60692%7D&amp;amp;file=Abwesenheits%25u00fcbersicht.xlsx&amp;amp;action=default&amp;amp;mobileredirect=true" vertex="1">
+          <mxGeometry height="50" width="610" x="-3570" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-139" edge="1" parent="1" source="Lmocth8-zrJSxd0wN2li-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Lmocth8-zrJSxd0wN2li-138" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-136" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MS Sharepoint Mobidrom intern" vertex="1">
+          <mxGeometry height="40" width="240" x="-2920" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmocth8-zrJSxd0wN2li-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFCC;fontStyle=1" value="https://maternagroup.sharepoint.com/sites/CP.Mobidrom-Materna-intern/Shared%20Documents/Forms/AllItems.aspx" vertex="1">
+          <mxGeometry height="39.69" width="610" x="-3570" y="640.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
