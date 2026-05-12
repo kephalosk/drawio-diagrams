@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="OTpAghzZXSN5S58TuXOj">
-    <mxGraphModel dx="713" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="950" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="9IMP9UL_tGp2nxQO3D5Y-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="wie?" vertex="1">
           <mxGeometry height="40" width="80" x="160" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="9IMP9UL_tGp2nxQO3D5Y-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="update skills in cv" vertex="1">
+        <mxCell id="9IMP9UL_tGp2nxQO3D5Y-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="update skills in cv" vertex="1">
           <mxGeometry height="40" width="160" x="480" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="9IMP9UL_tGp2nxQO3D5Y-34" edge="1" parent="1" source="9IMP9UL_tGp2nxQO3D5Y-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9IMP9UL_tGp2nxQO3D5Y-33" value="">
@@ -145,10 +145,10 @@
         <mxCell id="9IMP9UL_tGp2nxQO3D5Y-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99FF99;" value="mein Projektbeitrag" vertex="1">
           <mxGeometry height="40" width="160" x="480" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="9IMP9UL_tGp2nxQO3D5Y-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="add mobidrom" vertex="1">
+        <mxCell id="9IMP9UL_tGp2nxQO3D5Y-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="add mobidrom" vertex="1">
           <mxGeometry height="40" width="160" x="480" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="9IMP9UL_tGp2nxQO3D5Y-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="add freist" vertex="1">
+        <mxCell id="9IMP9UL_tGp2nxQO3D5Y-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="add freist" vertex="1">
           <mxGeometry height="40" width="160" x="480" y="960" as="geometry" />
         </mxCell>
       </root>
