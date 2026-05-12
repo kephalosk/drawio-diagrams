@@ -1,0 +1,634 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="_i9_kBp8al7bh837lAr-">
+    <mxGraphModel dx="1555" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_CQIOJKPp9QOgMpWnane-3" edge="1" parent="1" source="_CQIOJKPp9QOgMpWnane-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_CQIOJKPp9QOgMpWnane-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-13" edge="1" parent="1" source="_CQIOJKPp9QOgMpWnane-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="[User Story]: Backend-orchestriertes Backup/Restore #876" vertex="1">
+          <mxGeometry height="40" width="360" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-5" edge="1" parent="1" source="_CQIOJKPp9QOgMpWnane-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_CQIOJKPp9QOgMpWnane-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OfoDACsXbDJEUNFcv-u-3" edge="1" parent="1" source="_CQIOJKPp9QOgMpWnane-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9OfoDACsXbDJEUNFcv-u-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="KI-Ticket-Analyse" vertex="1">
+          <mxGeometry height="40" width="200" x="440" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-7" edge="1" parent="1" source="_CQIOJKPp9QOgMpWnane-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_CQIOJKPp9QOgMpWnane-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-9" edge="1" parent="1" source="_CQIOJKPp9QOgMpWnane-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_CQIOJKPp9QOgMpWnane-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-11" edge="1" parent="1" source="_CQIOJKPp9QOgMpWnane-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_CQIOJKPp9QOgMpWnane-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Input" vertex="1">
+          <mxGeometry height="40" width="200" x="680" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="anniVilReactMobidromTS-KI-Agent" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Task Ticketanalyse.md" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-13" edge="1" parent="1" source="_CQIOJKPp9QOgMpWnane-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_CQIOJKPp9QOgMpWnane-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ticket.md" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_CQIOJKPp9QOgMpWnane-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="[User Story]: Backend-orchestriertes Backup/Restore #876&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;### As a&lt;br&gt;&lt;br&gt;Administrator&lt;br&gt;&lt;br&gt;### I want&lt;br&gt;&lt;br&gt;möchte ich, dass alle Backup-/Restore-Prozesse ausschließlich durch das Backend orchestriert werden&lt;br&gt;&lt;br&gt;### So that&lt;br&gt;&lt;br&gt;damit sie robust und unabhängig vom Browser laufen.&lt;br&gt;&lt;br&gt;### Akzeptanzkriterien **(Umbenennung nach Absprache in Working JF am 24.02. zur Abbildung der CR Inhalte)**&lt;br&gt;&lt;br&gt;- **Gegeben** ein Admin startet ein Backup/Restore im UI&amp;nbsp;&lt;br&gt;**Wenn** der Auftrag ausgelöst wird&amp;nbsp;&lt;br&gt;**Dann** erstellt das Backend einen Job, führt ihn serverseitig aus und das UI zeigt nur Status an, welcher durch Klick eines Buttons / Neuladen der Seite aktualisiert werden kann (kein automatisches Update).&amp;nbsp;&lt;br&gt;&lt;br&gt;- [ ] durch Klick eines Buttons &quot;**_Backup Status_**&quot; / &quot;**_Restore Status_**&quot; / Neuladen der Seite, zeigt das UI einen aktualisierten Status an (kein automatisches Update). **Ergänzung der Button Bezeichnung nach Absprache im Working JF am 24.02.**&lt;br&gt;&lt;br&gt;- **Gegeben** der Browser wird geschlossen oder neu geladen&amp;nbsp;&lt;br&gt;**Wenn** der Job weiterläuft&amp;nbsp;&lt;br&gt;**Dann** läuft der Prozess weiter und ist über eine Jobs-Übersicht wieder einsehbar.&amp;nbsp;&lt;br&gt;&lt;br&gt;- [ ] Wenn der Browser geschlossen wird, läuft der Job-Prozess weiter&lt;br&gt;- [ ] Wenn der Browser neu geladen wird, läuft der Job-Prozess weiter&lt;br&gt;- [ ] Der Job ist über eine Jobs-Übersicht einsehbar&lt;br&gt;&lt;br&gt;- **Gegeben** es existiert bereits ein aktiver Backup- oder Restore-Job&amp;nbsp;&lt;br&gt;**Wenn** ein zweiter gleichartiger Job gestartet werden soll&amp;nbsp;&lt;br&gt;**Dann** wird der Start blockiert und eine Hinweis-Meldung angezeigt (verhindert Konkurrenz).&amp;nbsp;&lt;br&gt;&lt;br&gt;- [ ] Start eines zweiten parallelen Jobs wird blockiert&lt;br&gt;- [ ] eine Hinweis-Meldung wird angezeigt, dass bereits ein Backup- oder Restore-Job im Hintergrund läuft&lt;br&gt;&lt;br&gt;- **Gegeben** es existiert bereits ein abgeschlossener Backup- oder Restore-Job (**_Alter?_** - **_wann wird Job gestartet, wann Download eines vorigen Jobs möglich_**)&lt;br&gt;**Wenn** ein Nutzer auf die Seite navigiert&amp;nbsp;&lt;br&gt;**Dann** wird das abgeschlossene Backup oder Restore (mit seinem Ergebnisstatus) angezeigt und das Backup zum Download bereitgestellt (falls es erfolgreich war)&amp;nbsp;&lt;br&gt;&lt;br&gt;- [ ] Bei Klick auf einen Button &quot;**_Backup herunterladen_**&quot; (**Spezifizierung am 16.02.**), wird ein abgeschlossener Job zum Download bereitgestellt&lt;br&gt;- [ ] Der Download ist erfolgreich&lt;br&gt;&lt;br&gt;- [ ] Notwendige Aufrufe weiterer Dienste werden für den Nutzer nicht einsehbar durch den Backend-Dienst (Facade) verwaltet.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;### When&lt;br&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;### Then&lt;br&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;### Description&lt;br&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;### Priority&lt;br&gt;&lt;br&gt;Critical&lt;br&gt;&lt;br&gt;### Dependencies&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### Notes&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### Attachments&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;#####&lt;br&gt;&lt;br&gt;Userstory/Bug&lt;br&gt;&lt;br&gt;#876&lt;br&gt;&lt;br&gt;Task Description&lt;br&gt;&lt;br&gt;Die bestehende Frontend-Seite zum Backup und Restore soll überarbeitet und umgestaltet, sodass die Schnittstellen des orchestrierenden Backend-Services angesprochen werden. Dies soll die Komplexität der Frontend-Implementierung reduzieren.&lt;br&gt;&lt;br&gt;Definition of Done&lt;br&gt;&lt;br&gt;&lt;br&gt;Ausbauen der momentanen Frontend-Implementierung zur Synchronisation des Backup und Recovery&lt;br&gt;&lt;br&gt;Nutzung der Schnittstellen des zentralen Backend-Services" vertex="1">
+          <mxGeometry height="1475" width="680" x="1160" y="-517.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-15" edge="1" parent="1" source="9OfoDACsXbDJEUNFcv-u-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OfoDACsXbDJEUNFcv-u-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Root-Structure" vertex="1">
+          <mxGeometry height="40" width="200" x="960" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="9OfoDACsXbDJEUNFcv-u-5" edge="1" parent="1" source="9OfoDACsXbDJEUNFcv-u-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9OfoDACsXbDJEUNFcv-u-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-2" edge="1" parent="1" source="9OfoDACsXbDJEUNFcv-u-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-4" edge="1" parent="1" source="9OfoDACsXbDJEUNFcv-u-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-6" edge="1" parent="1" source="9OfoDACsXbDJEUNFcv-u-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-9" edge="1" parent="1" source="9OfoDACsXbDJEUNFcv-u-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-11" edge="1" parent="1" source="9OfoDACsXbDJEUNFcv-u-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9OfoDACsXbDJEUNFcv-u-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Output&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="680" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="9OfoDACsXbDJEUNFcv-u-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Feedback-Liste an Backend/PO" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Entscheidungsbaum&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mermaid-Diagramm" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Unit Test Cases" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Akzeptanzkriterien" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Testfälle" vertex="1">
+          <mxGeometry height="40" width="200" x="920" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="KI-Ticket-Implementierung" vertex="1">
+          <mxGeometry height="40" width="200" x="440" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-17" edge="1" parent="1" source="3hEXhAfdnHO_Me4gfE3e-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;index.html&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="960" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-19" edge="1" parent="1" source="3hEXhAfdnHO_Me4gfE3e-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="main.tsx" vertex="1">
+          <mxGeometry height="40" width="200" x="960" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-21" edge="1" parent="1" source="3hEXhAfdnHO_Me4gfE3e-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Layout.tsx" vertex="1">
+          <mxGeometry height="40" width="200" x="960" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-23" edge="1" parent="1" source="3hEXhAfdnHO_Me4gfE3e-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AppRoutes.tsx" vertex="1">
+          <mxGeometry height="40" width="200" x="960" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-25" edge="1" parent="1" source="3hEXhAfdnHO_Me4gfE3e-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3hEXhAfdnHO_Me4gfE3e-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AppRoutesController.ts" vertex="1">
+          <mxGeometry height="40" width="200" x="960" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-2" edge="1" parent="1" source="3hEXhAfdnHO_Me4gfE3e-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3hEXhAfdnHO_Me4gfE3e-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; label: &#39;Sicherung &amp;amp; Wiederherstellung&#39;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; path: &#39;sicherung-wiederherstellung&#39;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; component: SicherungUndWiederherstellungPage,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; isProtected: true,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; userRoles: [KEYCLOAK_ROLES.BACKUP_RESTORE_CREATE, KEYCLOAK_ROLES.BACKUP_RESTORE_RESTORE],&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }," vertex="1">
+          <mxGeometry height="120" width="450" x="1200" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-4" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-7" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-9" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SicherungUndWiederherstellungPage.tsx" vertex="1">
+          <mxGeometry height="40" width="240" x="1720" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-11" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-13" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;SUWSystemSection&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="2000" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWServicesTable" vertex="1">
+          <mxGeometry height="40" width="240" x="2000" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWServicesTable" vertex="1">
+          <mxGeometry height="40" width="240" x="2000" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-15" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-17" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-19" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWSystemSectionSicherung" vertex="1">
+          <mxGeometry height="40" width="240" x="2280" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-36" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-37" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-38" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWSystemSectionWiederherstellung" vertex="1">
+          <mxGeometry height="40" width="240" x="2280" y="2450" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-21" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;MobiButton&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; className=&quot;suw-system-primary-action&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; label=&quot;Sicherung für alle Dienste erstellen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; startIcon={&amp;lt;Save /&amp;gt;}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; onClick={onSicherungAllServices}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disabled={!permissions.canCreateSicherung || isRunningGlobalSicherung}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;" vertex="1">
+          <mxGeometry height="120" width="530" x="2560" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-24" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;MobiButton&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; className=&quot;suw-system-secondary-action&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; label=&quot;Sicherung herunterladen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; startIcon={&amp;lt;Download /&amp;gt;}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; onClick={onDownloadLatestSystemSicherung}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disabled={!permissions.canCreateSicherung || isRunningGlobalSicherung}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;" vertex="1">
+          <mxGeometry height="120" width="530" x="2560" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-26" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;MobiButton&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; label=&quot;Status aktualisieren&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; startIcon={&amp;lt;Refresh /&amp;gt;}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; onClick={onRefreshSicherungStatus}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disabled={isRefreshingSicherungStatus}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;" vertex="1">
+          <mxGeometry height="100" width="530" x="2560" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-44" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-2" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="onSicherungAllServices" vertex="1">
+          <mxGeometry height="40" width="240" x="3140" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="onDownloadLatestSystemSicherung" vertex="1">
+          <mxGeometry height="40" width="240" x="3140" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="onRefreshSicherungStatus" vertex="1">
+          <mxGeometry height="40" width="240" x="3140" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-27" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;MobiButton&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; className=&quot;suw-system-primary-action&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; label=&quot;Alle Dienste aus letzter Vollsicherung wiederherstellen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; startIcon={&amp;lt;PublishedWithChanges /&amp;gt;}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; onClick={onWiederherstellungAllFromLatestSicherung}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disabled={!permissions.canWiederherstellung || isRunningGlobalWiederherstellung}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;" vertex="1">
+          <mxGeometry height="120" width="530" x="2560" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-29" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;SUWFileUploadButton&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; id=&quot;wiederherstellung-all-services&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; label=&quot;Alle Dienste aus ZIP-Datei wiederherstellen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; className=&quot;suw-system-secondary-action&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tooltip=&quot;Alle Dienste aus ZIP-Datei wiederherstellen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; accept=&quot;.zip&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ariaLabel=&quot;Alle Dienste aus ZIP-Datei wiederherstellen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; showLabel&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disabled={!permissions.canWiederherstellung || isRunningGlobalWiederherstellung}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; onFileSelected={onWiederherstellungAllUpload}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;" vertex="1">
+          <mxGeometry height="180" width="530" x="2560" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-31" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;MobiButton&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; label=&quot;Status aktualisieren&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; startIcon={&amp;lt;RestartAlt /&amp;gt;}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; onClick={onRefreshWiederherstellungStatus}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disabled={isRefreshingWiederherstellungStatus}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;" vertex="1">
+          <mxGeometry height="100" width="530" x="2560" y="2600" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="onWiederherstellungAllFromLatestSicherung" vertex="1">
+          <mxGeometry height="40" width="270" x="3140" y="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-41" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;MobiButton&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; label={label ?? ariaLabel}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; className={className}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; showLabel={showLabel}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tooltip={tooltip}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; startIcon={&amp;lt;CloudUpload /&amp;gt;}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; onClick={() =&amp;gt; inputRef.current?.click()}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ariaLabel={ariaLabel}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disabled={disabled}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;" vertex="1">
+          <mxGeometry height="160" width="320" x="3140" y="2390" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="onRefreshWiederherstellungStatus" vertex="1">
+          <mxGeometry height="40" width="240" x="3140" y="2630" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="onFileSelected" vertex="1">
+          <mxGeometry height="40" width="240" x="3880" y="2450" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-42" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;input&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ref={inputRef}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; id={id}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; type=&quot;file&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; accept={accept}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; style={{ display: &#39;none&#39; }}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; disabled={disabled}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; onChange={onFileSelected}&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;" vertex="1">
+          <mxGeometry height="140" width="320" x="3510" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-47" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="handleSicherungAllServices" vertex="1">
+          <mxGeometry height="40" width="240" x="3480" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-49" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-51" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-53" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; const handleSicherungAllServices = useHandleSicherungAllServices(&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; startSicherungForTarget,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setIsRunningGlobalSicherung,&lt;br&gt;&amp;nbsp; &amp;nbsp; );" vertex="1">
+          <mxGeometry height="90" width="410" x="3680" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-61" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-63" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; const startSicherungForTarget = useStartSicherungForTarget({&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setSicherungEvents,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setSystemSicherungEvent,&lt;br&gt;&amp;nbsp; &amp;nbsp; });" vertex="1">
+          <mxGeometry height="90" width="410" x="4250" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; const [isRunningGlobalSicherung, setIsRunningGlobalSicherung] = useState(false);" vertex="1">
+          <mxGeometry height="35" width="490" x="4210" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-54" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-55" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export const useHandleSicherungAllServices = (&lt;br&gt;&amp;nbsp; &amp;nbsp; startSicherungForTarget: (service?: SUWServiceConfig) =&amp;gt; Promise&amp;lt;void&amp;gt;,&lt;br&gt;&amp;nbsp; &amp;nbsp; setIsRunningGlobalSicherung: Dispatch&amp;lt;SetStateAction&amp;lt;boolean&amp;gt;&amp;gt;,&lt;br&gt;) =&amp;gt; {&lt;br&gt;&amp;nbsp; &amp;nbsp; const { setAlert } = useContext(MainContext);&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; return useCallback(async () =&amp;gt; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setIsRunningGlobalSicherung(true);&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; try {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; await startSicherungForTarget();&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; } catch (error) {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setAlert(&#39;error&#39;, &#39;Fehler&#39;, `Bei der Sicherung aller Dienste ist folgender Fehler aufgetreten: ${error}`, true);&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; } finally {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setIsRunningGlobalSicherung(false);&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }, [setAlert, setIsRunningGlobalSicherung, startSicherungForTarget]);&lt;br&gt;};" vertex="1">
+          <mxGeometry height="280" width="670" x="4120" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-64" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-68" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export const useStartSicherungForTarget = ({&lt;br&gt;&amp;nbsp; &amp;nbsp; setSicherungEvents,&lt;br&gt;&amp;nbsp; &amp;nbsp; setSystemSicherungEvent,&lt;br&gt;}: {&lt;br&gt;&amp;nbsp; &amp;nbsp; setSicherungEvents: Dispatch&amp;lt;SetStateAction&amp;lt;Record&amp;lt;string, SUWEvent | undefined&amp;gt;&amp;gt;&amp;gt;;&lt;br&gt;&amp;nbsp; &amp;nbsp; setSystemSicherungEvent: Dispatch&amp;lt;SetStateAction&amp;lt;SUWEvent | undefined&amp;gt;&amp;gt;;&lt;br&gt;}) =&amp;gt; {&lt;br&gt;&amp;nbsp; &amp;nbsp; const { keycloak } = useKeycloak();&lt;br&gt;&amp;nbsp; &amp;nbsp; const { setAlert } = useContext(MainContext);&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; return useCallback(&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; async (service?: SUWServiceConfig) =&amp;gt; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if (!keycloak) {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; return;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; const serviceName = service?.key;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; const targetName = service?.name ?? &#39;Gesamtsystem&#39;;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; const { processId, reusedRunningProcess } = await startSicherungProcess(&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; keycloak,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; serviceName &amp;amp;&amp;amp; serviceName !== ALLE_SERVICES_KEY ? serviceName : undefined,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; );&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; const pendingEvent = createPendingEvent(processId, &#39;sicherung&#39;, targetName);&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if (service) {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setSicherungEvents((currentState) =&amp;gt; ({&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...currentState,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [service.key]: pendingEvent,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }));&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; } else {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setSystemSicherungEvent(pendingEvent);&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setAlert(&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; reusedRunningProcess ? &#39;info&#39; : &#39;success&#39;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; reusedRunningProcess ? &#39;Information&#39; : &#39;Erfolg&#39;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; reusedRunningProcess&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ? `Für &quot;${targetName}&quot; läuft bereits ein Sicherungsprozess. Die vorhandene Prozess-ID wurde übernommen.`&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : `Die Sicherung für &quot;${targetName}&quot; wurde erfolgreich gestartet.`,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; true,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; );&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [keycloak, setAlert, setSicherungEvents, setSystemSicherungEvent],&lt;br&gt;&amp;nbsp; &amp;nbsp; );&lt;br&gt;};" vertex="1">
+          <mxGeometry height="660" width="780" x="4910" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-6" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; const {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; events: sicherungEvents,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setEvents: setSicherungEvents,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; systemEvent: systemSicherungEvent,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setSystemEvent: setSystemSicherungEvent,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; isRefreshing: isRefreshingSicherungStatus,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setIsRefreshing: setIsRefreshingSicherungStatus,&lt;br&gt;&amp;nbsp; &amp;nbsp; } = useSUWProcessState();" vertex="1">
+          <mxGeometry height="130" width="410" x="5095" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-70" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-69" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export const startSicherungProcess = async (&lt;br&gt;&amp;nbsp; &amp;nbsp; keycloak: Keycloak,&lt;br&gt;&amp;nbsp; &amp;nbsp; serviceName?: string,&lt;br&gt;): Promise&amp;lt;{ processId: string; reusedRunningProcess: boolean }&amp;gt; =&amp;gt; {&lt;br&gt;&amp;nbsp; &amp;nbsp; const response = await fetch(buildUrl(&#39;/backup/start&#39;, { serviceName }), {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; headers: createAuthorizedHeaders(keycloak),&lt;br&gt;&amp;nbsp; &amp;nbsp; });&lt;br&gt;&amp;nbsp; &amp;nbsp; const message = await readResponseText(response);&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; if (!response.ok &amp;amp;&amp;amp; response.status !== 409) {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; throw new Error(message || &#39;Sicherung konnte nicht gestartet werden.&#39;);&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; return {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; processId: extractProcessId(message),&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; reusedRunningProcess: response.status === 409,&lt;br&gt;&amp;nbsp; &amp;nbsp; };&lt;br&gt;};" vertex="1">
+          <mxGeometry height="270" width="590" x="5730" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-72" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-71" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; const serviceName = service?.key;" vertex="1">
+          <mxGeometry height="35" width="270" x="6370" y="552.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-74" edge="1" parent="1" source="A18jpzIbLcYZRwKmN8_x-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A18jpzIbLcYZRwKmN8_x-73" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export interface SUWServiceConfig {&lt;br&gt;&amp;nbsp; &amp;nbsp; key: SUWServiceKey;&lt;br&gt;&amp;nbsp; &amp;nbsp; name: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; canSicherung: boolean;&lt;br&gt;&amp;nbsp; &amp;nbsp; canWiederherstellung: boolean;&lt;br&gt;}" vertex="1">
+          <mxGeometry height="97.5" width="270" x="6680" y="521.25" as="geometry" />
+        </mxCell>
+        <mxCell id="A18jpzIbLcYZRwKmN8_x-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export type SUWServiceKey =&lt;br&gt;&amp;nbsp; &amp;nbsp; | &#39;ckan&#39;&lt;br&gt;&amp;nbsp; &amp;nbsp; | &#39;event-scheduler&#39;&lt;br&gt;&amp;nbsp; &amp;nbsp; | &#39;geoserver&#39;&lt;br&gt;&amp;nbsp; &amp;nbsp; | &#39;keycloak&#39;&lt;br&gt;&amp;nbsp; &amp;nbsp; | &#39;kstore&#39;&lt;br&gt;&amp;nbsp; &amp;nbsp; | &#39;mapapp&#39;&lt;br&gt;&amp;nbsp; &amp;nbsp; | &#39;preference-service&#39;&lt;br&gt;&amp;nbsp; &amp;nbsp; | &#39;all&#39;;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="167.5" width="250" x="7000" y="486.25" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-4" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-16" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="abstract logic" vertex="1">
+          <mxGeometry height="40" width="240" x="3840" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-10" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-12" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="click button &quot;Sicherung aller Dienste&quot;" vertex="1">
+          <mxGeometry height="40" width="240" x="4140" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-8" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export const useSUWProcessState = () =&amp;gt; {&lt;br&gt;&amp;nbsp; &amp;nbsp; const [events, setEvents] = useState&amp;lt;Record&amp;lt;string, SUWEvent | undefined&amp;gt;&amp;gt;({});&lt;br&gt;&amp;nbsp; &amp;nbsp; const [systemEvent, setSystemEvent] = useState&amp;lt;SUWEvent | undefined&amp;gt;();&lt;br&gt;&amp;nbsp; &amp;nbsp; const [isRefreshing, setIsRefreshing] = useState(false);&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; return {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; events,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setEvents,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; systemEvent,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setSystemEvent,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; isRefreshing,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; setIsRefreshing,&lt;br&gt;&amp;nbsp; &amp;nbsp; };&lt;br&gt;};&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="460" x="5550" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export interface SUWEvent {&lt;br&gt;&amp;nbsp; &amp;nbsp; eventId?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; traceId?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; eventTime?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; message?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; accessUrl?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; title?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; actor?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; eventDetails?: SUWEventDetails | null;&lt;br&gt;}" vertex="1">
+          <mxGeometry height="160" width="260" x="6050" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="trigger fetch(buildUrl(&#39;/backup/start&#39;" vertex="1">
+          <mxGeometry height="40" width="240" x="4440" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-14" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="set isLoadingSicherungAllServicesRequest true" vertex="1">
+          <mxGeometry height="40" width="240" x="4440" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="set isRunningSicherungAllServices true" vertex="1">
+          <mxGeometry height="40" width="240" x="4720" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-18" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-20" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-26" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TODO" vertex="1">
+          <mxGeometry height="40" width="240" x="3840" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-22" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Global State Management" vertex="1">
+          <mxGeometry height="40" width="240" x="4140" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="API Service" vertex="1">
+          <mxGeometry height="40" width="240" x="4140" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-24" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-36" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Global State Management" vertex="1">
+          <mxGeometry height="40" width="240" x="4440" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-28" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Step-By-Step Aufbau Code-Logic" vertex="1">
+          <mxGeometry height="40" width="240" x="4720" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Frontend Logik Schwerpunkte allgemein" vertex="1">
+          <mxGeometry height="40" width="240" x="4140" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-30" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-32" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-39" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UI-Layer" vertex="1">
+          <mxGeometry height="40" width="160" x="5000" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Leitfrage: Welche Zustände sind möglich und welche Variablen dafür nötig?" vertex="1">
+          <mxGeometry height="40" width="240" x="5200" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-37" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-117" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-116" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gesamtsystem" vertex="1">
+          <mxGeometry height="40" width="160" x="5200" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="outsource Button Logic in global State Management" vertex="1">
+          <mxGeometry height="40" width="160" x="4480" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-41" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-43" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-46" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-47" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-49" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-53" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-54" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-55" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-56" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-122" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-121" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sicherung" vertex="1">
+          <mxGeometry height="40" width="160" x="5400" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Leitfragen: Welche Elemente der UI können sich verändern" vertex="1">
+          <mxGeometry height="40" width="240" x="5200" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-67" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Status.enum" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-68" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Letztes Backup.string" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-69" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bearbeiter.string" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-70" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Titel.string" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-71" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="trace_id.string" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-82" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="trigger button" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-84" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="action button" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-86" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-85" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="update button" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="2440" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-104" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="operationStatus.OperationStatusEnum" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-105" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-97" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="eventTime.Date" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-106" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-97" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="user.string" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-108" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-97" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fileName.string" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-109" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-97" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="traceId.string" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-113" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="triggerButton.ButtonState" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-114" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="actionButton.ButtonState" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-115" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="updateButton.ButtonState" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2440" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-99" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-98" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export interface EventsEvent {&lt;br&gt;&amp;nbsp; &amp;nbsp; message: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; accessUrl: string; -&amp;gt; title -&amp;gt; getFileName&lt;br&gt;&amp;nbsp; &amp;nbsp; application: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; channelId: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; correlationId: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; entityKey: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; eventId: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; eventTime: Date; -&amp;gt; lastExecution&lt;br&gt;&amp;nbsp; &amp;nbsp; spanId: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; traceId: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; user: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; eventDetails: EventDetails;&lt;br&gt;}" vertex="1">
+          <mxGeometry height="220" width="240" x="7002.5" y="2130" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-101" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-100" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-103" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export interface EventDetails {&lt;br&gt;&amp;nbsp; &amp;nbsp; eventId: EventDetailsIdentifier;&lt;br&gt;&amp;nbsp; &amp;nbsp; operationStatus: OperationStatus;&lt;br&gt;}" vertex="1">
+          <mxGeometry height="80" width="205" x="7020" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export const enum EventDetailsIdentifier {&lt;br&gt;&amp;nbsp; &amp;nbsp; DATASET_CREATE = &quot;DATASET_CREATE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; DATASET_UPDATE = &quot;DATASET_UPDATE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; DATASET_DELETE = &quot;DATASET_DELETE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; KEYCLOAK_BACKUP = &quot;KEYCLOAK_BACKUP&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; KEYCLOAK_RESTORE = &quot;KEYCLOAK_RESTORE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; CKAN_BACKUP = &quot;CKAN_BACKUP&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; CKAN_RESTORE = &quot;CKAN_RESTORE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; GBFS_IMPORT = &quot;GBFS_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; GTFS_IMPORT = &quot;GTFS_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; MOBILITHEK_IMPORT = &quot;MOBILITHEK_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; OSM_IMPORT = &quot;OSM_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; TOMP_API_IMPORT = &quot;TOMP_API_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; EMAIL_SENT = &quot;EMAIL_SENT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; GTFSRT_IMPORT = &quot;GTFSRT_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; VRR_STATUS_IMPORT = &quot;VRR_STATUS_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; VRR_BIKERIDE_IMPORT = &quot;VRR_BIKERIDE_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; LOCATION_DELFI_BRUCH_IMPORT = &quot;LOCATION_DELFI_BRUCH_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; LOCATION_DELFI_TRIAS_IMPORT = &quot;LOCATION_DELFI_TRIAS_IMPORT&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; DATA_VERIFICATION = &quot;DATA_VERIFICATION&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; MAPAPP_BACKUP = &quot;MAPAPP_BACKUP&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; MAPAPP_RESTORE = &quot;MAPAPP_RESTORE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; GEOSERVER_BACKUP = &quot;GEOSERVER_BACKUP&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; GEOSERVER_RESTORE = &quot;GEOSERVER_RESTORE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; KSTORE_RESTORE = &quot;KSTORE_RESTORE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; ACCESS_RIGHTS_RESTORE = &quot;ACCESS_RIGHTS_RESTORE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; KSTORE_BACKUP = &quot;KSTORE_BACKUP&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; EVENT_SCHEDULER_BACKUP = &quot;EVENT_SCHEDULER_BACKUP&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; EVENT_SCHEDULER_RESTORE = &quot;EVENT_SCHEDULER_RESTORE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; PREFERENCE_SERVICE_BACKUP = &quot;PREFERENCE_SERVICE_BACKUP&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; PREFERENCE_SERVICE_RESTORE = &quot;PREFERENCE_SERVICE_RESTORE&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; FILE_SOURCES_BACKUP = &quot;FILE_SOURCES_BACKUP&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; FILE_SOURCES_RESTORE = &quot;FILE_SOURCES_RESTORE&quot;,&lt;br&gt;}" vertex="1">
+          <mxGeometry height="490" width="470" x="7342.5" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export const enum OperationStatus {&lt;br&gt;&amp;nbsp; &amp;nbsp; STARTED = &quot;STARTED&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; SUCCEEDED = &quot;SUCCEEDED&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; FAILED = &quot;FAILED&quot;,&lt;br&gt;}" vertex="1">
+          <mxGeometry height="80" width="242.5" x="6720" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="react-domain-models" vertex="1">
+          <mxGeometry height="40" width="160" x="5800" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ui-elements" vertex="1">
+          <mxGeometry height="40" width="160" x="5600" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-120" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-118" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="import { ButtonStatusEnum } from &#39;./ButtonStatusEnum&#39;;&lt;br&gt;&lt;br&gt;export interface ButtonState {&lt;br&gt;&amp;nbsp; &amp;nbsp; label: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; icon: React.ReactNode;&lt;br&gt;&amp;nbsp; &amp;nbsp; tooltip: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; buttonStatus: ButtonStatusEnum;&lt;br&gt;&amp;nbsp; &amp;nbsp; onClick: (event: React.MouseEvent&amp;lt;HTMLButtonElement&amp;gt; | React.KeyboardEvent&amp;lt;HTMLButtonElement&amp;gt;) =&amp;gt; void;&lt;br&gt;}" vertex="1">
+          <mxGeometry height="140" width="641.25" x="6068.75" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="java/datenmodell" vertex="1">
+          <mxGeometry height="40" width="160" x="6722.5" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wiederherstellung" vertex="1">
+          <mxGeometry height="40" width="160" x="5400" y="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export const enum ButtonStatusEnum {&lt;br&gt;&amp;nbsp; &amp;nbsp; IS_ENABLED = &#39;IS_ENABLED&#39;,&lt;br&gt;&amp;nbsp; &amp;nbsp; IS_LOADING = &#39;IS_LOADING&#39;,&lt;br&gt;&amp;nbsp; &amp;nbsp; IS_BLOCKED = &#39;IS_BLOCKED&#39;,&lt;br&gt;}" vertex="1">
+          <mxGeometry height="80" width="240" x="6269.37" y="2550" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="serviceOperationType.SUWServiceOperationTypeEnum" vertex="1">
+          <mxGeometry height="40" width="330" x="5800" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWServiceOperationDisplayState" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-124" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="serviceKey.SUWServiceKeyEnum" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-126" edge="1" parent="1" source="m1ILdNN-hqfPwOT9Snid-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m1ILdNN-hqfPwOT9Snid-125" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5510" y="2320" as="sourcePoint" />
+            <mxPoint x="5935" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1ILdNN-hqfPwOT9Snid-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="serviceName.SUWServiceNameEnum" vertex="1">
+          <mxGeometry height="40" width="240" x="5800" y="2080" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
