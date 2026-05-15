@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="_i9_kBp8al7bh837lAr-">
-    <mxGraphModel dx="1555" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1496" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -627,6 +627,159 @@
         </mxCell>
         <mxCell id="m1ILdNN-hqfPwOT9Snid-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="serviceName.SUWServiceNameEnum" vertex="1">
           <mxGeometry height="40" width="240" x="5800" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-3" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Manuelle Implementierung" vertex="1">
+          <mxGeometry height="40" width="200" x="5400" y="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-5" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-7" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. Page anlegen" vertex="1">
+          <mxGeometry height="40" width="200" x="5640" y="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SicherungUndWiederherstellungPage" vertex="1">
+          <mxGeometry height="40" width="240" x="5880" y="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-9" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2. UI-Komponentenstruktur definieren" vertex="1">
+          <mxGeometry height="40" width="200" x="5640" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-11" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-13" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-15" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="export const SicherungUndWiederherstellungPage = () =&amp;gt; {&lt;br&gt;&amp;nbsp; &amp;nbsp; useInitializeSUWRedux();&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; return (&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;div className=&quot;suw-page&quot;&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;h1 className=&quot;suw-page-title&quot;&amp;gt;Sicherung &amp;amp; Wiederherstellung&amp;lt;/h1&amp;gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;SUWSystemSection /&amp;gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;SUWServicesTable&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; id=&quot;sicherungServicesTable&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; operation=&quot;sicherung&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; headline=&quot;Sicherung einzelner Dienste&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; description=&quot;Status und Metadaten je Dienst (Sicherung).&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; statusLabel=&quot;Die Sicherung&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; primaryActionLabel=&quot;Sicherung erstellen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; secondaryActionLabel=&quot;Sicherung herunterladen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; uploadActionLabel=&quot;&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; isSicherungTable&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;SUWServicesTable&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; id=&quot;wiederherstellungServicesTable&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; operation=&quot;wiederherstellung&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; headline=&quot;Wiederherstellung einzelner Dienste&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; description=&quot;Status und Metadaten je Dienst (Wiederherstellung).&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; statusLabel=&quot;Die Wiederherstellung&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; primaryActionLabel=&quot;Aus letzter Sicherung wiederherstellen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; secondaryActionLabel=&quot;&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; uploadActionLabel=&quot;Aus ZIP-Datei wiederherstellen&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; /&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; );&lt;br&gt;};" vertex="1">
+          <mxGeometry height="490" width="520" x="5880" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-17" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-19" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWSystemSection" vertex="1">
+          <mxGeometry height="40" width="240" x="6440" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWServicesTable" vertex="1">
+          <mxGeometry height="40" width="240" x="6440" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWServicesTable" vertex="1">
+          <mxGeometry height="40" width="240" x="6440" y="3120" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-24" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-25" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-26" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-27" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWSystemSectionSicherung" vertex="1">
+          <mxGeometry height="40" width="240" x="6720" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWSystemSectionWiederherstellung" vertex="1">
+          <mxGeometry height="40" width="240" x="6720" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-35" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWStatusPanel" vertex="1">
+          <mxGeometry height="40" width="240" x="7000" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-29" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MobiButton" vertex="1">
+          <mxGeometry height="40" width="240" x="7000" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-31" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MobiButton" vertex="1">
+          <mxGeometry height="40" width="240" x="7000" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-33" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MobiButton" vertex="1">
+          <mxGeometry height="40" width="240" x="7000" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-37" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-41" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MobiButton" vertex="1">
+          <mxGeometry height="40" width="240" x="7280" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MobiButton" vertex="1">
+          <mxGeometry height="40" width="240" x="7280" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MobiButton" vertex="1">
+          <mxGeometry height="40" width="240" x="7280" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-50" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Anzeige Informationen Sicherung Gesamtsystem" vertex="1">
+          <mxGeometry height="40" width="240" x="7280" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-43" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Anzeigelogik" vertex="1">
+          <mxGeometry height="40" width="240" x="7560" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="if(&lt;br&gt;1. !isRunningSicherungAllServices&lt;br&gt;2. !isRunningSicherungSingleService&lt;br&gt;3. !isRunningWiederherstellungAllServices&lt;br&gt;4. !isRunningWiederherstellungSingleService&lt;br&gt;)" vertex="1">
+          <mxGeometry height="100" width="300" x="8080" y="2810" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verhaltenslogik" vertex="1">
+          <mxGeometry height="40" width="240" x="7560" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-45" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-46" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="disabled" vertex="1">
+          <mxGeometry height="40" width="197.5" x="7840" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-48" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="isLoading" vertex="1">
+          <mxGeometry height="40" width="197.5" x="7840" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="isLoading" vertex="1">
+          <mxGeometry height="40" width="197.5" x="8080" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-53" edge="1" parent="1" source="kNV597Jtgwb8VYHuKgaA-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kNV597Jtgwb8VYHuKgaA-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Anzeigelogik" vertex="1">
+          <mxGeometry height="40" width="240" x="7560" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="kNV597Jtgwb8VYHuKgaA-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWStatusPanel" vertex="1">
+          <mxGeometry height="40" width="200" x="7840" y="2800" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
