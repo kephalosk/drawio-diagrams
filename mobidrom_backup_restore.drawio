@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="_i9_kBp8al7bh837lAr-">
-    <mxGraphModel dx="1496" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -780,6 +780,69 @@
         </mxCell>
         <mxCell id="kNV597Jtgwb8VYHuKgaA-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWStatusPanel" vertex="1">
           <mxGeometry height="40" width="200" x="7840" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-3" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul-Struktur" vertex="1">
+          <mxGeometry height="40" width="240" x="3000" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-5" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-7" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-9" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-11" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;SicherungUndWiederherstellungPage.tsx&lt;/div&gt;src/pages/" vertex="1">
+          <mxGeometry height="40" width="320" x="3280" y="2920" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-13" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;useLoadSUWServiceOperationDisplayStatesDispatch.ts&lt;/div&gt;src/store/SicherungUndWiederherstellung/dispatches/" vertex="1">
+          <mxGeometry height="40" width="320" x="3640" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWSystemSection" vertex="1">
+          <mxGeometry height="40" width="320" x="3640" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWServiceTableSicherung" vertex="1">
+          <mxGeometry height="40" width="320" x="3640" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SUWServiceTableWiederherstellung" vertex="1">
+          <mxGeometry height="40" width="320" x="3640" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-15" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-17" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-19" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-21" edge="1" parent="1" source="HKEZMYlc0MGxoLwASWsA-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HKEZMYlc0MGxoLwASWsA-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;useHandleLoadSUWServiceOperationDisplayStatesResponsesDispatch.ts&lt;/div&gt;src/store/SicherungUndWiederherstellung/dispatches/" vertex="1">
+          <mxGeometry height="40" width="400" x="4000" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;useSetAlertForLoadSUWServiceOperationDisplayStatesErrorResponse.ts&lt;/div&gt;&lt;div&gt;src/hooks/SicherungUndWiederherstellung/SetAlert&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="4440" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;buildCombinedLoadSUWServiceOperationDisplayStatesError.ts&lt;/div&gt;&lt;div&gt;src/utils/SicherungUndWiederherstellung/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="4440" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;setSUWServiceSicherungDisplayStatesAction.ts&lt;/div&gt;&lt;div&gt;src/store/SicherungUndWiederherstellung/actions/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="4440" y="3040" as="geometry" />
+        </mxCell>
+        <mxCell id="HKEZMYlc0MGxoLwASWsA-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;setSUWServiceWiederherstellungDisplayStatesAction.ts&lt;/div&gt;&lt;div&gt;src/store/SicherungUndWiederherstellung/actions/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="4440" y="2960" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
