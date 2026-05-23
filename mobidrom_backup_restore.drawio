@@ -926,40 +926,40 @@
           <mxGeometry height="40" width="160" x="2240" y="3720" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" value="1. design UI Elements" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3060" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3080" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" value="9. implement UI Elements" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3380" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3400" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" value="10. embed UI Elements" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3420" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3440" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" value="11. embed Store-Layer" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3460" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3480" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFFF;" value="12. implement e2e-Tests" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3500" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3520" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" value="7. create global state (getters/setter)" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3300" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3320" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9933;" value="8. embed API-Layer (dispatch)" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3340" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3360" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="5. create Mapper" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3220" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3240" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="4. create Domain Models" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3180" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3200" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="3. create Schemas" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3140" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3160" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="2. create DTOs" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3100" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3120" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="6. create Services" vertex="1">
-          <mxGeometry height="40" width="160" x="2560" y="3260" as="geometry" />
+          <mxGeometry height="40" width="160" x="2560" y="3280" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-45" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -973,20 +973,38 @@
         <mxCell id="dn5kwBYVouNOB2NWDhfM-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Die 3 Primären Frontend-Layer" vertex="1">
           <mxGeometry height="40" width="240" x="1680" y="3280" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. atomare Modulstruktur nach Single Responsibility Principle" vertex="1">
-          <mxGeometry height="40" width="240" x="2560" y="2760" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-58" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-57" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2. semantische kontextgebene const-Namen, Datei-Namen, Wrapper" vertex="1">
-          <mxGeometry height="40" width="240" x="2560" y="2800" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-59" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-56" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3. strict explicit Typing" vertex="1">
-          <mxGeometry height="40" width="240" x="2560" y="2840" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-60" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-55" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5. 100% Unit Test Abdeckung" vertex="1">
-          <mxGeometry height="40" width="240" x="2560" y="2920" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-61" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-54" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4. explicit deterministic Tasks durch prompts/specs/skeletons" vertex="1">
-          <mxGeometry height="40" width="240" x="2560" y="2880" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-62" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI-optimized Code Architecture" vertex="1">
+          <mxGeometry height="40" width="240" x="2760" y="3240" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. atomare Modulstruktur nach Single Responsibility Principle" vertex="1">
+          <mxGeometry height="40" width="240" x="3040" y="3080" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2. semantische kontextgebene const-Namen, Datei-Namen, Wrapper" vertex="1">
+          <mxGeometry height="40" width="240" x="3040" y="3160" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3. strict explicit Typing" vertex="1">
+          <mxGeometry height="40" width="240" x="3040" y="3240" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5. 100% Unit Test Abdeckung" vertex="1">
+          <mxGeometry height="40" width="240" x="3040" y="3400" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4. explicit deterministic Tasks durch prompts/specs/skeletons" vertex="1">
+          <mxGeometry height="40" width="240" x="3040" y="3320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
