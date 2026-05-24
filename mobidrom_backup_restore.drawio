@@ -1270,8 +1270,14 @@
         <mxCell id="dn5kwBYVouNOB2NWDhfM-174" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-173" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-213" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-212" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-215" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-214" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;getSUWServiceSicherungDisplayStatesRequest.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/requests/&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="4000" y="5240" as="geometry" />
+          <mxGeometry height="40" width="400" x="4000" y="5520" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-156" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-155" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1363,8 +1369,10 @@
         <mxCell id="dn5kwBYVouNOB2NWDhfM-195" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-178" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-187" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-196" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-178" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-188" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-196" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-178" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-210" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5616.000000000001" y="6000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-197" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-178" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-189" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1387,26 +1395,65 @@
         <mxCell id="dn5kwBYVouNOB2NWDhfM-182" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromSUWServiceKeyToSUWServiceName.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="5440" y="5480" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromLatestEventToSUWServiceOperationDisplayState.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="5440" y="5560" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-204" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-202" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromLatestEventToSUWServiceOperationDisplayState.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-205" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-203" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromSUWOperationStatusToOperationStatusDisplay.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="5440" y="5640" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-187" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromLatestEventToSUWServiceOperationDisplayState.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="5440" y="5720" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-208" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-186" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-206" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-188" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromLatestEventToSUWServiceOperationDisplayState.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="5440" y="5800" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-209" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-186" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-207" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dn5kwBYVouNOB2NWDhfM-189" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromLatestEventToSUWServiceOperationDisplayState.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="5440" y="5880" as="geometry" />
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromSUWServiceOperationTypeToSUWOperationTimestampDisplayLabel.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="410" x="5440" y="5800" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-211" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-210" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-187" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromSUWServiceOperationEventTimeToSUWOperationTimestampDisplayValue.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/mapper/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="460" x="5415" y="5920" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-189" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;ButtonStatusEnumUpperCase.ts&lt;/div&gt;&lt;div&gt;src/models/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="5440" y="6000" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-198" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;SUWServiceKeyEnumLowerCase.ts&lt;/div&gt;&lt;div&gt;src/models/SicherungUndWiederherstellung/&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="5920" y="5440" as="geometry" />
         </mxCell>
         <mxCell id="dn5kwBYVouNOB2NWDhfM-199" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;SUWServiceNameEnumMiddleCase.ts&lt;/div&gt;&lt;div&gt;src/models/SicherungUndWiederherstellung/&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="5920" y="5520" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-202" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;SUWOperationStatusEnumUpperCase.ts&lt;/div&gt;&lt;div&gt;src/models/SicherungUndWiederherstellung/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="5920" y="5600" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-203" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;SUWOperationStatusDisplayEnumLowerCase.ts&lt;/div&gt;&lt;div&gt;src/models/SicherungUndWiederherstellung/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="5920" y="5680" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-206" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;SUWServiceOperationTypeEnumUpperCase.ts&lt;/div&gt;&lt;div&gt;src/models/SicherungUndWiederherstellung/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="5920" y="5760" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-207" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;SUWOperationTimestampDisplayEnumMiddleCase.ts&lt;/div&gt;&lt;div&gt;src/models/SicherungUndWiederherstellung/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="5920" y="5840" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-210" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;VALUE_NOT_AVAILABLE.ts&lt;/div&gt;&lt;div&gt;src/constants/SicherungUndWiederherstellung/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="5920" y="5920" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-212" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;createAPIResponse.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/helper/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="4480" y="5440" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-217" edge="1" parent="1" source="dn5kwBYVouNOB2NWDhfM-214" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dn5kwBYVouNOB2NWDhfM-216" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-214" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;fromUnknownErrorToAPIError.ts&lt;/div&gt;&lt;div&gt;src/services/BackupRestoreOrchestrator/helper/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="4480" y="5720" as="geometry" />
+        </mxCell>
+        <mxCell id="dn5kwBYVouNOB2NWDhfM-216" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;APIErrorTypeEnumMiddleCase.ts&lt;/div&gt;&lt;div&gt;src/models/&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="4960" y="5720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
