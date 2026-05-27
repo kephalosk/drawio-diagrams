@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="OuEXy3bsrt8P45ZoU-kJ">
-    <mxGraphModel dx="1528" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="1445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Masterarbeit Wirtschaftspsychologie" vertex="1">
-          <mxGeometry height="40" width="240" x="40" y="40" as="geometry" />
+          <mxGeometry height="40" width="240" x="860" y="40" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-9" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Affirmath - Affirmationstherapie" vertex="1">
-          <mxGeometry height="40" width="240" x="40" y="120" as="geometry" />
+          <mxGeometry height="40" width="240" x="860" y="120" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-10" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Intention" vertex="1">
-          <mxGeometry height="40" width="120" x="320" y="160" as="geometry" />
+          <mxGeometry height="40" width="120" x="920" y="200" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Trauma-Therapie mit Hilfe von positiven Affirmationen und Akkupressur" vertex="1">
-          <mxGeometry height="40" width="400" x="480" y="120" as="geometry" />
+          <mxGeometry height="40" width="400" x="1280" y="280" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ziel ist die Eindämmung, Abschwächung und Ablösung von Kindheitstraumafolgestörungen und Retraumatisierungen durch&amp;nbsp;Bildung und Übernahme einer neuen Identitätsgrundlage" vertex="1">
-          <mxGeometry height="80" width="400" x="480" y="200" as="geometry" />
+          <mxGeometry height="80" width="400" x="1440" y="360" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-16" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-15" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wann?" vertex="1">
-          <mxGeometry height="40" width="120" x="480" y="360" as="geometry" />
+          <mxGeometry height="40" width="120" x="1720" y="200" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Therapie-Zeitraum erstreckt sich über 2 Jahre" vertex="1">
-          <mxGeometry height="40" width="240" x="640" y="320" as="geometry" />
+          <mxGeometry height="40" width="240" x="1880" y="80" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-20" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-19" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -65,31 +65,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Therapie-Zeitraum unterteilt sich in 4 Phasen zu je 6 Monaten" vertex="1">
-          <mxGeometry height="40" width="240" x="640" y="520" as="geometry" />
+          <mxGeometry height="40" width="240" x="1880" y="200" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-95" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-94" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Phase 1: Norming" vertex="1">
-          <mxGeometry height="40" width="160" x="920" y="400" as="geometry" />
+          <mxGeometry height="40" width="160" x="2160" y="80" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-101" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-100" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Phase 2: Forming" vertex="1">
-          <mxGeometry height="40" width="160" x="920" y="480" as="geometry" />
+          <mxGeometry height="40" width="160" x="2160" y="160" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-99" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-98" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Phase 3: Storming" vertex="1">
-          <mxGeometry height="40" width="160" x="920" y="560" as="geometry" />
+          <mxGeometry height="40" width="160" x="2160" y="240" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-97" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-96" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Phase 4: Performing" vertex="1">
-          <mxGeometry height="40" width="160" x="920" y="640" as="geometry" />
+          <mxGeometry height="40" width="160" x="2160" y="320" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-30" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-29" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -104,37 +104,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Wie?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="480" y="955" as="geometry" />
+          <mxGeometry height="40" width="120" x="920" y="920" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-32" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-31" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1. Anamnese" vertex="1">
-          <mxGeometry height="40" width="120" x="640" y="720" as="geometry" />
+          <mxGeometry height="40" width="120" x="1050" y="690" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Identifikation von Traumata, negativen Glaubenssätzen, negativen Glaubenssystemen und sonstigen negativen Gedankenmustern" vertex="1">
-          <mxGeometry height="40" width="440" x="800" y="720" as="geometry" />
+          <mxGeometry height="40" width="440" x="1210" y="690" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-36" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-35" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2. Definition einer neuen Identität" vertex="1">
-          <mxGeometry height="40" width="120" x="640" y="800" as="geometry" />
+          <mxGeometry height="40" width="120" x="1050" y="770" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Formulierung eines Wunschzustandes und Ableitung von Schwerpunkten in verschiedenen Lebensbereichen (Menschlichkeit, Selbstbestimmung, Sinn/Glück, Erfüllung, Wohlstand)" vertex="1">
-          <mxGeometry height="40" width="520" x="800" y="800" as="geometry" />
+          <mxGeometry height="40" width="520" x="1210" y="770" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-40" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-39" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3. Ableitung von Affirmationen" vertex="1">
-          <mxGeometry height="40" width="120" x="640" y="880" as="geometry" />
+          <mxGeometry height="40" width="120" x="1050" y="850" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-42" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-41" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zu jedem Lebensbereich werden 5 Affirmationsblöcke gebildet, z.B. im Bezug auf Selbstbestimmung: Selbstwert, Talent, Kraft, Heilung, Selbstsicherheit" vertex="1">
-          <mxGeometry height="40" width="520" x="800" y="880" as="geometry" />
+          <mxGeometry height="40" width="520" x="1210" y="850" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-44" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-43" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -143,40 +143,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Zu jedem Affirmationsblock werden 12 Affirmationen gebildet, z.B. in Bezug auf Selbstwert:&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="520" x="800" y="960" as="geometry" />
+          <mxGeometry height="40" width="520" x="1210" y="930" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="1. Ich bin wichtig; ich bin dankbar für alles gute in meinem Leben.&lt;br&gt;2. Ich bin geliebt; das bin ich; alles andere ist egal.&lt;br&gt;3. Ich bin voller Freude; ich liebe meine Affirmationen mehr als alles andere.&lt;br&gt;4. Ich bin gut so wie ich bin; ich habe nur das beste verdient.&lt;br&gt;5. Ich bin ruhig wie gelassen; ich bin 1.&lt;br&gt;6. Ich lasse alle negativen Gedanken verblassen.&lt;br&gt;7. Ich sehe in Allem das Positive Gute; ich bin liebenswert.&lt;br&gt;8. Alles ist ein wichtiger Baustein für mein Leben.&lt;br&gt;9. Es geschieht alles so wie es vorherbestimmt ist.&lt;br&gt;10. Ich akzeptiere alles, was ich nicht ändern kann.&lt;br&gt;11. Alle Probleme sind bereits gelöst.&lt;br&gt;12. Ich bin vollkommen gesund, geheilt; ich bin stark; ich bin gut." vertex="1">
-          <mxGeometry height="190" width="450" x="1360" y="880" as="geometry" />
+          <mxGeometry height="285" width="300" x="1780" y="805" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-48" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-47" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3. Durchführung von Affirmationen" vertex="1">
-          <mxGeometry height="40" width="120" x="640" y="1220" as="geometry" />
+        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4. Durchführung von Affirmationen" vertex="1">
+          <mxGeometry height="40" width="120" x="1050" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-52" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-51" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ein Affirmationsblock wird 12 mal wiederholt. Dabei werden die Affirmationen ausgesprochen und gleichzeitig wird mit den Fingerspitzen auf bestimmte Körperstellen geklopft, die sich mit jeder Affirmation durchgehend abwechseln." vertex="1">
-          <mxGeometry height="80" width="520" x="800" y="1200" as="geometry" />
+          <mxGeometry height="80" width="520" x="1210" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Das ergibt bei 5 Lebensbereichen zu je 5 Affirmationsblöcken zu je 12 Affirmationen insgesamt 300 unterschiedliche Affirmationen die ausformuliert werden. Eine Affirmation ist rund 9 Worte lang. Das ergibt etwa 2700 Wörter." vertex="1">
-          <mxGeometry height="50" width="520" x="800" y="1040" as="geometry" />
+          <mxGeometry height="50" width="520" x="1210" y="990" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-54" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-53" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Der Vorgang nimmt rund 5 Minuten in Anspruch, bzw. circa zwei bis drei Sekunden je Affirmation." vertex="1">
-          <mxGeometry height="40" width="520" x="800" y="1320" as="geometry" />
+          <mxGeometry height="40" width="520" x="1210" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nach dem Durchlauf erfolgt eine Abklingzeit von mindestens ein bis zwei Minuten. Danach kann mit dem nächsten Affirmationsblock fortgefahren werden." vertex="1">
-          <mxGeometry height="40" width="520" x="800" y="1400" as="geometry" />
+          <mxGeometry height="40" width="520" x="1210" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-58" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-57" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Evidenz" vertex="1">
-          <mxGeometry height="40" width="120" x="320" y="1800" as="geometry" />
+          <mxGeometry height="40" width="120" x="1880" y="730" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-60" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-59" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -188,16 +188,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Patient 0&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="480" y="1800" as="geometry" />
+          <mxGeometry height="40" width="120" x="2040" y="730" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-62" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-61" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wer?" vertex="1">
-          <mxGeometry height="40" width="120" x="640" y="1480" as="geometry" />
+          <mxGeometry height="40" width="120" x="2200" y="410" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Philipp Kraatz" vertex="1">
-          <mxGeometry height="40" width="240" x="800" y="1480" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="410" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-66" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-65" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -215,34 +215,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Wann?" vertex="1">
-          <mxGeometry height="40" width="120" x="640" y="1720" as="geometry" />
+          <mxGeometry height="40" width="120" x="2200" y="650" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Start der Affirmationstherapie am 29. November 2024" vertex="1">
-          <mxGeometry height="40" width="240" x="800" y="1560" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-111" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-110" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abschluss Phase 1 am 28. Mai 2025 nach 555.552 Affirmationen" vertex="1">
-          <mxGeometry height="40" width="240" x="800" y="1640" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-112" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-110" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abschluss Phase 2 am 28. November 2025 nach 1.491.264 Affirmationen" vertex="1">
-          <mxGeometry height="40" width="240" x="800" y="1720" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="650" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-74" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-73" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-113" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-110" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" value="Abschluss Phase 3 am 28. Mai 2026 nach 2.640.240 Affirmationen" vertex="1">
-          <mxGeometry height="40" width="240" x="800" y="1800" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="730" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" value="TODO: Zahl aktualisieren / Stand: 27. Mai 09:42" vertex="1">
-          <mxGeometry height="40" width="240" x="1080" y="1800" as="geometry" />
+          <mxGeometry height="40" width="240" x="2640" y="730" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-76" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-78" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-114" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-110" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" value="&lt;div&gt;Abschluss Phase 4 am 28. November 2026 nach 3.567.600 Affirmationen&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="240" x="800" y="1880" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="810" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" value="TODO: Zahl aktualisieren / Stand: 27. Mai 09:42" vertex="1">
-          <mxGeometry height="40" width="240" x="1080" y="1880" as="geometry" />
+          <mxGeometry height="40" width="240" x="2640" y="810" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-83" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-82" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -263,61 +275,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Warum?" vertex="1">
-          <mxGeometry height="40" width="120" x="640" y="2160" as="geometry" />
+          <mxGeometry height="40" width="120" x="2200" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Selbstwert-Störung durch Traumatisierungen in der Kindheit und Retraumatisierungen in der fortlaufenden psychischen Entwicklung" vertex="1">
-          <mxGeometry height="40" width="400" x="800" y="1960" as="geometry" />
+          <mxGeometry height="40" width="400" x="2360" y="890" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ausprägung der Selbstwert-Störung in Form von starker Scham und Selbstekel" vertex="1">
-          <mxGeometry height="40" width="400" x="800" y="2040" as="geometry" />
+          <mxGeometry height="40" width="400" x="2360" y="970" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Psychische Folgen der Selbstwert-Störung: Angststörungen, Depressionen, Überkompensation, soziale Isolation, Einsamkeit" vertex="1">
-          <mxGeometry height="40" width="400" x="800" y="2120" as="geometry" />
+          <mxGeometry height="40" width="400" x="2360" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Physische Folgen der Selbstwert-Störung: Übergewicht, Abhängigkeiten, räumliche Isolation, Intoxikation" vertex="1">
-          <mxGeometry height="40" width="400" x="800" y="2200" as="geometry" />
+          <mxGeometry height="40" width="400" x="2360" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Therapie-Ziel: Aufbau eines gesunden Selbstwertes. Abbau negativer Gedankensysteme. Eindämmung/Abgrenzung von Traumata" vertex="1">
-          <mxGeometry height="40" width="400" x="800" y="2360" as="geometry" />
+          <mxGeometry height="40" width="400" x="2360" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Soziale Folgen der Selbstwert-Störung: Bindungsstörung, Mangel an Freundschaften, People Pleasing / Falsche Freundschaften, Mangel an Beziehungen, Asexualität" vertex="1">
-          <mxGeometry height="40" width="480" x="800" y="2280" as="geometry" />
+          <mxGeometry height="40" width="480" x="2360" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-109" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-108" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Umgewöhnungsphase" vertex="1">
-          <mxGeometry height="40" width="240" x="1120" y="400" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="80" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-105" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-104" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Heilungsphase" vertex="1">
-          <mxGeometry height="40" width="240" x="1121" y="640" as="geometry" />
+          <mxGeometry height="40" width="240" x="2361" y="320" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-103" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-102" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Konfrontationsphase" vertex="1">
-          <mxGeometry height="40" width="240" x="1120" y="560" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="240" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-107" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-106" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fundamentphase" vertex="1">
-          <mxGeometry height="40" width="240" x="1120" y="480" as="geometry" />
+          <mxGeometry height="40" width="240" x="2360" y="160" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Brücke zur kognitiven Verhaltenstherapie" vertex="1">
-          <mxGeometry height="40" width="240" x="1400" y="560" as="geometry" />
+          <mxGeometry height="40" width="240" x="2640" y="240" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rückbildung negativer Gewohnheiten" vertex="1">
-          <mxGeometry height="40" width="240" x="1400" y="640" as="geometry" />
+          <mxGeometry height="40" width="240" x="2640" y="320" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aufbau einer neuen Identitätsgrundlage" vertex="1">
-          <mxGeometry height="40" width="240" x="1400" y="480" as="geometry" />
+          <mxGeometry height="40" width="240" x="2640" y="160" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gewöhnung an den Affirmationsprozess" vertex="1">
-          <mxGeometry height="40" width="240" x="1400" y="400" as="geometry" />
+          <mxGeometry height="40" width="240" x="2640" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" value="TODO: Ableitung möglicher Zielwerte" vertex="1">
+          <mxGeometry height="40" width="240" x="2640" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
