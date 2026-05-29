@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="OuEXy3bsrt8P45ZoU-kJ">
-    <mxGraphModel dx="1395" dy="1445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="125" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,17 +232,11 @@
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Abschluss Phase 2 am 28. November 2025 nach 1.491.264 Affirmationen" vertex="1">
           <mxGeometry height="40" width="240" x="2360" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-74" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-73" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-113" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-110" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" value="Abschluss Phase 3 am 28. Mai 2026 nach 2.640.240 Affirmationen" vertex="1">
+        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Abschluss Phase 3 am 28. Mai 2026 nach 2.637.936 Affirmationen" vertex="1">
           <mxGeometry height="40" width="240" x="2360" y="730" as="geometry" />
-        </mxCell>
-        <mxCell id="LeoVObrxh5ZpNmHJ5fCl-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" value="TODO: Zahl aktualisieren / Stand: 27. Mai 09:42" vertex="1">
-          <mxGeometry height="40" width="240" x="2640" y="730" as="geometry" />
         </mxCell>
         <mxCell id="LeoVObrxh5ZpNmHJ5fCl-76" edge="1" parent="1" source="LeoVObrxh5ZpNmHJ5fCl-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LeoVObrxh5ZpNmHJ5fCl-78" value="">
           <mxGeometry relative="1" as="geometry" />
