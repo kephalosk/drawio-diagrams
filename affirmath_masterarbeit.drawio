@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="OuEXy3bsrt8P45ZoU-kJ">
-    <mxGraphModel dx="476" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="549" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -475,8 +475,14 @@
         <mxCell id="39DUQxZSh2RsqTDBtD54-6" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-44" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-107" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-106" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="39DUQxZSh2RsqTDBtD54-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Theoretische Grundlagen" vertex="1">
-          <mxGeometry height="40" width="160" x="920" y="1360" as="geometry" />
+          <mxGeometry height="40" width="160" x="920" y="2680" as="geometry" />
         </mxCell>
         <mxCell id="39DUQxZSh2RsqTDBtD54-8" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-7" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -588,6 +594,216 @@
         </mxCell>
         <mxCell id="39DUQxZSh2RsqTDBtD54-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Folge: Panikstörungen, Depressionen, Isolation, Substanzmissbrauch" vertex="1">
           <mxGeometry height="40" width="360" x="2320" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-46" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-51" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-55" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-59" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-63" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menschlicher Hormonhaushalt" vertex="1">
+          <mxGeometry height="40" width="160" x="1119" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-48" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cortisol" vertex="1">
+          <mxGeometry height="40" width="160" x="1320" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-67" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-71" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-70" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stimulierung des Fight-or-Flight-Modus" vertex="1">
+          <mxGeometry height="40" width="360" x="1520" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-53" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Oxytocin" vertex="1">
+          <mxGeometry height="40" width="160" x="1319" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-80" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-81" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-78" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stimulierung des Rest-and-Digest-Modus" vertex="1">
+          <mxGeometry height="40" width="360" x="1520" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-57" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dopamin" vertex="1">
+          <mxGeometry height="40" width="160" x="1319" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-88" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-89" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stimulierung des Belohnungssystems" vertex="1">
+          <mxGeometry height="40" width="360" x="1520" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-61" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Serotonin" vertex="1">
+          <mxGeometry height="40" width="160" x="1319" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-96" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-91" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-97" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-94" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stimulierung des Belohnungssystems" vertex="1">
+          <mxGeometry height="40" width="360" x="1520" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-65" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Melatonin" vertex="1">
+          <mxGeometry height="40" width="160" x="1320" y="2520" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-104" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-99" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-105" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Stimulierung des Schlaf-/Regenerationssystems" vertex="1">
+          <mxGeometry height="40" width="360" x="1520" y="2520" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-69" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-68" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="akute Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="erhöhte Aufmerksamkeit, erhöhte Reaktionsfähigkeit, erhöhte körperliche Leistungsfähigkeit" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-73" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="chronische Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Angststörungen, Panik-Attacken, Psychosen" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-74" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="akute Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gesenkte Aufmerksamkeit, gesenkte Reaktionsfähigkeit, gesenkte körperliche Leistungsfähigkeit" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-77" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="chronische Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Erfüllung, Heilung, geistige Klarheit" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-82" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="akute Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="intensivere Reizwahrnehmung, Zufriedenheit, erhöhte Leistungsbereitschaft, erhöhtes Selbstbewusstsein" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="2160" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-85" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="chronische Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gestörtes Gleichgewicht des Belohnungssystems, Verlust von Motivation, emotionale Abstumpfung" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-90" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="akute Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gesteigerte Selbstzufriedenheit, erhöhtes Sicherheitsgefühl, erhöhte geistige Leistungsfähigkeit" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-93" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-95" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="chronische Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gestörtes Gleichgewicht des Belohnungssystems, Verlust von Motivation, emotionale Abstumpfung" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="2400" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-98" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-100" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="akute Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;verlangsamter Stoffwechsel, Müdigkeit, erhöhte Regenerationsfähigkeit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-101" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-103" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="chronische Überstimulierung" vertex="1">
+          <mxGeometry height="40" width="360" x="1920" y="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fatigue-Syndrom, gesenkte Leistungsbereitschaft, intensivere Traumwahrnehmung" vertex="1">
+          <mxGeometry height="40" width="360" x="2320" y="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-112" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-108" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-113" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-109" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-114" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-110" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-115" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-106" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gehirnwellenaktivität" vertex="1">
+          <mxGeometry height="40" width="160" x="1120" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Alpha-Wellen" vertex="1">
+          <mxGeometry height="40" width="160" x="1320" y="2600" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beta-Wellen" vertex="1">
+          <mxGeometry height="40" width="160" x="1319" y="2680" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gamma-Wellen" vertex="1">
+          <mxGeometry height="40" width="160" x="1319" y="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="39DUQxZSh2RsqTDBtD54-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Delta-Wellen" vertex="1">
+          <mxGeometry height="40" width="160" x="1320" y="2840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
