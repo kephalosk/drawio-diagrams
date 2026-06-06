@@ -547,7 +547,7 @@
         <mxCell id="39DUQxZSh2RsqTDBtD54-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bei Entwicklung von positiven Reizreaktionsmustern" vertex="1">
           <mxGeometry height="40" width="360" x="1920" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="39DUQxZSh2RsqTDBtD54-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Folge: Urvertrauen, Geborgenheit, Oxytocin-dominierte Emotionsmuster" vertex="1">
+        <mxCell id="39DUQxZSh2RsqTDBtD54-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Folge: Urvertrauen, Geborgenheit, Oxytocin-dominierte Emotionsmuster, regulierte Gehirnaktivität" vertex="1">
           <mxGeometry height="40" width="360" x="2320" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="39DUQxZSh2RsqTDBtD54-26" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-25" value="">
@@ -556,7 +556,7 @@
         <mxCell id="39DUQxZSh2RsqTDBtD54-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bei Entwicklung von negativen Reizreaktionsmustern" vertex="1">
           <mxGeometry height="40" width="360" x="1920" y="1440" as="geometry" />
         </mxCell>
-        <mxCell id="39DUQxZSh2RsqTDBtD54-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Folge: Misstrauen, Gereiztheit, Cortisol-dominierte Emotionsmuster" vertex="1">
+        <mxCell id="39DUQxZSh2RsqTDBtD54-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Folge: Misstrauen, Gereiztheit, Cortisol-dominierte Emotionsmuster, übersteigerte Gehirnaktivität" vertex="1">
           <mxGeometry height="40" width="360" x="2320" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="39DUQxZSh2RsqTDBtD54-27" edge="1" parent="1" source="39DUQxZSh2RsqTDBtD54-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="39DUQxZSh2RsqTDBtD54-29" value="">
