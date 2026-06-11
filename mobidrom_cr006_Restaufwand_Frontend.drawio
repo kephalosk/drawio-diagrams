@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1816" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="506" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;" value="mit Frontend-Anteil" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
           <mxGeometry height="360" width="1600" x="200" y="3920" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;" value="mit Frontend-Anteil" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
           <mxGeometry height="680" width="1600" x="200" y="2960" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;verticalAlign=top;align=left;fontSize=18;" value="mit Frontend-Anteil" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;verticalAlign=top;align=left;fontSize=18;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
           <mxGeometry height="520" width="1600" x="200" y="2000" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=24;fontStyle=1;align=left;" value="MOBIDROM CR006: Offene Tickets (ohne Epics) - Fokus Restaufwand Materna Frontend" vertex="1">
@@ -307,37 +307,37 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-114" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-113" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Cengiz? / Schätzung 2PT" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Ready For Sprint / Cengiz? / Schätzung 2PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="2040" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-115" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-113" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Cengiz? / Schätzung 2PT" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Ready For Sprint / Cengiz? / Schätzung 2PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="2120" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-116" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-113" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Cengiz? / Schätzung 2PT" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Ready For Sprint / Cengiz?Vil? / Schätzung 2PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="2200" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-117" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-113" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Vil? / Schätzung 1PT" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Ready For Sprint / Vil? / Schätzung 1PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="2280" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-118" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-113" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Vil? / Schätzung 2PT" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Ready For Sprint / Vil? / Schätzung 2PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="2360" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-119" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-113" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Vil? / Schätzung 1PT" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Ready For Sprint / Vil? / Schätzung 1PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="2440" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-121" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-120" value="">
@@ -346,8 +346,8 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 10 PT" vertex="1">
           <mxGeometry height="40" width="320" x="1080" y="2240" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Gesamt Restaufwand: 15 PT" vertex="1">
-          <mxGeometry height="40" width="320" x="1440" y="3280" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Gesamt Restaufwand CR006: 15 PT" vertex="1">
+          <mxGeometry height="40" width="350" x="1440" y="3280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
