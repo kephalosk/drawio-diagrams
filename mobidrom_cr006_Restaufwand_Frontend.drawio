@@ -355,7 +355,7 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="&lt;div&gt;Frontend Gesamt Restaufwand CR006: 15 PT&lt;/div&gt;Ziel: 30. Juni 2026 / Ende Sprint 24" vertex="1">
           <mxGeometry height="40" width="350" x="1440" y="3280" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" value="OFFENER PUNKT @BACKEND: wie schneiden wir die PR&#39;s" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" value="OFFENER PUNKT @BACKEND: wie schneiden wir die PR&#39;s?" vertex="1">
           <mxGeometry height="40" width="320" x="1080" y="3360" as="geometry" />
         </mxCell>
       </root>
