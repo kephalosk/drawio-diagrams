@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="506" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1101" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -205,6 +205,9 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-85" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-84" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-1" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#883&amp;nbsp;[User Story]: Restore Gesamtsystem" vertex="1">
           <mxGeometry height="40" width="440" x="240" y="3080" as="geometry" />
         </mxCell>
@@ -235,13 +238,13 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-79" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-78" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="(kein CR006) #1276&amp;nbsp;[Bug] [Datentabellenverwaltung]: Paging für sehr große Tabellen (500+ Datensätze) funktioniert nicht" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="(Bug 2 Pascal: kein CR006) #1276&amp;nbsp;[Bug] [Datentabellenverwaltung]: Paging für sehr große Tabellen (500+ Datensätze) funktioniert nicht" vertex="1">
           <mxGeometry height="40" width="440" x="240" y="3560" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-73" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-72" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="(kein CR006) #1275&amp;nbsp;[Bug] [Datentabellenverwaltung]: Filter funktioniert nicht" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="(Bug 1 Pascal: kein CR006) #1275&amp;nbsp;[Bug] [Datentabellenverwaltung]: Filter funktioniert nicht" vertex="1">
           <mxGeometry height="40" width="440" x="240" y="4040" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Erfolgreich getestet" vertex="1">
@@ -295,6 +298,9 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-122" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-120" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-3" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 3-5 PT" vertex="1">
           <mxGeometry height="40" width="320" x="1080" y="3280" as="geometry" />
         </mxCell>
@@ -346,8 +352,11 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 10 PT" vertex="1">
           <mxGeometry height="40" width="320" x="1080" y="2240" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Gesamt Restaufwand CR006: 15 PT" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="&lt;div&gt;Frontend Gesamt Restaufwand CR006: 15 PT&lt;/div&gt;Ziel: 30. Juni 2026 / Ende Sprint 24" vertex="1">
           <mxGeometry height="40" width="350" x="1440" y="3280" as="geometry" />
+        </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" value="OFFENER PUNKT @BACKEND: wie schneiden wir die PR&#39;s" vertex="1">
+          <mxGeometry height="40" width="320" x="1080" y="3360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
