@@ -1,13 +1,22 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1135" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=20;fontStyle=1;align=left;" value="MOBIDROM CR006: Offene Tickets (ohne Epics) - Fokus Restaufwand Materna Frontend" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;" value="mit Frontend-Anteil" vertex="1">
+          <mxGeometry height="400" width="1600" x="200" y="4000" as="geometry" />
+        </mxCell>
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;" value="mit Frontend-Anteil" vertex="1">
+          <mxGeometry height="720" width="1600" x="200" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;verticalAlign=top;align=left;fontSize=18;" value="mit Frontend-Anteil" vertex="1">
+          <mxGeometry height="560" width="1600" x="200" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=24;fontStyle=1;align=left;" value="MOBIDROM CR006: Offene Tickets (ohne Epics) - Fokus Restaufwand Materna Frontend" vertex="1">
           <mxGeometry height="40" width="1030" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=12;fontStyle=1;align=left;" value="&lt;div&gt;Stand 11.Juni 2026&lt;/div&gt;" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;fontStyle=1;align=left;" value="&lt;div&gt;Stand 11.Juni 2026&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-77" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-76" value="">
@@ -16,13 +25,13 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="#920: [User Story]: Datentabellen importieren/exportieren" vertex="1">
           <mxGeometry height="40" width="440" x="240" y="4080" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1" value="In QA" vertex="1">
-          <mxGeometry height="40" width="2280" x="120" y="3760" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
+          <mxGeometry height="40" width="1680" x="120" y="3760" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" value="#892&amp;nbsp;[User Story]: CKAN Update (Hauptversionssprung)" vertex="1">
           <mxGeometry height="40" width="440" x="120" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#6666FF;fontStyle=1" value="wavestone" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#6666FF;fontStyle=1;fontSize=18;" value="wavestone" vertex="1">
           <mxGeometry height="40" width="200" x="80" y="160" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;" value="#870&amp;nbsp;[User Story]: Implementierung der ACLs pro Service" vertex="1">
@@ -31,8 +40,8 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;" value="#872&amp;nbsp;[User Story]: Aktivierung der ACL-Prüfung auf Kafka" vertex="1">
           <mxGeometry height="40" width="440" x="160" y="4600" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF33FF;fontStyle=1" value="In Approval" vertex="1">
-          <mxGeometry height="40" width="2280" x="120" y="4440" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF33FF;fontStyle=1;fontSize=18;" value="In Approval" vertex="1">
+          <mxGeometry height="40" width="1680" x="120" y="4440" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" value="#893&amp;nbsp;[User Story]: Härtung der Standardinstallation von CKAN" vertex="1">
           <mxGeometry height="40" width="440" x="120" y="320" as="geometry" />
@@ -43,10 +52,10 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;" value="#618&amp;nbsp;[Bug] [Mobilitheksexporter] Fehler bei Validierung: &quot;Array found, Object expected&quot;" vertex="1">
           <mxGeometry height="40" width="440" x="120" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#E6FFCC;fontStyle=1" value="&lt;div&gt;traffgo&lt;/div&gt;" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#E6FFCC;fontStyle=1;fontSize=18;" value="&lt;div&gt;traffgo&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="80" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFE6CC;fontStyle=1" value="&lt;div&gt;trafficon&lt;/div&gt;" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFE6CC;fontStyle=1;fontSize=18;" value="&lt;div&gt;trafficon&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="80" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" value="#959&amp;nbsp;[User Story]: GBFS-Importe nur bei Trigger Anstoß" vertex="1">
@@ -58,8 +67,8 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#615&amp;nbsp;[User Story]: Unklares Verhalten bei Anlage von Einträgen identischer ID / identischen Namens in Datenquellenverwaltung und Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="240" y="4240" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;fontStyle=1" value="In Development" vertex="1">
-          <mxGeometry height="40" width="2280" x="120" y="2600" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;fontStyle=1;fontSize=18;" value="In Development" vertex="1">
+          <mxGeometry height="40" width="1680" x="120" y="2600" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-83" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-82" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -112,8 +121,8 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="#955&amp;nbsp;[User Story]: Automatisierung Regressionstests – Organisations- u. Tagverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="160" y="3840" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FFFF;fontStyle=1" value="In Refinement" vertex="1">
-          <mxGeometry height="40" width="2280" x="120" y="1760" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FFFF;fontStyle=1;fontSize=18;" value="In Refinement" vertex="1">
+          <mxGeometry height="40" width="1680" x="120" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#960&amp;nbsp;[User Story]: Erweiterung des Architekturkonzepts zur Adaption der Plattformkomponenten" vertex="1">
           <mxGeometry height="40" width="440" x="160" y="2760" as="geometry" />
@@ -214,23 +223,14 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="noch nicht geschlossen" vertex="1">
           <mxGeometry height="40" width="200" x="600" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF0000;fontStyle=1" value="Materna" vertex="1">
-          <mxGeometry height="40" width="2320" x="80" y="1680" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF0000;fontStyle=1;fontSize=18;" value="Materna" vertex="1">
+          <mxGeometry height="40" width="1720" x="80" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-62" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="KAzs0ncSA1o2T3-7AXRQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-66" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="KAzs0ncSA1o2T3-7AXRQ-41">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" value="mit Frontend-Anteil" vertex="1">
-          <mxGeometry height="40" width="2200" x="200" y="2000" as="geometry" />
-        </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" value="mit Frontend-Anteil" vertex="1">
-          <mxGeometry height="40" width="2200" x="200" y="3000" as="geometry" />
-        </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1" value="mit Frontend-Anteil" vertex="1">
-          <mxGeometry height="40" width="2200" x="200" y="4000" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-79" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-78" value="">
           <mxGeometry relative="1" as="geometry" />
