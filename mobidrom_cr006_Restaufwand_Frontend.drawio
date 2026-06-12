@@ -1,22 +1,22 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1101" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
-          <mxGeometry height="360" width="1600" x="200" y="3920" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;gradientColor=#FFB366;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
+          <mxGeometry height="360" width="1240" x="200" y="3920" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
-          <mxGeometry height="680" width="1600" x="200" y="2960" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;fontSize=18;align=left;verticalAlign=top;gradientColor=#00FF00;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
+          <mxGeometry height="680" width="1240" x="200" y="2960" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;verticalAlign=top;align=left;fontSize=18;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
-          <mxGeometry height="520" width="1600" x="200" y="2000" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;fontStyle=1;verticalAlign=top;align=left;fontSize=18;gradientColor=#00FFFF;" value="&amp;nbsp;mit Frontend-Anteil" vertex="1">
+          <mxGeometry height="520" width="1240" x="200" y="2000" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=24;fontStyle=1;align=left;" value="MOBIDROM CR006: Offene Tickets (ohne Epics) - Fokus Restaufwand Materna Frontend" vertex="1">
           <mxGeometry height="40" width="1030" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;fontStyle=1;align=left;" value="&lt;div&gt;Stand 11.Juni 2026&lt;/div&gt;" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=16;fontStyle=1;align=left;" value="&lt;div&gt;Stand 12.Juni 2026&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-77" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-76" value="">
@@ -26,7 +26,7 @@
           <mxGeometry height="40" width="440" x="240" y="3960" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
-          <mxGeometry height="40" width="1680" x="120" y="3680" as="geometry" />
+          <mxGeometry height="40" width="1360" x="120" y="3680" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" value="#892&amp;nbsp;[User Story]: CKAN Update (Hauptversionssprung)" vertex="1">
           <mxGeometry height="40" width="440" x="120" y="240" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry height="40" width="440" x="160" y="4480" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF33FF;fontStyle=1;fontSize=18;" value="In Approval" vertex="1">
-          <mxGeometry height="40" width="1680" x="120" y="4320" as="geometry" />
+          <mxGeometry height="40" width="1360" x="120" y="4320" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" value="#893&amp;nbsp;[User Story]: Härtung der Standardinstallation von CKAN" vertex="1">
           <mxGeometry height="40" width="440" x="120" y="320" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry height="40" width="440" x="240" y="4120" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;fontStyle=1;fontSize=18;" value="In Development" vertex="1">
-          <mxGeometry height="40" width="1680" x="120" y="2560" as="geometry" />
+          <mxGeometry height="40" width="1360" x="120" y="2560" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-83" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-82" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry height="40" width="440" x="160" y="3760" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FFFF;fontStyle=1;fontSize=18;" value="In Refinement" vertex="1">
-          <mxGeometry height="40" width="1680" x="120" y="1760" as="geometry" />
+          <mxGeometry height="40" width="1360" x="120" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#960&amp;nbsp;[User Story]: Erweiterung des Architekturkonzepts zur Adaption der Plattformkomponenten" vertex="1">
           <mxGeometry height="40" width="440" x="160" y="2720" as="geometry" />
@@ -172,7 +172,10 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#946&amp;nbsp;[User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="240" y="4200" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Meiner Meinung nach Ready for QA, steht aber immer noch auf In Development" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-8" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Meiner Meinung nach Ready for QA, steht aber immer noch auf In Development / Rest 0PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="4200" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" value="#945&amp;nbsp;[User Story]: Analyse automatische Funktionstests/Integrationstests" vertex="1">
@@ -227,7 +230,7 @@
           <mxGeometry height="40" width="200" x="600" y="880" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF0000;fontStyle=1;fontSize=18;" value="Materna" vertex="1">
-          <mxGeometry height="40" width="1720" x="80" y="1680" as="geometry" />
+          <mxGeometry height="40" width="1440" x="80" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-62" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="KAzs0ncSA1o2T3-7AXRQ-16">
           <mxGeometry relative="1" as="geometry" />
@@ -247,19 +250,28 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="(Bug 1 Pascal: kein CR006) #1275&amp;nbsp;[Bug] [Datentabellenverwaltung]: Filter funktioniert nicht" vertex="1">
           <mxGeometry height="40" width="440" x="240" y="4040" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Erfolgreich getestet" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-6" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Erfolgreich getestet / Rest 0PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="4040" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Meiner Meinung nach Ready for QA, steht aber immer noch auf In Development" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-7" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Meiner Meinung nach Ready for QA, steht aber immer noch auf In Development / Rest 0PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="4120" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Erfolgreich getestet" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-5" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Erfolgreich getestet / Rest 0PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="3960" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="In Review" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="In Review / Rest 0PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="3560" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Frontend Review abgeschlossen" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Frontend Review abgeschlossen / Rest 0PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="3000" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-100" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-99" value="">
@@ -268,7 +280,7 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="In Umsetzung (Cengiz)" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="3480" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Frontend Review abgeschlossen" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Frontend Review abgeschlossen / Rest 0PT" vertex="1">
           <mxGeometry height="40" width="320" x="720" y="3080" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-95" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-94" value="">
@@ -307,7 +319,7 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-123" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-120" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Restaufwand: 2PT (???)" vertex="1">
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="&lt;div&gt;Frontend Restaufwand: 1-2PT&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="320" x="1080" y="3480" as="geometry" />
         </mxCell>
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-114" edge="1" parent="1" source="KAzs0ncSA1o2T3-7AXRQ-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-113" value="">
@@ -352,11 +364,17 @@
         <mxCell id="KAzs0ncSA1o2T3-7AXRQ-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 10 PT" vertex="1">
           <mxGeometry height="40" width="320" x="1080" y="2240" as="geometry" />
         </mxCell>
-        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="&lt;div&gt;Frontend Gesamt Restaufwand CR006: 15 PT&lt;/div&gt;Ziel: 30. Juni 2026 / Ende Sprint 24" vertex="1">
-          <mxGeometry height="40" width="350" x="1440" y="3280" as="geometry" />
+        <mxCell id="KAzs0ncSA1o2T3-7AXRQ-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;" value="&lt;div&gt;Frontend Gesamt Restaufwand CR006: 15 PT&lt;/div&gt;Ziel: 30. Juni 2026 / Ende Sprint 24" vertex="1">
+          <mxGeometry height="120" width="440" x="1600" y="3240" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" value="OFFENER PUNKT @BACKEND: wie schneiden wir die PR&#39;s?" vertex="1">
           <mxGeometry height="40" width="320" x="1080" y="3360" as="geometry" />
+        </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-9" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KAzs0ncSA1o2T3-7AXRQ-120" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 0 PT" vertex="1">
+          <mxGeometry height="40" width="320" x="1080" y="4080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
