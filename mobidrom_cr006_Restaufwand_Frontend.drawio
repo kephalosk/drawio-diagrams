@@ -371,7 +371,7 @@
           <mxGeometry height="40" width="160" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;fillColor=#000000;strokeWidth=5;" value="" vertex="1">
-          <mxGeometry height="11200" width="40" x="2080" y="160" as="geometry" />
+          <mxGeometry height="11280" width="40" x="2080" y="160" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=24;fontStyle=1;align=center;gradientColor=none;strokeWidth=5;" value="&lt;div&gt;Montag / 14.Juni 2026&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="2200" x="2120" y="160" as="geometry" />
