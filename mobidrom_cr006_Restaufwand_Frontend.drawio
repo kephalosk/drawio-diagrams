@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1205" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2134,8 +2134,8 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-691" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="Kommunikation und Deeskalation" vertex="1">
           <mxGeometry height="120" width="320" x="2960" y="12760" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-692" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="Story-Owner-Ship ist Auslagerung von PO-Verantwortlichkeit an Dev-Verantwortlichkeit. Ein NO-GO. Doch wir als Devs können Verantwortung in unseren Zuständigkeitsbereichen übernehmen als Zuarbeit für PO. Alles andere ist Nonsens. Das ist meine Meinung und steht offen zur Diskussion in geeigneter Runde." vertex="1">
-          <mxGeometry height="200" width="320" x="3320" y="13000" as="geometry" />
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-692" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="Story-Owner-Ship ist Auslagerung von PO-Verantwortlichkeit an Dev-Verantwortlichkeit. Ein NO-GO. Doch wir als Devs können nur Verantwortung in unseren Zuständigkeitsbereichen übernehmen als Zuarbeit für PO. Alles andere ist Nonsens. Das ist meine Meinung und steht offen zur Diskussion in geeigneter Runde." vertex="1">
+          <mxGeometry height="240" width="320" x="3320" y="13000" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-694" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="Unterstützung" vertex="1">
           <mxGeometry height="160" width="320" x="2960" y="12880" as="geometry" />
