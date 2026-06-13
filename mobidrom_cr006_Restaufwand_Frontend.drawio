@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="7240" dy="4267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2069,7 +2069,7 @@
           <mxGeometry height="40" width="990" x="2240" y="11760" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-671" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="D.h. WENN eine Story Backend, DevOps und Frontend umfasst, DANN MUSS es von Anfang bis Ende für jeden technischen Bereich einen eigenen zuständigen Story-Owner geben " vertex="1">
-          <mxGeometry height="80" width="1350" x="2280" y="11840" as="geometry" />
+          <mxGeometry height="80" width="920" x="2280" y="11840" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-672" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="Z.B. Story 876 / BackupAndRestore" vertex="1">
           <mxGeometry height="40" width="350" x="2320" y="11960" as="geometry" />
@@ -2145,6 +2145,9 @@
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-696" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6I-_ciG7kh0R2IqJ13tL-85">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-697" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="&lt;div&gt;Timeline&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="2560" y="13240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
