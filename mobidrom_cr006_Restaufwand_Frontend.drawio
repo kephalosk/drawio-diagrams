@@ -1897,7 +1897,7 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-610" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-611" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-629" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-611" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#615 [User Story]: Unklares Verhalten bei Anlage von Einträgen identischer ID / identischen Namens in Datenquellenverwaltung und Datenangebotsverwaltung" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-611" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#615 [User Story]: Unklares Verhalten bei Anlage von Einträgen identischer ID / identischen Namens in Datenquellenverwaltung und Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="80" width="440" x="2200" y="10320" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-612" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-613" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-622" value="">
@@ -1957,7 +1957,7 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-630" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="Cengiz" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="10560" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-631" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="keine /&amp;nbsp;Meiner Meinung nach Ready for QA, steht aber immer noch auf In Development" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-631" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="keine / Story wurde auf Ready for QA gesetzt" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="10800" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-632" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
@@ -1984,7 +1984,7 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-639" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-640" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-658" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-640" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#946 [User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-640" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#946 [User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="2200" y="10880" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-641" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-642" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-651" value="">
@@ -2044,7 +2044,7 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-659" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="Cengiz" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="11120" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-660" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="keine /&amp;nbsp;Meiner Meinung nach Ready for QA, steht aber immer noch auf In Development" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-660" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="keine / Story wurde auf Ready for QA gesetzt" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="11360" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-661" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
