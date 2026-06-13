@@ -751,7 +751,7 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-214" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Offene Punkte&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="2680" y="1600" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="Hinweis, dass UI-Mockup und Implementierung wegen 773 und 604 abweichen" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-216" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCCC;" value="TODO" vertex="1">
