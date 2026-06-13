@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1448" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1684,10 +1684,10 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-528" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCCC;" value="Review abschließen" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="8960" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-529" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-529" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/557" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="8720" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-530" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-530" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="bugfix/1276-fix-paging-in-datentabellenverwaltung" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="8640" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-531" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-532" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-533" value="">
@@ -1768,10 +1768,10 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-565" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Offene Punkte&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="2680" y="9680" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-567" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-567" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/436" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="9360" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-568" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-568" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="feature/1141-kstore-single-table-import-export" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="9280" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-569" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-570" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-571" value="">
@@ -1855,10 +1855,10 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-596" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Offene Punkte&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="2680" y="10240" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-597" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-597" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/557" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="9920" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-598" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-598" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="bugfix/1276-fix-paging-in-datentabellenverwaltung" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="9840" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-599" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-600" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-601" value="">
@@ -1942,10 +1942,10 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-625" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Offene Punkte&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="2680" y="10800" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-626" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-626" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/474" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="10480" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-627" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-627" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="change/1209-dataset-management-prefixes-and-checks" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="10400" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-628" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-629" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-630" value="">
@@ -2017,7 +2017,7 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-650" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Open Tasks Frontend" vertex="1">
           <mxGeometry height="40" width="160" x="2680" y="11280" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-651" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/615" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-651" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/946" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="10880" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-652" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="0 PT" vertex="1">
@@ -2029,10 +2029,10 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-654" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Offene Punkte&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="2680" y="11360" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-655" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-655" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/498" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="11040" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-656" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-656" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="feature/1242-backend-service-for-offer-management" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="10960" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-657" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-659" value="">
