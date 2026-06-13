@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1975" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2715" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,12 +439,6 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-63" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6I-_ciG7kh0R2IqJ13tL-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-64" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-71" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="(Bug 2 Pascal: kein CR006) #1276&amp;nbsp;[Bug] [Datentabellenverwaltung]: Paging für sehr große Tabellen (500+ Datensätze) funktioniert nicht" vertex="1">
-          <mxGeometry height="40" width="440" x="3560" y="6080" as="geometry" />
-        </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-66" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-68" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -459,9 +453,6 @@
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Erfolgreich getestet / Rest 0PT" vertex="1">
           <mxGeometry height="40" width="320" x="4040" y="6237.780000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="In Review / Rest 0PT" vertex="1">
-          <mxGeometry height="40" width="320" x="4040" y="6080" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-109" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-108" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1690,19 +1681,16 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-523" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/885" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="8480" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-524" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="1 PT" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-524" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="0 PT" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="8800" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-525" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-526" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-527" value="">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-535" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-526" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-534" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-526" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Offene Fragen" vertex="1">
           <mxGeometry height="40" width="160" x="2680" y="8960" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-527" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCCC;" value="@BACKEND: In welchen Branch soll der Code?" vertex="1">
-          <mxGeometry height="40" width="400" x="2880" y="8960" as="geometry" />
-        </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-528" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCCC;" value="TODO" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-528" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFCCCC;" value="Review abschließen" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="8880" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-529" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
@@ -1717,8 +1705,11 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-532" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="Story Owner Frontend" vertex="1">
           <mxGeometry height="40" width="160" x="2680" y="8720" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-533" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="Cengiz" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-533" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="Vil" vertex="1">
           <mxGeometry height="40" width="400" x="2880" y="8720" as="geometry" />
+        </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-534" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="-" vertex="1">
+          <mxGeometry height="40" width="400" x="2880" y="8960" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
