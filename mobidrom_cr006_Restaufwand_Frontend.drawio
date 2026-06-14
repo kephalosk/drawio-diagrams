@@ -2218,8 +2218,8 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-723" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="D.h.: 1. Story-Owner-Ship sind gleitende Rollen und können sich innerhalb ihres technischen Fachbereiches abwechseln (siehe Beispiel #876)" vertex="1">
           <mxGeometry height="40" width="1280" x="3480" y="14440" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-724" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="D.h.: 2. Story-Owner werden automatisch bei Ausfall in ihrem Fachbereich kommisarisch nachbesetzt durch die Devs ihres Fachbereiches" vertex="1">
-          <mxGeometry height="40" width="1200" x="3480" y="14520" as="geometry" />
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-724" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="D.h.: 2. Story-Owner werden automatisch bei Ausfall in ihrem technischen Fachbereich kommisarisch nachbesetzt durch die Devs ihres Zuständigkeitsbereiches" vertex="1">
+          <mxGeometry height="40" width="1390" x="3480" y="14520" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-728" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-725" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-727" value="">
           <mxGeometry relative="1" as="geometry" />
