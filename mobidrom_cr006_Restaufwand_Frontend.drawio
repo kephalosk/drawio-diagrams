@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1325" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,7 +371,7 @@
           <mxGeometry height="40" width="160" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;fillColor=#000000;strokeWidth=5;" value="" vertex="1">
-          <mxGeometry height="12800" width="40" x="2080" y="160" as="geometry" />
+          <mxGeometry height="13200" width="40" x="2080" y="160" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=24;fontStyle=1;align=center;gradientColor=none;strokeWidth=5;" value="&lt;div&gt;Montag / 14.Juni 2026&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="2200" x="2120" y="160" as="geometry" />
@@ -2209,7 +2209,7 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-722" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-718" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-721" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-718" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;fillColor=#000000;" value="" vertex="1">
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-718" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=18;fontStyle=1;align=left;fillColor=#000000;strokeWidth=5;" value="" vertex="1">
           <mxGeometry height="40" width="360" x="3040" y="14360" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-721" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="Fazit: Story-Owner als Gruppe von Devs, die gemeinsam alle betroffenen Fachbereiche tagesaktuell abdecken" vertex="1">
@@ -2223,6 +2223,9 @@
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-725" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="D.h.: 3. Story-Owner sind frei von Progress-Shaming und Victim-Blaming ausserhalb ihres Kompetenzbereiches." vertex="1">
           <mxGeometry height="40" width="1200" x="3480" y="14600" as="geometry" />
+        </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-726" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=18;fontStyle=1;align=left;fillColor=#000000;strokeWidth=5;" value="" vertex="1">
+          <mxGeometry height="40" width="875" x="2125" y="13320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
