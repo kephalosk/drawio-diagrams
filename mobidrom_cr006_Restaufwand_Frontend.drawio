@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1767" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2230,8 +2230,14 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-726" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=18;fontStyle=1;align=left;fillColor=#000000;strokeWidth=5;" value="" vertex="1">
           <mxGeometry height="40" width="875" x="2125" y="13320" as="geometry" />
         </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-730" edge="1" parent="1" source="6I-_ciG7kh0R2IqJ13tL-727" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6I-_ciG7kh0R2IqJ13tL-729" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-727" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="PO/Pascal ist Teil unseres Teams!&lt;br&gt;&lt;div&gt;Das müssen wir verinnerlichen!&lt;/div&gt;&lt;div&gt;Pascal ist nicht MOBIDROM!&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pascal ist derjenige, der am Ende alles verantworten muss gegenüber den Stakeholdern, was wir machen einschließlich unserer Partner (Trafficon, Traffgo, Wavestone)&lt;/div&gt;&lt;div&gt;WENN es Pascal schlecht geht, dann ist ALLES doof und wir müssen reflektieren und einlenken.&lt;/div&gt;&lt;div&gt;WENN es Pascal gut geht, dann ist auch ALLES gut und wir können weiter machen wie bisher.&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="850" x="3735" y="14680" as="geometry" />
+        </mxCell>
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-729" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="PS: Das sind nur meine Gedanken und alles was ich eben gesagt habe darf gerne angefochten werden in geeigneter Runde :) MFG, Vil :)" vertex="1">
+          <mxGeometry height="80" width="850" x="3735" y="14880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
