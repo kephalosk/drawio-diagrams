@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="944" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2155,8 +2155,8 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-699" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="Vorschlag am Beispiel #876 Backup/Restore, wie Story-Owner-Ship funktionieren kann" vertex="1">
           <mxGeometry height="40" width="800" x="3080" y="13320" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-701" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1. Initiale Festlegung der Story-Owner nach betroffenen Fachbereichen bei Vertragsbildung (vgl. CR010 jetzt)" vertex="1">
-          <mxGeometry height="40" width="950" x="3120" y="13400" as="geometry" />
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-701" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1. Initiale Festlegung der Story-Owner nach betroffenen technischen Fachbereichen bei Vertragsbildung" vertex="1">
+          <mxGeometry height="40" width="920" x="3120" y="13400" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-702" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1.1 Backend: Ylvi" vertex="1">
           <mxGeometry height="40" width="240" x="3160" y="13480" as="geometry" />
@@ -2167,8 +2167,8 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-704" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1.3 Frontend: Lätizia" vertex="1">
           <mxGeometry height="40" width="240" x="3160" y="13560" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-705" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="2. Update der Story-Owner nach betroffenen Fachbereichen im Refinement" vertex="1">
-          <mxGeometry height="40" width="680" x="3120" y="13640" as="geometry" />
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-705" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="2. Update der Story-Owner nach betroffenen technischen Fachbereichen im Refinement" vertex="1">
+          <mxGeometry height="40" width="790" x="3120" y="13640" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-706" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1.1 Backend: Ylvi" vertex="1">
           <mxGeometry height="40" width="240" x="3160" y="13720" as="geometry" />
@@ -2179,8 +2179,8 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-708" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1.3 Frontend: Vil" vertex="1">
           <mxGeometry height="40" width="240" x="3160" y="13800" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-709" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="3. Update der Story-Owner nach betroffenen Fachbereichen in der Umsetzung" vertex="1">
-          <mxGeometry height="40" width="680" x="3120" y="13880" as="geometry" />
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-709" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="3. Update der Story-Owner nach betroffenen technischen Fachbereichen in der Umsetzung" vertex="1">
+          <mxGeometry height="40" width="830" x="3120" y="13880" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-710" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1.1 Backend: Isaac" vertex="1">
           <mxGeometry height="40" width="240" x="3160" y="13960" as="geometry" />
@@ -2191,8 +2191,8 @@
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-712" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1.3 Frontend: Vil" vertex="1">
           <mxGeometry height="40" width="240" x="3160" y="14040" as="geometry" />
         </mxCell>
-        <mxCell id="6I-_ciG7kh0R2IqJ13tL-713" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="4. Update der Story-Owner nach betroffenen Fachbereichen bei Ausfall/Krankheit/Urlaub" vertex="1">
-          <mxGeometry height="40" width="800" x="3120" y="14120" as="geometry" />
+        <mxCell id="6I-_ciG7kh0R2IqJ13tL-713" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="4. Update der Story-Owner nach betroffenen technischen Fachbereichen bei Ausfall/Krankheit/Urlaub" vertex="1">
+          <mxGeometry height="40" width="920" x="3120" y="14120" as="geometry" />
         </mxCell>
         <mxCell id="6I-_ciG7kh0R2IqJ13tL-714" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=18;fontStyle=1;align=left;" value="1.1 Backend: Isaac" vertex="1">
           <mxGeometry height="40" width="240" x="3160" y="14200" as="geometry" />
