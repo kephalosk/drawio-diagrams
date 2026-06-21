@@ -1,0 +1,298 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Xh6JYKTq4KxrHZ2QMkhA">
+    <mxGraphModel dx="1440" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WasAgVxkM3kb47CfKZlX-3" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-5" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DailyScope" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="18.Juni 2026" vertex="1">
+          <mxGeometry height="40" width="160" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-7" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Scopes" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-38" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="#946: apply Review from Ylvi Bachmann" vertex="1">
+          <mxGeometry height="40" width="160" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-9" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-10" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-11" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-12" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-13" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-14" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-15" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#946 [User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="40" width="440" x="440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-17" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Ticket" vertex="1">
+          <mxGeometry height="40" width="160" x="920" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-19" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Branch" vertex="1">
+          <mxGeometry height="40" width="160" x="920" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-21" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="PR" vertex="1">
+          <mxGeometry height="40" width="160" x="920" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-23" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Restaufwand Frontend" vertex="1">
+          <mxGeometry height="40" width="160" x="920" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-25" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Open Tasks Frontend" vertex="1">
+          <mxGeometry height="40" width="160" x="920" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/946" vertex="1">
+          <mxGeometry height="40" width="400" x="1120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="0 PT" vertex="1">
+          <mxGeometry height="40" width="400" x="1120" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-29" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Anmerkungen" vertex="1">
+          <mxGeometry height="40" width="160" x="920" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/498" vertex="1">
+          <mxGeometry height="40" width="400" x="1120" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="feature/1242-backend-service-for-offer-management" vertex="1">
+          <mxGeometry height="40" width="400" x="1120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-33" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="Story Owner Frontend" vertex="1">
+          <mxGeometry height="40" width="160" x="920" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="Vil" vertex="1">
+          <mxGeometry height="40" width="400" x="1120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="Single Backend-Service, der genutzt werden soll" vertex="1">
+          <mxGeometry height="40" width="400" x="1120" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-40" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Apply Review from Ylvi Bachmann" vertex="1">
+          <mxGeometry height="40" width="400" x="1120" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-42" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-44" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Akzeptanzkriterien" vertex="1">
+          <mxGeometry height="40" width="400" x="1560" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-45" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Die Datenangebotsverwaltung bezieht alle Informationen von genau einem Service." vertex="1">
+          <mxGeometry height="40" width="400" x="2000" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-47" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-49" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-52" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-53" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Alle angezeigten Informationen werden mit einem Request vom Backend bezogen." vertex="1">
+          <mxGeometry height="40" width="400" x="2000" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-55" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Alle Datenangebote laden" vertex="1">
+          <mxGeometry height="40" width="400" x="2440" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="neues Datenangebot anlegen" vertex="1">
+          <mxGeometry height="40" width="400" x="2440" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="bestehendes Datenangebot aktualisieren" vertex="1">
+          <mxGeometry height="40" width="400" x="2440" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="bestehendes Datenangebot löschen" vertex="1">
+          <mxGeometry height="40" width="400" x="2440" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-57" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-59" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-80" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="1. Check OpenAPI-Dokumentation" vertex="1">
+          <mxGeometry height="40" width="400" x="2880" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/blob/8afeac86ffdbe0027beae541842d4d92d464488a/java/dataoffer-management-service/src/main/openapi/dataoffer-management-service.yml" vertex="1">
+          <mxGeometry height="40" width="640" x="3320" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-61" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-65" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="java/dataoffer-management-service/src/main/openapi/dataoffer-management-service.yml" vertex="1">
+          <mxGeometry height="40" width="640" x="3320" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-74" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-73" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-76" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Backend-Path" vertex="1">
+          <mxGeometry height="40" width="400" x="4000" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-64" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-71" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-69" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-72" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-78" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-77" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Types" vertex="1">
+          <mxGeometry height="40" width="400" x="4000" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-70" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-69" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="export interface DataOffer extends ValueObject {&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;@type&quot;: &quot;mobidp.portal.DataOffer$Bean&quot; | &quot;mobidp.portal.DataOfferEntry$Bean&quot;;&lt;br&gt;&amp;nbsp; &amp;nbsp; title?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; id?: string;&lt;br&gt;&amp;nbsp; &amp;nbsp; format?: DataSetFormat;&lt;br&gt;}" vertex="1">
+          <mxGeometry height="120" width="400" x="4440" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-68" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="export interface DataOfferEntry extends DataOffer {&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;@type&quot;: &quot;mobidp.portal.DataOfferEntry$Bean&quot;;&lt;br&gt;&amp;nbsp; &amp;nbsp; sources: { [index: string]: ValueObject };&lt;br&gt;&amp;nbsp; &amp;nbsp; offerEventSettings?: Scheduler;&lt;br&gt;&amp;nbsp; &amp;nbsp; offerSettings: Settings;&lt;br&gt;}" vertex="1">
+          <mxGeometry height="120" width="400" x="4440" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="export interface ValueObject {&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;@type&quot;: &quot;mobidp.adapters.Adapter$Bean&quot; | &quot;mobidp.adapters.InputChannel$Bean&quot; | &quot;mobidp.adapters.Scheduler$Bean&quot; | &quot;mobidp.bike_and_ride_vrr.Site$Bean&quot; | &quot;mobidp.bike_and_ride_vrr.SiteSummary$Bean&quot; | &quot;mobidp.events.EventList$Bean&quot; | &quot;mobidp.gbfs.FreeBikeStatus$Bean&quot; | &quot;mobidp.gbfs.Gbfs$Bean&quot; | &quot;mobidp.gbfs.GeofencingZone$Bean&quot; | &quot;mobidp.gbfs.GeofencingZoneV3Extension$Bean&quot; | &quot;mobidp.gbfs.StationInformationGbfs$Bean&quot; | &quot;mobidp.gbfs.StationInformationGbfsV3Extension$Bean&quot; | &quot;mobidp.gbfs.StationStatus$Bean&quot; | &quot;mobidp.gbfs.StationStatusV3Extension$Bean&quot; | &quot;mobidp.gbfs.SystemAlerts$Bean&quot; | &quot;mobidp.gbfs.SystemCalender$Bean&quot; | &quot;mobidp.gbfs.SystemHoursGbfs$Bean&quot; | &quot;mobidp.gbfs.SystemInformationGbfs$Bean&quot; | &quot;mobidp.gbfs.SystemInformationGbfsV3Extension$Bean&quot; | &quot;mobidp.gbfs.SystemPricingPlans$Bean&quot; | &quot;mobidp.gbfs.SystemPricingPlansV3Extension$Bean&quot; | &quot;mobidp.gbfs.SystemRegions$Bean&quot; | &quot;mobidp.gbfs.SystemRegionsV3Extension$Bean&quot; | &quot;mobidp.gbfs.VehicleTypes$Bean&quot; | &quot;mobidp.gbfs.VehicleTypesV3Extension$Bean&quot; | &quot;mobidp.gtfs.Agency$Bean&quot; | &quot;mobidp.gtfs.Calendar$Bean&quot; | &quot;mobidp.gtfs.CalendarDate$Bean&quot; | &quot;mobidp.gtfs.FeedInfo$Bean&quot; | &quot;mobidp.gtfs.FrequencyGtfs$Bean&quot; | &quot;mobidp.gtfs.Level$Bean&quot; | &quot;mobidp.gtfs.Pathway$Bean&quot; | &quot;mobidp.gtfs.RouteGtfs$Bean&quot; | &quot;mobidp.gtfs.Shape$Bean&quot; | &quot;mobidp.gtfs.Stop$Bean&quot; | &quot;mobidp.gtfs.StopTime$Bean&quot; | &quot;mobidp.gtfs.Transfer$Bean&quot; | &quot;mobidp.gtfs.Trip$Bean&quot; | &quot;mobidp.gtfs_rt.FeedEntity$Bean&quot; | &quot;mobidp.gtfs_rt.FeedMessage$Bean&quot; | &quot;mobidp.gtfs_rt.TripModifications$Bean&quot; | &quot;mobidp.mds.MdsEvent$Bean&quot; | &quot;mobidp.mds.MdsImport$Bean&quot; | &quot;mobidp.mds.MdsTrip$Bean&quot; | &quot;mobidp.mds.MdsVehicle$Bean&quot; | &quot;mobidp.mds.MdsVehicleStatus$Bean&quot; | &quot;mobidp.open_data.Dataset$Bean&quot; | &quot;mobidp.parking.ParkingRecord$Bean&quot; | &quot;mobidp.parking.ParkingSite$Bean&quot; | &quot;mobidp.parking.ParkingSpace$Bean&quot; | &quot;mobidp.persistence.RowSetVersion$Bean&quot; | &quot;mobidp.persistence.ValueObject$Bean&quot; | &quot;mobidp.portal.AccessRightTag$Bean&quot; | &quot;mobidp.portal.DataOffer$Bean&quot; | &quot;mobidp.portal.DataOfferEntry$Bean&quot; | &quot;mobidp.portal.DataSet$Bean&quot; | &quot;mobidp.portal.DataEntry$Bean&quot; | &quot;mobidp.portal.InvalidDataEntry$Bean&quot; | &quot;mobidp.portal.InvalidDataOffer$Bean&quot; | &quot;mobidp.portal.Organisation$Bean&quot; | &quot;mobidp.portal.Provider$Bean&quot; | &quot;mobidp.portal.Subscriber$Bean&quot; | &quot;mobidp.stop_infrastructure.StopSummary$Bean&quot; | &quot;mobidp.stop_infrastructure.VrrStop$Bean&quot; | &quot;mobidp.tomp_api.AssetType$Bean&quot; | &quot;mobidp.tomp_api.EndpointImplementation$Bean&quot; | &quot;mobidp.tomp_api.Ping$Bean&quot; | &quot;mobidp.tomp_api.StationInformation$Bean&quot; | &quot;mobidp.tomp_api.SystemAlert$Bean&quot; | &quot;mobidp.tomp_api.SystemCalendar$Bean&quot; | &quot;mobidp.tomp_api.SystemHours$Bean&quot; | &quot;mobidp.tomp_api.SystemInformation$Bean&quot; | &quot;mobidp.tomp_api.SystemPricingPlan$Bean&quot; | &quot;mobidp.tomp_api.SystemRegion$Bean&quot; | &quot;mobidp.traffic_event.TrafficEvent$Bean&quot; | &quot;mobidp.traffic_event.AbnormalTraffic$Bean&quot; | &quot;mobidp.traffic_event.Accident$Bean&quot; | &quot;mobidp.traffic_event.Activity$Bean&quot; | &quot;mobidp.traffic_event.DisturbanceActivity$Bean&quot; | &quot;mobidp.traffic_event.PublicEvent$Bean&quot; | &quot;mobidp.traffic_event.Condition$Bean&quot; | &quot;mobidp.traffic_event.PoorEnvironmentConditions$Bean&quot; | &quot;mobidp.traffic_event.GenericTrafficEvent$Bean&quot; | &quot;mobidp.traffic_event.Obstruction$Bean&quot; | &quot;mobidp.traffic_event.AnimalPresenceObstruction$Bean&quot; | &quot;mobidp.traffic_event.EnvironmentalObstruction$Bean&quot; | &quot;mobidp.traffic_event.GeneralObstruction$Bean&quot; | &quot;mobidp.traffic_event.InfrastructureDamageObstruction$Bean&quot; | &quot;mobidp.traffic_event.VehicleObstruction$Bean&quot; | &quot;mobidp.traffic_event.OperatorAction$Bean&quot; | &quot;mobidp.traffic_event.NetworkManagement$Bean&quot; | &quot;mobidp.traffic_event.GeneralNetworkManagement$Bean&quot; | &quot;mobidp.traffic_event.StrategicRouteManagement$Bean&quot; | &quot;mobidp.traffic_event.ReroutingManagement$Bean&quot; | &quot;mobidp.traffic_event.RoadOrCarriagewayOrLaneManagement$Bean&quot; | &quot;mobidp.traffic_event.SpeedManagement$Bean&quot; | &quot;mobidp.traffic_event.WinterDrivingManagement$Bean&quot; | &quot;mobidp.traffic_event.Roadwork$Bean&quot; | &quot;mobidp.types.LocationInformation$Bean&quot; | &quot;mobidp.types.Settings$Bean&quot;;&lt;br&gt;}" vertex="1">
+          <mxGeometry height="270" width="1730" x="4440" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="/**&lt;br&gt;&amp;nbsp;* Technical constant for the data offer management API path&lt;br&gt;&amp;nbsp;*/&lt;br&gt;export const API_DATAOFFER_MANAGEMENT_PATH: string = &#39;/dataoffer-management&#39;;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="670" x="4440" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="/**&lt;br&gt;&amp;nbsp;* API endpoint path for retrieving data offers.&lt;br&gt;&amp;nbsp;*/&lt;br&gt;export const API_OFFER: string = &#39;/offer&#39;;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="670" x="4440" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="export interface QueryResponse {&lt;br&gt;&amp;nbsp; &amp;nbsp; metadata: QueryMetadata;&lt;br&gt;&amp;nbsp; &amp;nbsp; data: { [index: string]: ValueObject };&lt;br&gt;}" vertex="1">
+          <mxGeometry height="80" width="400" x="4440" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-82" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="2. Implement OpenAPI-Dokumentation" vertex="1">
+          <mxGeometry height="40" width="400" x="2880" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-84" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="DataOfferManagementService" vertex="1">
+          <mxGeometry height="40" width="400" x="3320" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-86" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-85" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-89" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-91" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-90" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-95" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-94" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="getAllDataOffers" vertex="1">
+          <mxGeometry height="40" width="400" x="3320" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Wie Typisieren?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="3760" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Welcher Rückgabewert?" vertex="1">
+          <mxGeometry height="40" width="400" x="3760" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-93" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Request" vertex="1">
+          <mxGeometry height="40" width="400" x="3760" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Typing" vertex="1">
+          <mxGeometry height="40" width="400" x="4200" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-97" edge="1" parent="1" source="WasAgVxkM3kb47CfKZlX-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WasAgVxkM3kb47CfKZlX-96" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Response" vertex="1">
+          <mxGeometry height="40" width="400" x="3760" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="WasAgVxkM3kb47CfKZlX-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Typing" vertex="1">
+          <mxGeometry height="40" width="400" x="4200" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="uZHOWj93R4-kmdtGXmrd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="getAllDataOffers" vertex="1">
+          <mxGeometry height="40" width="400" x="2880" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="uZHOWj93R4-kmdtGXmrd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="getAllDataOffers" vertex="1">
+          <mxGeometry height="40" width="400" x="2880" y="1760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
