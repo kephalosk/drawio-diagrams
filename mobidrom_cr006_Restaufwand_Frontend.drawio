@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1958" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1101" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-120" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-135" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-134" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-133" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eSw0jQmSTz9Q5OhHZx0l-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=24;fontStyle=1;align=left;gradientColor=none;strokeWidth=5;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Montag / 13.Juli 2026&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="4380" x="6480" y="160" as="geometry" />
         </mxCell>
@@ -2363,7 +2375,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#773&amp;nbsp;[User Story]: Datenangebotsverwaltung mit Paging" vertex="1">
-          <mxGeometry height="40" width="440" x="6640" y="1200" as="geometry" />
+          <mxGeometry height="40" width="440" x="6640" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-116" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-65" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2389,7 +2401,7 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#885&amp;nbsp;[User Story]: Backup &amp;amp; Restore für dateibasierte Datenquellen und -angebote" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-26" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-93" value="">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-136" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-93" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#918&amp;nbsp;[User Story]: Datenquellenverwaltung – Konflikte" vertex="1">
@@ -2399,7 +2411,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#919&amp;nbsp;[User Story]: Datenangebotsverwaltung – Konflikte" vertex="1">
-          <mxGeometry height="40" width="440" x="6640" y="1040" as="geometry" />
+          <mxGeometry height="40" width="440" x="6640" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FFFF;fontStyle=1;fontSize=18;" value="In Refinement" vertex="1">
           <mxGeometry height="40" width="1320" x="6600" y="320" as="geometry" />
@@ -2425,14 +2437,14 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-125" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;/div&gt;" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1358.4600000000003" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-44" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-83" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#604&amp;nbsp;[User Story]: Entfernen alter Datenquellen in einem Datenangebot" vertex="1">
-          <mxGeometry height="40" width="440" x="6640" y="1120" as="geometry" />
+          <mxGeometry height="40" width="440" x="6640" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-46" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-91" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2461,7 +2473,7 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-55" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="eSw0jQmSTz9Q5OhHZx0l-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-56" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="eSw0jQmSTz9Q5OhHZx0l-41">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-56" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" target="eSw0jQmSTz9Q5OhHZx0l-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-57" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-64" value="">
@@ -2479,13 +2491,13 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-127" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;br&gt;GRUND: Hinzufügen von optionalen strict matching nach Absprache von Joure Fix am Donnerstag 9. Juli&lt;/div&gt;&amp;nbsp;2026" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;br&gt;GRUND: Hinzufügen von optionalen strict matching nach Absprache von Joure Fix am Donnerstag 9. Juli&lt;/div&gt;&amp;nbsp;2026" vertex="1">
           <mxGeometry height="80" width="400" x="7120" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-124" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Status: in Development (Restaufwand 0 PT [FE])&lt;br&gt;TODO Martin/Vil: Anwenderhandbuch aktualisieren?&lt;/div&gt;" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development (Restaufwand 0 PT [FE])&lt;br&gt;TODO Martin/Vil: Anwenderhandbuch aktualisiert?&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-107" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-106" value="">
@@ -2497,7 +2509,7 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-126" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;/div&gt;" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-110" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-108" value="">
@@ -2509,8 +2521,8 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-123" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in&amp;nbsp;Development&amp;nbsp;(Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz: Titel-Filter-Parameter einfügen" vertex="1">
-          <mxGeometry height="40" width="400" x="7120" y="1200" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Cengiz (nicht mehr in QA) &amp;nbsp;(Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz: Titel-Filter-Parameter einfügen" vertex="1">
+          <mxGeometry height="50" width="400" x="7120" y="1035" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-111" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-108" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2545,14 +2557,14 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-122" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in Review (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz/Vil: Merge mit #946: Refactoring DAV" vertex="1">
-          <mxGeometry height="40" width="400" x="7120" y="1120" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFCCCC;gradientDirection=east;" value="Status: in Review (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz/Vil: Merge mit #946: Refactoring DAV" vertex="1">
+          <mxGeometry height="40" width="400" x="7120" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-121" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: blocked by 946 (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz/Vil: Anbindung des neuen Endpunkt von #946" vertex="1">
-          <mxGeometry height="40" width="400" x="7120" y="1040" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Status: blocked by 946 (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz/Vil: Anbindung des neuen Endpunkt von #946" vertex="1">
+          <mxGeometry height="40" width="400" x="7120" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-119" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2572,11 +2584,8 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend ausstehend (Restaufwand 2 PT [FE])" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-120" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Cengiz (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz: Icon + Warnbox anzeigen, wenn validationErrors" vertex="1">
-          <mxGeometry height="40" width="400" x="7120" y="960" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Cengiz (nicht mehr blocked) (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz: Icon + Warnbox anzeigen, wenn validationErrors" vertex="1">
+          <mxGeometry height="50" width="400" x="7120" y="955" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-101" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-100" value="">
           <mxGeometry relative="1" as="geometry" />
