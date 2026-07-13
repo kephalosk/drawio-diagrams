@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="3120" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: unbekannt (Umsetzung ja/nein?) (Restaufwand 1 PT [FE])&lt;br&gt;TODO: 2 Felder tauschen + Public-Org-Ansprechperson optional + Private-Org-Ansprechperson required + Backend-Datenmodell-Anpassung(zu aufwendig?)" vertex="1">
+          <mxGeometry height="80" width="400" x="7120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-118" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-139" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-138" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-129" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-128" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2374,7 +2386,7 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-6" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-63" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;" value="#920: [User Story]: Datentabellen importieren/exportieren" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;fontStyle=1" value="#920: [User Story]: Datentabellen importieren/exportieren" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="2280" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
@@ -2386,8 +2398,8 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-12" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-62" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#615&amp;nbsp;[User Story]: Unklares Verhalten bei Anlage von Einträgen identischer ID / identischen Namens in Datenquellenverwaltung und Datenangebotsverwaltung" vertex="1">
-          <mxGeometry height="40" width="440" x="6640" y="1280" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#615&amp;nbsp;[User Story]: Unklares Verhalten bei Anlage von Einträgen identischer ID / identischen Namens in Datenquellenverwaltung und Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="50" width="440" x="6640" y="1275" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;fontStyle=1;fontSize=18;" value="In Development" vertex="1">
           <mxGeometry height="40" width="1320" x="6600" y="520" as="geometry" />
@@ -2395,44 +2407,44 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-15" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-67" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#773&amp;nbsp;[User Story]: Datenangebotsverwaltung mit Paging" vertex="1">
-          <mxGeometry height="40" width="440" x="6640" y="1040" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#773&amp;nbsp;[User Story]: Datenangebotsverwaltung mit Paging" vertex="1">
+          <mxGeometry height="40" width="440" x="6640" y="880" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-116" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-65" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="#876&amp;nbsp;[User Story]: Backend-orchestriertes Backup/Restore" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#876&amp;nbsp;[User Story]: Backend-orchestriertes Backup/Restore" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-20" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="#880&amp;nbsp;[User Story]: Rollen &amp;amp; Berechtigungen" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#880&amp;nbsp;[User Story]: Rollen &amp;amp; Berechtigungen" vertex="1">
           <mxGeometry height="40" width="400" x="6680" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-22" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-72" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="#881&amp;nbsp;[User Story]: Status, Fortschritt &amp;amp; Logs" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#881&amp;nbsp;[User Story]: Status, Fortschritt &amp;amp; Logs" vertex="1">
           <mxGeometry height="40" width="400" x="6680" y="1880" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-24" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-76" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#885&amp;nbsp;[User Story]: Backup &amp;amp; Restore für dateibasierte Datenquellen und -angebote" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#885&amp;nbsp;[User Story]: Backup &amp;amp; Restore für dateibasierte Datenquellen und -angebote" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="700" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-136" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-93" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#918&amp;nbsp;[User Story]: Datenquellenverwaltung – Konflikte" vertex="1">
-          <mxGeometry height="40" width="440" x="6640" y="960" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#918&amp;nbsp;[User Story]: Datenquellenverwaltung – Konflikte" vertex="1">
+          <mxGeometry height="40" width="440" x="6640" y="800" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-28" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-85" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#919&amp;nbsp;[User Story]: Datenangebotsverwaltung – Konflikte" vertex="1">
-          <mxGeometry height="40" width="440" x="6640" y="1120" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#919&amp;nbsp;[User Story]: Datenangebotsverwaltung – Konflikte" vertex="1">
+          <mxGeometry height="40" width="440" x="6640" y="960" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FFFF;fontStyle=1;fontSize=18;" value="In Refinement" vertex="1">
           <mxGeometry height="40" width="1320" x="6600" y="320" as="geometry" />
@@ -2440,43 +2452,43 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-33" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-89" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="#599&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung der Datenquellenverwaltung" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#599&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung der Datenquellenverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="2120" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-35" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-87" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#890&amp;nbsp;[User Story]: Datenangebotsverwaltung: Verbesserung der Ladezeiten" vertex="1">
-          <mxGeometry height="40" width="440" x="6640" y="840" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#890&amp;nbsp;[User Story]: Datenangebotsverwaltung: Verbesserung der Ladezeiten" vertex="1">
+          <mxGeometry height="40" width="440" x="6640" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-39" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-41" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#946&amp;nbsp;[User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#946&amp;nbsp;[User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="1358.4600000000003" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-125" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="7120" y="1358.4600000000003" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;/div&gt;&amp;nbsp; Anforderungen abgehakt, AK&#39;s noch nicht abgehakt (Analyse/Konzept/Umsetzung)" vertex="1">
+          <mxGeometry height="48.46" width="400" x="7120" y="1355.77" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-44" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-83" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#604&amp;nbsp;[User Story]: Entfernen alter Datenquellen in einem Datenangebot" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#604&amp;nbsp;[User Story]: Entfernen alter Datenquellen in einem Datenangebot" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-46" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-91" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" value="#879&amp;nbsp;[User Story]: Datenquellenverwaltung: Verbesserung der Ladezeiten" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#879&amp;nbsp;[User Story]: Datenquellenverwaltung: Verbesserung der Ladezeiten" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="600" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-48" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-74" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="#882&amp;nbsp;[User Story]: Nächtliches Vollbackup (zentral, 1× täglich)" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#882&amp;nbsp;[User Story]: Nächtliches Vollbackup (zentral, 1× täglich)" vertex="1">
           <mxGeometry height="40" width="400" x="6680" y="1960" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-50" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-68" value="">
@@ -2485,7 +2497,7 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-51" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-68" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;" value="#883&amp;nbsp;[User Story]: Restore Gesamtsystem" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#883&amp;nbsp;[User Story]: Restore Gesamtsystem" vertex="1">
           <mxGeometry height="40" width="400" x="6680" y="2040" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF0000;fontStyle=1;fontSize=18;" value="Materna" vertex="1">
@@ -2500,110 +2512,104 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-57" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-64" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;gradientColor=#999999;gradientDirection=east;" value="(Bug 2 Pascal: kein CR006) #1276&amp;nbsp;[Bug] [Datentabellenverwaltung]: Paging für sehr große Tabellen (500+ Datensätze) funktioniert nicht" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;gradientColor=#999999;gradientDirection=east;fontStyle=1" value="(Bug 2 Pascal: kein CR006) #1276&amp;nbsp;[Bug] [Datentabellenverwaltung]: Paging für sehr große Tabellen (500+ Datensätze) funktioniert nicht" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-59" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-61" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;gradientColor=#999999;gradientDirection=east;" value="(Bug 1 Pascal: kein CR006) #1275&amp;nbsp;[Bug] [Datentabellenverwaltung]: Filter funktioniert nicht" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;gradientColor=#999999;gradientDirection=east;fontStyle=1" value="(Bug 1 Pascal: kein CR006) #1275&amp;nbsp;[Bug] [Datentabellenverwaltung]: Filter funktioniert nicht" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="1540" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;br&gt;GRUND: Hinzufügen von optionalen strict matching nach Absprache von Joure Fix am Donnerstag 9. Juli&lt;/div&gt;&amp;nbsp;2026" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;br&gt;GRUND: Hinzufügen von optionalen strict matching nach Absprache von Joure Fix am Donnerstag 9. Juli&lt;/div&gt;&amp;nbsp;2026 - Stand 13.Juli morgens: keine Datensätze aus Kstore" vertex="1">
           <mxGeometry height="80" width="400" x="7120" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-124" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Revie? (Restaufwand 0 PT [FE])&lt;br&gt;TODO Martin/Vil: Anwenderhandbuch aktualisiert?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="7120" y="1280" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Review (Restaufwand 0 PT [FE]) AK&#39;s abgehakt; Anforderung 3 (DQ gleiche id) und 4 (DA gleiche id) zu prüfen&lt;br&gt;TODO: Anwenderhandbuch aktualisieren in #879 DQV + #890 DAV&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="400" x="7120" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-107" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-106" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in Approval (Restaufwand 0 PT [FE])" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in Approval (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="2280" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;/div&gt;" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Development / in Review bei Ylvi (Restaufwand 0 PT [FE])&lt;/div&gt;&amp;nbsp;- Stand 13.Juli morgens: keine Datensätze aus Kstore&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-110" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-108" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE])" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-123" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Cengiz (nicht mehr in QA) &amp;nbsp;(Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz: Titel-Filter-Parameter einfügen" vertex="1">
-          <mxGeometry height="50" width="400" x="7120" y="1035" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Cengiz (nicht mehr in QA) &amp;nbsp;(Restaufwand 0-1 PT [FE]) AK&#39;s offen&lt;br&gt;TODO Cengiz: Titel-Filter-Parameter einfügen" vertex="1">
+          <mxGeometry height="50" width="400" x="7120" y="875" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE])" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="2040" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-112" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-108" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE])" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s frontendseitig erledigt, doch noch nicht abgehakt" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-113" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-108" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE])" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1880" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-114" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-108" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE])" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1960" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-118" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Vil (Restaufwand 2 PT [FE])&lt;br&gt;TODO: UI-Component Gesamtsystem kopieren + Fortschritt in Status-Panel anzeigen + Raus-Filterung in einzelnen Diensten" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Backend Blocked by 599; Frontend in Arbeit von Vil (Restaufwand 2 PT [FE])&lt;br&gt;TODO: UI-Component Gesamtsystem kopieren + Fortschritt in Status-Panel anzeigen + Raus-Filterung in einzelnen Diensten" vertex="1">
           <mxGeometry height="80" width="400" x="7120" y="680" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-122" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFCCCC;gradientDirection=east;" value="Status: in Review (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz/Vil: Merge mit #946: Refactoring DAV" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;gradientColor=#FF9999;gradientDirection=east;" value="Status: in Review (Restaufwand 0 PT [FE])&lt;br&gt;TODO Cengiz/Vil: Merge mit #946: Refactoring DAV" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-121" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Status: blocked by 946 (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz/Vil: Anbindung des neuen Endpunkt von #946" vertex="1">
-          <mxGeometry height="40" width="400" x="7120" y="1120" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF9999;strokeColor=#b85450;" value="Status: blocked by 946 (Restaufwand 1 PT [FE]) AK&#39;s offen&lt;br&gt;TODO Cengiz/Vil: Anbindung des neuen Endpunkt von #946" vertex="1">
+          <mxGeometry height="40" width="400" x="7120" y="960" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-119" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status:&amp;nbsp;&lt;br&gt;AK1(Seite &amp;lt;2s laden erfüllt mit #946)&lt;br&gt;AK2 (Blättern &amp;lt;2s laden erfüllt mit #946)&lt;br&gt;AK3 (Öffnen eines DA &amp;lt;3s laden erfüllt mit #946)&lt;br&gt;AK4 (verfügbare Datenquellen laden ausstehend)&lt;br&gt;AK5 (Bearbeiten/Löschen eines DA &amp;lt;2s&amp;lt;10s laden erfüllt mit #946)&lt;br&gt;(Restaufwand 1 PT [FE])" vertex="1">
-          <mxGeometry height="120" width="400" x="7120" y="800" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF9999;" value="Status:&amp;nbsp;&lt;br&gt;AK1(Seite &amp;lt;2s laden erfüllt mit #946)&lt;br&gt;AK2 (Blättern &amp;lt;2s laden erfüllt mit #946)&lt;br&gt;AK3 (Öffnen eines DA &amp;lt;3s laden erfüllt mit #946)&lt;br&gt;AK4 (verfügbare Datenquellen laden ausstehend; hängt ab von #879)&lt;br&gt;AK5 (Bearbeiten/Löschen eines DA &amp;lt;2s&amp;lt;10s laden erfüllt mit #946)&lt;br&gt;(Restaufwand 0 PT [FE])" vertex="1">
+          <mxGeometry height="120" width="400" x="7120" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE])" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="2120" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend ausstehend (Restaufwand 2 PT [FE])" vertex="1">
           <mxGeometry height="40" width="400" x="7120" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Cengiz (nicht mehr blocked) (Restaufwand 1 PT [FE])&lt;br&gt;TODO Cengiz: Icon + Warnbox anzeigen, wenn validationErrors" vertex="1">
-          <mxGeometry height="50" width="400" x="7120" y="955" as="geometry" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Cengiz (nicht mehr blocked) (Restaufwand 1 PT [FE]) AK&#39;s offen&lt;br&gt;TODO Cengiz: Icon + Warnbox anzeigen, wenn validationErrors" vertex="1">
+          <mxGeometry height="50" width="400" x="7120" y="795" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-101" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-100" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;" value="#598&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung Organisationsverwaltung" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FFFF;fontStyle=1" value="#598&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung Organisationsverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="6640" y="420" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-105" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-103" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: unbekannt (Umsetzung ja/nein?) (Restaufwand 1 PT [FE])&lt;br&gt;TODO: 2 Felder tauschen + Public-Org-Personal-Data optional + Private-Org-Personal-Data required&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="400" x="7120" y="400" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 1 PT" vertex="1">
           <mxGeometry height="40" width="320" x="7560" y="420" as="geometry" />
@@ -2620,11 +2626,14 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-130" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-128" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 9 PT" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 6 PT" vertex="1">
           <mxGeometry height="40" width="320" x="7560" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;" value="&lt;div&gt;Frontend Gesamt Restaufwand CR006: 10 PT&lt;br&gt;GRUND: Mergen/Debuggen/Fixen&amp;nbsp;&lt;br&gt;(+ Anwenderhandbuch)&lt;/div&gt;" vertex="1">
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;" value="&lt;div&gt;Frontend Gesamt Restaufwand CR006: 7 PT&lt;br&gt;+ RISK: Mergen/Debuggen/Fixen&amp;nbsp;&lt;br&gt;(+ Anwenderhandbuch)&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="440" x="8000" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="20" width="1940" x="6500" y="1170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
