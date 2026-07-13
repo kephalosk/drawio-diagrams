@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-129" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-128" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-131" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-128" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-111" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-108" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2599,9 +2605,6 @@
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: unbekannt (Umsetzung ja/nein?) (Restaufwand 1 PT [FE])&lt;br&gt;TODO: 2 Felder tauschen + Public-Org-Personal-Data optional + Private-Org-Personal-Data required&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="400" x="7120" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-129" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-128" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 1 PT" vertex="1">
           <mxGeometry height="40" width="320" x="7560" y="420" as="geometry" />
         </mxCell>
@@ -2610,9 +2613,6 @@
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 0 PT" vertex="1">
           <mxGeometry height="40" width="320" x="7560" y="2280" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-131" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-128" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" value="Frontend Restaufwand: 0 PT" vertex="1">
           <mxGeometry height="40" width="320" x="7560" y="1920" as="geometry" />
