@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1560" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3120" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,9 +44,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-134" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eSw0jQmSTz9Q5OhHZx0l-40" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eSw0jQmSTz9Q5OhHZx0l-133" edge="1" parent="1" source="eSw0jQmSTz9Q5OhHZx0l-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eSw0jQmSTz9Q5OhHZx0l-40" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eSw0jQmSTz9Q5OhHZx0l-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=24;fontStyle=1;align=left;gradientColor=none;strokeWidth=5;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Montag / 13.Juli 2026&lt;/div&gt;" vertex="1">
