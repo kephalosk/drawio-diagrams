@@ -2662,9 +2662,6 @@
         <mxCell id="fjZM-JjMfvNEiyq57ces-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;fontStyle=1" value="#920: [User Story]: Datentabellen importieren/exportieren" vertex="1">
           <mxGeometry height="40" width="440" x="8640" y="2280" as="geometry" />
         </mxCell>
-        <mxCell id="fjZM-JjMfvNEiyq57ces-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
-          <mxGeometry height="40" width="1000" x="8560" y="1320" as="geometry" />
-        </mxCell>
         <mxCell id="fjZM-JjMfvNEiyq57ces-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF33FF;fontStyle=1;fontSize=18;" value="In Approval" vertex="1">
           <mxGeometry height="40" width="960" x="8600" y="2120" as="geometry" />
         </mxCell>
@@ -2794,7 +2791,7 @@
         <mxCell id="fjZM-JjMfvNEiyq57ces-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in QA (Restaufwand 0 PT [FE])&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="9120" y="1640" as="geometry" />
         </mxCell>
-        <mxCell id="fjZM-JjMfvNEiyq57ces-102" edge="1" parent="1" source="fjZM-JjMfvNEiyq57ces-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fjZM-JjMfvNEiyq57ces-44" value="">
+        <mxCell id="fjZM-JjMfvNEiyq57ces-102" edge="1" parent="1" source="fjZM-JjMfvNEiyq57ces-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fjZM-JjMfvNEiyq57ces-44" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjZM-JjMfvNEiyq57ces-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Review (Restaufwand 0 PT [FE]) AK&#39;s abgehakt; Anforderung 3 (DQ gleiche id) und 4 (DA gleiche id) zu prüfen&lt;br&gt;TODO: Anwenderhandbuch aktualisieren in #879 DQV + #890 DAV&amp;nbsp;&lt;/div&gt;" vertex="1">
@@ -2859,6 +2856,15 @@
         </mxCell>
         <mxCell id="fjZM-JjMfvNEiyq57ces-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="20" width="1500" x="8500" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="fjZM-JjMfvNEiyq57ces-103" edge="1" parent="1" source="fjZM-JjMfvNEiyq57ces-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fjZM-JjMfvNEiyq57ces-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9263" y="1290" as="sourcePoint" />
+            <mxPoint x="8898" y="1483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fjZM-JjMfvNEiyq57ces-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
+          <mxGeometry height="40" width="960" x="8600" y="1320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
