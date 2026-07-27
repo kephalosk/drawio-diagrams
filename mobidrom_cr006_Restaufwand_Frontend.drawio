@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="2340" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2000" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2866,22 +2866,7 @@
         <mxCell id="fjZM-JjMfvNEiyq57ces-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
           <mxGeometry height="40" width="960" x="8600" y="1320" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-2" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-36" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-3" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-75" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;" value="Status: unbekannt (Umsetzung ja/nein?) (Restaufwand 0 PT [FE])&lt;br&gt;TODO: 2 Felder tauschen + Public-Org-Ansprechperson optional + Private-Org-Ansprechperson required)" vertex="1">
-          <mxGeometry height="80" width="400" x="10760" y="760" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-5" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-36" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-6" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-75" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-7" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-36" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=24;fontStyle=1;align=left;gradientColor=none;strokeWidth=5;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Montag / 27.Juli 2026&lt;/div&gt;" vertex="1">
@@ -2897,22 +2882,24 @@
           <mxGeometry height="40" width="440" x="10280" y="2360" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF33FF;fontStyle=1;fontSize=18;" value="In Approval" vertex="1">
-          <mxGeometry height="40" width="960" x="10240" y="2120" as="geometry" />
+          <mxGeometry height="40" width="1840" x="10237" y="2117" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-13" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-55" value="">
+        <mxCell id="71dreHysGJM5jOjVjzFO-131" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-129" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#615&amp;nbsp;[User Story]: Unklares Verhalten bei Anlage von Einträgen identischer ID / identischen Namens in Datenquellenverwaltung und Datenangebotsverwaltung" vertex="1">
-          <mxGeometry height="50" width="440" x="10280" y="1315" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#615&amp;nbsp;[User Story]: Unklares Verhalten bei Anlage von Einträgen identischer ID / identischen Namens in Datenquellenverwaltung und Datenangebotsver..." vertex="1">
+          <mxGeometry height="41.54" width="440" x="10280" y="1398.46" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;fontStyle=1;fontSize=18;" value="In Development" vertex="1">
           <mxGeometry height="40" width="1440" x="10240" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-16" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-61" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-16" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-140" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10760" y="940" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#773&amp;nbsp;[User Story]: Datenangebotsverwaltung mit Paging" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="675" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="920" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-18" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-58" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2932,11 +2919,11 @@
         <mxCell id="71dreHysGJM5jOjVjzFO-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#881&amp;nbsp;[User Story]: Status, Fortschritt &amp;amp; Logs" vertex="1">
           <mxGeometry height="40" width="400" x="10320" y="1880" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-24" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-66" value="">
+        <mxCell id="71dreHysGJM5jOjVjzFO-155" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-151" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#885&amp;nbsp;[User Story]: Backup &amp;amp; Restore für dateibasierte Datenquellen und -angebote" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="900" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-26" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-72" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2944,11 +2931,8 @@
         <mxCell id="71dreHysGJM5jOjVjzFO-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#918&amp;nbsp;[User Story]: Datenquellenverwaltung – Konflikte" vertex="1">
           <mxGeometry height="40" width="440" x="10280" y="1480" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-28" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-68" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#919&amp;nbsp;[User Story]: Datenangebotsverwaltung – Konflikte" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="560" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="720" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FFFF;fontStyle=1;fontSize=18;" value="In Refinement" vertex="1">
           <mxGeometry height="40" width="1440" x="10240" y="320" as="geometry" />
@@ -2956,35 +2940,40 @@
         <mxCell id="71dreHysGJM5jOjVjzFO-31" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-70" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;fontStyle=1" value="#599&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung der Datenquellenverwaltung" vertex="1">
+        <mxCell id="71dreHysGJM5jOjVjzFO-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#599&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung der Datenquellenverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="10280" y="2280" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-33" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-69" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-33" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-146" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10760" y="1180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#890&amp;nbsp;[User Story]: Datenangebotsverwaltung: Verbesserung der Ladezeiten" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="1040" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-35" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-37" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;fontStyle=1" value="#946&amp;nbsp;[User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="2200.0000000000005" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#946&amp;nbsp;[User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="40" width="440" x="10280" y="2200" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in QA / blockiert 4 Tickets (Restaufwand 0 PT [FE])&lt;/div&gt;&amp;nbsp; Anforderungen abgehakt, AK&#39;s noch nicht abgehakt (Analyse/Konzept/Umsetzung)" vertex="1">
-          <mxGeometry height="48.46" width="400" x="10760" y="2195.77" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-91" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-90" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-38" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-67" value="">
+        <mxCell id="71dreHysGJM5jOjVjzFO-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;strokeColor=#9673a6;" value="https://github.com/Mobidrom/mobidp-planning/issues/946" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-167" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-163" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#604&amp;nbsp;[User Story]: Entfernen alter Datenquellen in einem Datenangebot" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="1160" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="800" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-40" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-71" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#879&amp;nbsp;[User Story]: Datenquellenverwaltung: Verbesserung der Ladezeiten" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="480" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="640" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-42" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-65" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -3014,97 +3003,277 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;gradientColor=#999999;gradientDirection=east;fontStyle=1" value="(Bug 2 Pascal: kein CR006) #1276&amp;nbsp;[Bug] [Datentabellenverwaltung]: Paging für sehr große Tabellen (500+ Datensätze) funktioniert nicht" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="1560" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-52" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-54" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;gradientColor=#999999;gradientDirection=east;fontStyle=1" value="(Bug 1 Pascal: kein CR006) #1275&amp;nbsp;[Bug] [Datentabellenverwaltung]: Filter funktioniert nicht" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="1640" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="1560" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in QA (Restaufwand 0 PT [FE])&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="10760" y="1640" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in Review (Restaufwand 0 PT [FE]) AK&#39;s abgehakt; Anforderung 3 (DQ gleiche id) und 4 (DA gleiche id) zu prüfen&lt;br&gt;TODO: Anwenderhandbuch aktualisieren in #879 DQV + #890 DAV&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="400" x="10760" y="1310" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in Approval (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
-          <mxGeometry height="40" width="400" x="10760" y="2360" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;strokeColor=#9673a6;" value="&lt;div&gt;Status: in QA (Restaufwand 0 PT [FE])&lt;/div&gt;&amp;nbsp;- gemerged in 1275&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="400" x="10760" y="1560" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
-          <mxGeometry height="40" width="400" x="10760" y="1720" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-60" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-36" value="">
+        <mxCell id="71dreHysGJM5jOjVjzFO-115" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-114" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;" value="Status: Frontend in Arbeit von Cengiz (nicht mehr in QA) &amp;nbsp;(Restaufwand 1 PT [FE]) AK&#39;s offen&lt;br&gt;TODO Cengiz: Titel-Filter-Parameter einfügen" vertex="1">
-          <mxGeometry height="50" width="400" x="10760" y="670" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;strokeColor=#9673a6;" value="https://github.com/Mobidrom/mobidp-planning/issues/1275" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1560" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
+        <mxCell id="71dreHysGJM5jOjVjzFO-83" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/920" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-120" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-114" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;strokeColor=#9673a6;" value="https://github.com/Mobidrom/mobidp-planning/issues/1276" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-113" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/876" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-119" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/883" vertex="1">
           <mxGeometry height="40" width="400" x="10760" y="2040" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s frontendseitig erledigt, doch noch nicht abgehakt" vertex="1">
+        <mxCell id="71dreHysGJM5jOjVjzFO-116" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/880" vertex="1">
           <mxGeometry height="40" width="400" x="10760" y="1800" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
+        <mxCell id="71dreHysGJM5jOjVjzFO-117" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;https://github.com/Mobidrom/mobidp-planning/issues/881&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="10760" y="1880" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
+        <mxCell id="71dreHysGJM5jOjVjzFO-118" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;https://github.com/Mobidrom/mobidp-planning/issues/882&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="10760" y="1960" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;" value="Status: Backend Blocked by 599; Frontend in Arbeit von Vil (Restaufwand 1 PT [FE])&lt;br&gt;TODO: UI-Component Gesamtsystem kopieren + Fortschritt in Status-Panel anzeigen + Raus-Filterung in einzelnen Diensten" vertex="1">
-          <mxGeometry height="80" width="400" x="10760" y="880" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-87" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-86" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;gradientColor=#FF9999;gradientDirection=east;" value="Status: in Review (Restaufwand 0 PT [FE])&lt;br&gt;TODO Cengiz/Vil: Merge mit #946: Refactoring DAV" vertex="1">
-          <mxGeometry height="40" width="400" x="10760" y="1160" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF9999;strokeColor=#000000;" value="Status: Backend fertig/ blocked by 946 (Restaufwand 1 PT [FE]) AK&#39;s offen&lt;br&gt;TODO Cengiz/Vil: Anbindung des neuen Endpunkt von #946" vertex="1">
-          <mxGeometry height="60" width="400" x="10760" y="550" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FF9999;" value="Status:&amp;nbsp;&lt;br&gt;AK1(Seite &amp;lt;2s laden erfüllt mit #946)&lt;br&gt;AK2 (Blättern &amp;lt;2s laden erfüllt mit #946)&lt;br&gt;AK3 (Öffnen eines DA &amp;lt;3s laden erfüllt mit #946)&lt;br&gt;AK4 (verfügbare Datenquellen laden ausstehend; hängt ab von #879)&lt;br&gt;AK5 (Bearbeiten/Löschen eines DA &amp;lt;2s&amp;lt;10s laden erfüllt mit #946)&lt;br&gt;(Restaufwand 0 PT [FE])" vertex="1">
-          <mxGeometry height="120" width="400" x="10760" y="1000" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: in QA (Restaufwand 0 PT [FE]) AK&#39;s abgehakt" vertex="1">
+        <mxCell id="71dreHysGJM5jOjVjzFO-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/599" vertex="1">
           <mxGeometry height="40" width="400" x="10760" y="2280" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend ausstehend (Restaufwand 1 PT [FE])" vertex="1">
-          <mxGeometry height="40" width="400" x="10760" y="480" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/879" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Status: Frontend in Arbeit von Cengiz (nicht mehr blocked) (Restaufwand 0 PT [FE]) AK&#39;s offen&lt;br&gt;TODO Cengiz: Icon + Warnbox anzeigen, wenn validationErrors" vertex="1">
-          <mxGeometry height="50" width="400" x="10760" y="1475" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-126" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-124" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-73" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-4" value="">
+        <mxCell id="71dreHysGJM5jOjVjzFO-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/918" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-161" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-157" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#598&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung Organisationsverwaltung" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="780" as="geometry" />
+          <mxGeometry height="40" width="440" x="10280" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;" value="&lt;div&gt;Frontend Gesamt Restaufwand CR006: 3 PT&lt;br&gt;+ RISK: Mergen/Debuggen/Fixen&amp;nbsp;&lt;br&gt;(+ Anwenderhandbuch)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="400" x="11240" y="480" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;" value="&lt;div&gt;Frontend Gesamt Restaufwand CR006: 2 PT&lt;br&gt;+ RISK: Mergen/Debuggen/Fixen&amp;nbsp;&lt;br&gt;(+ Anwenderhandbuch)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="400" x="12120" y="680" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
-          <mxGeometry height="20" width="1500" x="10140" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-77" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-78" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10903" y="1370" as="sourcePoint" />
-            <mxPoint x="10538" y="1563" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="20" width="1940" x="10140" y="870" as="geometry" />
         </mxCell>
         <mxCell id="71dreHysGJM5jOjVjzFO-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
-          <mxGeometry height="40" width="960" x="10240" y="1400" as="geometry" />
+          <mxGeometry height="40" width="1840" x="10240" y="1240" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-79" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-81" value="">
+        <mxCell id="71dreHysGJM5jOjVjzFO-138" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-134" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1;gradientColor=#999999;gradientDirection=east;" value="&amp;nbsp;#1420&amp;nbsp;[F]: MultiSelect (MobiSelect) verliert Fokus nach Start der Filterung" vertex="1">
-          <mxGeometry height="40" width="440" x="10280" y="1240" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1;gradientColor=#999999;gradientDirection=east;" value="&amp;nbsp;#1420&amp;nbsp;[F]: MultiSelect (MobiSelect) verliert Fokus nach Start der Filterung" vertex="1">
+          <mxGeometry height="40" width="440" x="10280" y="1320" as="geometry" />
         </mxCell>
-        <mxCell id="71dreHysGJM5jOjVjzFO-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;strokeColor=#9673a6;gradientColor=#FF9999;gradientDirection=east;" value="Status: in Review (Restaufwand 0 PT [FE])&lt;br&gt;TODO: Merge mit neuem dev-Branch (#946)" vertex="1">
-          <mxGeometry height="40" width="400" x="10760" y="1240" as="geometry" />
+        <mxCell id="71dreHysGJM5jOjVjzFO-85" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/436" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="CLOSED" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-89" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-88" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/577" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="QA abgeschlossen" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="2280" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-93" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/498" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="QA abgeschlossen" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-110" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-112" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/438" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="dev-946-Merge erfolgreich / QA preRelease" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-122" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-121" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/591" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="dev-946-Merge erfolgreich / ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-123" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-124" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-125" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-124" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/591" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="dev-946-Merge&amp;nbsp;erfolgreich&amp;nbsp;/ ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-946-Merge&amp;nbsp;erfolgreich&amp;nbsp;/ ready for QA /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren in #879 DQV + #890 DAV" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="1398.46" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-128" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-130" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;https://github.com/Mobidrom/mobidp-planning/issues/615&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1398.46" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-132" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-127" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/474" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="1398.46" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-133" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-134" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-136" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/1420" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-135" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-137" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-136" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/622" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#31FFFF;" value="dev-946-Merge&amp;nbsp;erfolgreich&amp;nbsp;/ ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-139" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-140" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-142" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/773" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-141" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-142" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-143" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-142" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/567" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="dev-946-Merge&amp;nbsp;erfolgreich&amp;nbsp;/ in Development in Review / TODO: auf DEV nachtesten" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-145" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-146" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-148" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/890" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-147" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-148" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-149" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/602" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-149" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;" value="kein Frontend-TODO / in Development" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-150" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-153" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-151" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/885" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-152" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-153" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-154" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/618" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;" value="warten auf Backend und dann sync Frontend-PR mit Backend-PR / in Development" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-156" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-157" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-159" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;https://github.com/Mobidrom/mobidp-planning/issues/598&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-158" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-159" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-160" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/618" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;" value="kein Frontend-TODO / in Development / TODO: Backend Thread" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-162" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-163" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-165" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-163" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/604" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-164" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-166" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="https://github.com/Mobidrom/mobidp-data-platform/pull/625" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-174" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-166" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-166" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;" value="dev-946-rebase auf 773 erfolgreich / in Development" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-168" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-169" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-171" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-169" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-planning/issues/604" vertex="1">
+          <mxGeometry height="40" width="400" x="10760" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-170" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-171" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-172" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/618" vertex="1">
+          <mxGeometry height="40" width="400" x="11200" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-173" edge="1" parent="1" source="71dreHysGJM5jOjVjzFO-172" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="71dreHysGJM5jOjVjzFO-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71dreHysGJM5jOjVjzFO-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;" value="sync Frontend-PR with Backend-PR / in Development" vertex="1">
+          <mxGeometry height="40" width="400" x="11640" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
