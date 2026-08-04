@@ -4020,7 +4020,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="&lt;div&gt;dev-876-merge ausstehend&amp;nbsp;/ Ready for QA&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="400" x="15358.5" y="1400" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;TODO Frontend:&lt;/div&gt;&lt;div&gt;1. besprochenes #879 Refactoring abschließen&lt;/div&gt;&lt;div&gt;2. dev-876-Merge in alle offenen Frontend-PR&#39;s&lt;/div&gt;&lt;div&gt;2. rebase #885 auf dev + entfernen aller doppelten Commits&lt;/div&gt;" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;div&gt;TODO Frontend:&lt;/div&gt;&lt;div&gt;1. besprochenes #879 Refactoring abschließen&lt;/div&gt;&lt;div&gt;2. rebase #885 auf dev + entfernen aller doppelten Commits&lt;/div&gt;&lt;div&gt;3. neuen dev mit 876 in alle offenen Frontend-PR&#39;s mergen&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="400" x="15590" y="490" as="geometry" />
         </mxCell>
       </root>
