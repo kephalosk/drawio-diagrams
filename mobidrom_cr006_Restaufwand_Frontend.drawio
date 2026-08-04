@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1719" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2783" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3656,7 +3656,7 @@
           <mxGeometry height="40" width="400" x="13718.5" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=34;" value="&amp;nbsp; DAV" vertex="1">
-          <mxGeometry height="220" width="1410" x="14360" y="750" as="geometry" />
+          <mxGeometry height="140" width="1410" x="14360" y="750" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-158" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=34;" value="&amp;nbsp; DQV" vertex="1">
           <mxGeometry height="60" width="1410" x="14360" y="590" as="geometry" />
@@ -3665,12 +3665,12 @@
           <mxGeometry height="60" width="1410" x="14360" y="670" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1;gradientColor=#999999;gradientDirection=east;" value="&lt;div&gt;#1464 [Finding]: Bei der Erstellung eines neuen Datenangebots wird die ID nur mit den IDs von Angebote die aktuell geladen sind...&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="402.25" x="14477.75" y="1320" as="geometry" />
+          <mxGeometry height="40" width="402.25" x="14477.75" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/633" vertex="1">
-          <mxGeometry height="40" width="400" x="14918.5" y="1320" as="geometry" />
+          <mxGeometry height="40" width="400" x="14918.5" y="1240" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-162" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=24;fontStyle=1;align=left;gradientColor=none;strokeWidth=5;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Restaufwände CR006 Frontend: Dienstag / 4. August 2026&lt;/div&gt;" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-162" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontSize=24;fontStyle=1;align=left;gradientColor=none;strokeWidth=5;" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Restaufwände CR006 Frontend: Dienstag / 5. August 2026&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="1640" x="14280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-163" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;fillColor=#000000;strokeWidth=5;" value="" vertex="1">
@@ -3678,58 +3678,58 @@
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-164" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-215" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14930" y="2378.46" as="targetPoint" />
+            <mxPoint x="14930" y="2298.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;fontStyle=1" value="#920: [User Story]: Datentabellen importieren/exportieren" vertex="1">
-          <mxGeometry height="40" width="440" x="14443" y="2358.46" as="geometry" />
+          <mxGeometry height="40" width="440" x="14443" y="2278.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-166" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF33FF;fontStyle=1;fontSize=18;" value="In Approval" vertex="1">
-          <mxGeometry height="40" width="1400" x="14400" y="1720" as="geometry" />
+          <mxGeometry height="40" width="1400" x="14400" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-167" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-168" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-233" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14899.63" y="1318.8605343511454" as="sourcePoint" />
-            <mxPoint x="14938.130000000001" y="1318.7958778625957" as="targetPoint" />
+            <mxPoint x="14899.63" y="1238.8605343511454" as="sourcePoint" />
+            <mxPoint x="14938.130000000001" y="1238.7958778625957" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-168" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#615&amp;nbsp;[User Story]: Unklares Verhalten bei Anlage von Einträgen identischer ID / identischen Namens in Datenquellenverwaltung und Datenangebotsver..." vertex="1">
-          <mxGeometry height="41.54" width="440" x="14443" y="1238.46" as="geometry" />
+          <mxGeometry height="41.54" width="440" x="14443" y="1158.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-169" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#00FF00;fontStyle=1;fontSize=18;" value="In Development" vertex="1">
           <mxGeometry height="40" width="1440" x="14400" y="400" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-170" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-171" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-238" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14920" y="1100" as="targetPoint" />
+            <mxPoint x="14920" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#773&amp;nbsp;[User Story]: Datenangebotsverwaltung mit Paging" vertex="1">
-          <mxGeometry height="40" width="440" x="14440" y="1080" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#773&amp;nbsp;[User Story]: Datenangebotsverwaltung mit Paging" vertex="1">
+          <mxGeometry height="40" width="440" x="14440" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-172" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-173" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="1817.0000000000005" as="targetPoint" />
+            <mxPoint x="14923" y="1737.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-173" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#876&amp;nbsp;[User Story]: Backend-orchestriertes Backup/Restore" vertex="1">
-          <mxGeometry height="40" width="440" x="14443" y="1797" as="geometry" />
+          <mxGeometry height="40" width="440" x="14443" y="1717" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-174" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-175" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14923" y="1817" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-175" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#880&amp;nbsp;[User Story]: Rollen &amp;amp; Berechtigungen" vertex="1">
+          <mxGeometry height="40" width="400" x="14483" y="1797" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-176" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-177" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="14923" y="1897" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-175" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#880&amp;nbsp;[User Story]: Rollen &amp;amp; Berechtigungen" vertex="1">
-          <mxGeometry height="40" width="400" x="14483" y="1877" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-176" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-177" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="1977" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-177" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#881&amp;nbsp;[User Story]: Status, Fortschritt &amp;amp; Logs" vertex="1">
-          <mxGeometry height="40" width="400" x="14483" y="1957" as="geometry" />
+          <mxGeometry height="40" width="400" x="14483" y="1877" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-178" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-179" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-244" value="">
           <mxGeometry relative="1" as="geometry">
@@ -3752,24 +3752,19 @@
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-185" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-186" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-218" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="2298.46" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#599&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung der Datenquellenverwaltung" vertex="1">
-          <mxGeometry height="40" width="440" x="14443" y="2278.46" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-187" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-188" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qP__GpSwEyjZjhGLWYvS-241" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14917" y="940.0000000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-189" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-190" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-221" value="">
-          <mxGeometry relative="1" as="geometry">
             <mxPoint x="14923" y="2218.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#946&amp;nbsp;[User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#599&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung der Datenquellenverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="14443" y="2198.46" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-189" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-190" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-221" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14923" y="2138.46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#946&amp;nbsp;[User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="40" width="440" x="14443" y="2118.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-191" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-193" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-250" value="">
           <mxGeometry relative="1" as="geometry">
@@ -3792,24 +3787,24 @@
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-197" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-198" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="2057" as="targetPoint" />
+            <mxPoint x="14923" y="1977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-198" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#882&amp;nbsp;[User Story]: Nächtliches Vollbackup (zentral, 1× täglich)" vertex="1">
-          <mxGeometry height="40" width="400" x="14483" y="2037" as="geometry" />
+          <mxGeometry height="40" width="400" x="14483" y="1957" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-199" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-201" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="2137" as="targetPoint" />
+            <mxPoint x="14923" y="2057" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-200" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-201" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="2137" as="targetPoint" />
+            <mxPoint x="14923" y="2057" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-201" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#883&amp;nbsp;[User Story]: Restore Gesamtsystem" vertex="1">
-          <mxGeometry height="40" width="400" x="14483" y="2117" as="geometry" />
+          <mxGeometry height="40" width="400" x="14483" y="2037" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-202" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF0000;fontStyle=1;fontSize=18;" value="Materna" vertex="1">
           <mxGeometry height="40" width="1520" x="14360" y="240" as="geometry" />
@@ -3819,131 +3814,122 @@
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-204" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-205" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.396;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" target="qP__GpSwEyjZjhGLWYvS-227" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="1658.4600000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-205" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;gradientColor=#999999;gradientDirection=east;fontStyle=1" value="(Bug 2 Pascal: kein CR006) #1276&amp;nbsp;[Bug] [Datentabellenverwaltung]: Paging für sehr große Tabellen (500+ Datensätze) funktioniert nicht" vertex="1">
-          <mxGeometry height="40" width="440" x="14443" y="1638.46" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-206" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-207" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-227" value="">
-          <mxGeometry relative="1" as="geometry">
             <mxPoint x="14923" y="1578.4600000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-207" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;gradientColor=#999999;gradientDirection=east;fontStyle=1" value="(Bug 1 Pascal: kein CR006) #1275&amp;nbsp;[Bug] [Datentabellenverwaltung]: Filter funktioniert nicht" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-205" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;gradientColor=#999999;gradientDirection=east;fontStyle=1" value="(Bug 2 Pascal: kein CR006) #1276&amp;nbsp;[Bug] [Datentabellenverwaltung]: Paging für sehr große Tabellen (500+ Datensätze) funktioniert nicht" vertex="1">
           <mxGeometry height="40" width="440" x="14443" y="1558.46" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-206" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-207" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-227" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14923" y="1498.4600000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-207" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;gradientColor=#999999;gradientDirection=east;fontStyle=1" value="(Bug 1 Pascal: kein CR006) #1275&amp;nbsp;[Bug] [Datentabellenverwaltung]: Filter funktioniert nicht" vertex="1">
+          <mxGeometry height="40" width="440" x="14443" y="1478.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-208" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-209" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-247" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14920" y="1178.4600000000005" as="targetPoint" />
+            <mxPoint x="14920" y="1098.4600000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-209" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#598&amp;nbsp;[User Story]: Anpassung &amp;amp; Erweiterung Organisationsverwaltung" vertex="1">
-          <mxGeometry height="40" width="440" x="14440" y="1158.46" as="geometry" />
+          <mxGeometry height="40" width="440" x="14440" y="1078.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-210" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="20" width="1537" x="14303" y="470" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
-          <mxGeometry height="40" width="1397" x="14400" y="1000" as="geometry" />
+          <mxGeometry height="40" width="1397" x="14400" y="920" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-212" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-213" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qP__GpSwEyjZjhGLWYvS-235" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="1498.4600000000005" as="targetPoint" />
+            <mxPoint x="14923" y="1418.4600000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-213" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1;gradientColor=#999999;gradientDirection=east;" value="&amp;nbsp;#1420&amp;nbsp;[F]: MultiSelect (MobiSelect) verliert Fokus nach Start der Filterung" vertex="1">
-          <mxGeometry height="40" width="440" x="14443" y="1478.46" as="geometry" />
+          <mxGeometry height="40" width="440" x="14443" y="1398.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-214" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-215" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-216" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-215" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/436" vertex="1">
-          <mxGeometry height="40" width="400" x="14921.5" y="2358.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="14921.5" y="2278.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-216" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="CLOSED" vertex="1">
-          <mxGeometry height="40" width="400" x="15361.5" y="2358.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="15361.5" y="2278.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-217" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-218" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-219" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-218" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/577" vertex="1">
-          <mxGeometry height="40" width="400" x="14921.5" y="2278.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="14921.5" y="2198.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-219" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="QA abgeschlossen" vertex="1">
-          <mxGeometry height="40" width="400" x="15361.5" y="2278.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="15361.5" y="2198.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-220" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-221" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-222" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-221" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/498" vertex="1">
-          <mxGeometry height="40" width="400" x="14921.5" y="2198.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="14921.5" y="2118.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-222" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="QA abgeschlossen" vertex="1">
-          <mxGeometry height="40" width="400" x="15361.5" y="2198.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="15361.5" y="2118.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-223" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-224" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-225" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-224" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/438" vertex="1">
-          <mxGeometry height="40" width="400" x="14921.5" y="1797" as="geometry" />
+          <mxGeometry height="40" width="400" x="14921.5" y="1717" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-225" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="QA abgeschlossen / Warte auf [F]: Unerwartetes Verhalten bei gescheitertem Vollbackup vor Restore #1473" vertex="1">
-          <mxGeometry height="40" width="400" x="15361.5" y="1797" as="geometry" />
+          <mxGeometry height="40" width="400" x="15361.5" y="1717" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-226" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-227" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-228" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-227" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/591" vertex="1">
-          <mxGeometry height="40" width="400" x="14921.5" y="1558.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="14921.5" y="1478.46" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-228" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge ausstehend / Ready for QA" vertex="1">
-          <mxGeometry height="40" width="400" x="15361.5" y="1558.46" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-228" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge erfolgreich / Funktionstest ausstehend / Ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="15361.5" y="1478.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-229" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-161" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-230" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-230" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
-          <mxGeometry height="40" width="400" x="15358.5" y="1320" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-230" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="15358.5" y="1240" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-231" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
-          <mxGeometry height="40" width="400" x="15361.5" y="1238.46" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-231" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="15361.5" y="1158.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-232" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-233" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-231" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="15338.130000000001" y="1318.46" as="sourcePoint" />
-            <mxPoint x="15378.130000000001" y="1318.46" as="targetPoint" />
+            <mxPoint x="15338.130000000001" y="1238.46" as="sourcePoint" />
+            <mxPoint x="15378.130000000001" y="1238.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-233" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/474" vertex="1">
-          <mxGeometry height="40" width="400" x="14921.5" y="1238.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="14921.5" y="1158.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-234" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-235" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-236" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-235" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/622" vertex="1">
-          <mxGeometry height="40" width="400" x="14921.5" y="1478.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="14921.5" y="1398.46" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-236" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
-          <mxGeometry height="40" width="400" x="15361.5" y="1478.46" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-236" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge&amp;nbsp;erfolgreich&amp;nbsp;/ Funktionstest ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="15361.5" y="1398.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-237" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-238" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-239" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/567" vertex="1">
-          <mxGeometry height="40" width="400" x="14918.5" y="1080" as="geometry" />
+          <mxGeometry height="40" width="400" x="14918.5" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;gradientColor=#FFFF33;gradientDirection=east;" value="dev-876-merge ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
-          <mxGeometry height="40" width="400" x="15358.5" y="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-240" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-241" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-242" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-241" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/602" vertex="1">
-          <mxGeometry height="40" width="400" x="14915.5" y="920" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-242" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FFFF33;gradientDirection=east;" value="aus Sicht Frontend Ready for QA /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV" vertex="1">
-          <mxGeometry height="40" width="400" x="15355.5" y="920" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;gradientColor=#FFFF33;gradientDirection=east;" value="dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="15358.5" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-243" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-244" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-245" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -3951,17 +3937,17 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-244" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/618" vertex="1">
           <mxGeometry height="40" width="400" x="14918.5" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FFFF33;gradientDirection=east;" value="Service-Quelle, CurrentCount und TotalCount synchronisieren nach Fertigstellung des Backends +&amp;nbsp;dev-876-merge ausstehend" vertex="1">
-          <mxGeometry height="40" width="400" x="15358.5" y="680" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-266" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-245" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-246" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-247" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-248" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-247" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/618" vertex="1">
-          <mxGeometry height="40" width="400" x="14918.5" y="1158.46" as="geometry" />
+          <mxGeometry height="40" width="400" x="14918.5" y="1078.46" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-248" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
-          <mxGeometry height="40" width="400" x="15358.5" y="1158.46" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-248" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;/ Ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="15358.5" y="1078.46" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-249" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-250" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-251" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -3969,7 +3955,10 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-250" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="https://github.com/Mobidrom/mobidp-data-platform/pull/625" vertex="1">
           <mxGeometry height="40" width="400" x="14918.5" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-251" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="dev-876-merge ausstehend&amp;nbsp;/ aus Sicht Frontend Ready for QA&amp;nbsp;/ blocked by 773" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-269" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-251" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-251" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;/ aus Sicht Frontend Ready for QA&amp;nbsp;/ blocked by #773" vertex="1">
           <mxGeometry height="40" width="400" x="15358.5" y="840" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-252" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-253" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-254" value="">
@@ -3978,7 +3967,10 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-253" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/626" vertex="1">
           <mxGeometry height="40" width="400" x="14918.5" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-254" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="dev-876-merge ausstehend&amp;nbsp;/ aus Sicht Frontend Ready for QA&amp;nbsp;/ blocked by 773" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-268" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-254" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-254" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;/ aus Sicht Frontend Ready for QA&amp;nbsp;/ blocked by #773" vertex="1">
           <mxGeometry height="40" width="400" x="15358.5" y="760" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-255" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-256" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-257" value="">
@@ -3987,8 +3979,11 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-256" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/628" vertex="1">
           <mxGeometry height="40" width="400" x="14918.5" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Refactoring + Filter-Funktionen aus #773 übernehmen + dev-876-merge&amp;nbsp;ausstehend&amp;nbsp;/ blocked by #773" vertex="1">
-          <mxGeometry height="40" width="400" x="15358.5" y="600" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-267" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Refactoring + Filter-Funktionen aus #773 übernehmen + dev-876-merge&amp;nbsp;ausstehend&amp;nbsp;/ blocked by #773 /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV" vertex="1">
+          <mxGeometry height="50" width="400" x="15358.5" y="595" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-258" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CC99FF;fontStyle=1;fontSize=18;" value="In Review" vertex="1">
           <mxGeometry height="40" width="1360" x="14440" y="520" as="geometry" />
@@ -3997,19 +3992,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-260" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1" value="#918&amp;nbsp;[User Story]: Datenquellenverwaltung – Konflikte" vertex="1">
-          <mxGeometry height="40" width="440" x="14440" y="1400" as="geometry" />
+          <mxGeometry height="40" width="440" x="14440" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-261" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-262" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-263" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-262" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/591" vertex="1">
-          <mxGeometry height="40" width="400" x="14918.5" y="1400" as="geometry" />
+          <mxGeometry height="40" width="400" x="14918.5" y="1320" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="&lt;div&gt;dev-876-merge ausstehend&amp;nbsp;/ Ready for QA&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="400" x="15358.5" y="1400" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="&lt;div&gt;dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;/ Ready for QA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="15358.5" y="1320" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TODO&#39;s Frontend CR006:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. besprochenes #879 Refactoring abschließen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. rebase #885 auf dev + entfernen aller doppelten Commits&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. neuen dev mit #876 drin in alle offenen Frontend-PR&#39;s mergen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. #885 nach Fertigstellung des Backends in Backend-PR mergen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. Anwenderhandbuch für DQV, DTV und DAV aktualisieren&lt;/div&gt;" vertex="1">
-          <mxGeometry height="360" width="200" x="15800" y="600" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TODO&#39;s Frontend CR006:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. besprochenes #879 Refactoring abschließen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. #885 nach Fertigstellung des Backends in Backend-PR mergen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Anwenderhandbuch für DQV, DTV, DAV und SUW aktualisieren&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="200" x="15800" y="600" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#919&amp;nbsp;[User Story]: Datenangebotsverwaltung – Konflikte" vertex="1">
           <mxGeometry height="40" width="403" x="14477" y="760" as="geometry" />
@@ -4017,11 +4012,14 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-193" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#604&amp;nbsp;[User Story]: Entfernen alter Datenquellen in einem Datenangebot" vertex="1">
           <mxGeometry height="40" width="403" x="14477" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-188" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#890&amp;nbsp;[User Story]: Datenangebotsverwaltung: Verbesserung der Ladezeiten" vertex="1">
-          <mxGeometry height="40" width="400" x="14477" y="920" as="geometry" />
-        </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#885&amp;nbsp;[User Story]: Backup &amp;amp; Restore für dateibasierte Datenquellen und -angebote" vertex="1">
           <mxGeometry height="40" width="403" x="14477" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DONE:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. #885 auf dev gerebased + entfernen aller doppelten Commits&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. neuen dev mit #876 drin in alle offenen Frontend-PR&#39;s gemerged&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="15800" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FFFF33;gradientDirection=east;" value="Service-Quelle, CurrentCount und TotalCount synchronisieren nach Fertigstellung des Backends +&amp;nbsp;dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="400" x="15358.5" y="675" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
