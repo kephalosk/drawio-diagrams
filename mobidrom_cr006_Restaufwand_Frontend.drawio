@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="2331" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3674,7 +3674,7 @@
           <mxGeometry height="40" width="1800" x="14280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-163" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=24;fillColor=#000000;strokeWidth=5;" value="" vertex="1">
-          <mxGeometry height="15060" width="40" x="14280" y="160" as="geometry" />
+          <mxGeometry height="1460" width="40" x="14280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-164" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-215" value="">
           <mxGeometry relative="1" as="geometry">
@@ -3982,8 +3982,8 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-267" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Refactoring + dev-876-merge&amp;nbsp;ausstehend&amp;nbsp;/ blocked by #773 /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV + SUW" vertex="1">
-          <mxGeometry height="40" width="400" x="15358.5" y="600" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Refactoring Abschluss ausstehend + dev-876-merge&amp;nbsp;erfolgreich / Funktionstest ausstehend&amp;nbsp;/ blocked by #773 /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV + SUW" vertex="1">
+          <mxGeometry height="50" width="400" x="15358.5" y="595" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-258" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CC99FF;fontStyle=1;fontSize=18;" value="In Review" vertex="1">
           <mxGeometry height="40" width="1360" x="14440" y="520" as="geometry" />
@@ -4015,7 +4015,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#885&amp;nbsp;[User Story]: Backup &amp;amp; Restore für dateibasierte Datenquellen und -angebote" vertex="1">
           <mxGeometry height="40" width="403" x="14477" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DONE YESTERDAY:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Separate, initiale Fehler-Requests ans Backend hinzugefügt + Fehlerhafte Datenquellen in MobiTable als Einträge im MobiTablehinzugefügt für #879&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. #885 auf dev gerebased + alle rund 490 doppelten Commits entfernt&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. neuen dev mit #876 drin in alle offenen Frontend-PR&#39;s gemerged&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DONE YESTERDAY:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1. Separate, initiale Fehler-Requests ans Backend hinzugefügt + Fehlerhafte Datenquellen in MobiTable als Einträge im MobiTable hinzugefügt für #879&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. #885 auf dev gerebased + alle rund 490 doppelten Commits entfernt&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. neuen dev mit #876 drin in alle offenen Frontend-PR&#39;s gemerged&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="230" width="200" x="15840" y="730" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FFFF33;gradientDirection=east;" value="Service-Quelle, CurrentCount und TotalCount synchronisieren nach Fertigstellung des Backends +&amp;nbsp;dev-876-merge erfolgreich / Funktionstest ausstehend&amp;nbsp;" vertex="1">
