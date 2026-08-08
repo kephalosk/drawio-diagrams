@@ -3928,7 +3928,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/567" vertex="1">
           <mxGeometry height="40" width="400" x="14921.5" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;gradientColor=none;gradientDirection=east;" value="Datenquellen Headline font-weight gefixed / neues Approval ausstehend /&amp;nbsp;Ready for QA" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;gradientColor=#FFFF33;gradientDirection=east;" value="Datenquellen Headline font-weight gefixed / neues Approval ausstehend /&amp;nbsp;Ready for QA" vertex="1">
           <mxGeometry height="40" width="400" x="15361.5" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-243" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-244" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-245" value="">
@@ -3982,7 +3982,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-267" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FFFF33;gradientDirection=east;" value="Anzeige für Datenangebotsüberprüfung hinzugefügt / neues Approval ausstehend&amp;nbsp;/&amp;nbsp;Ready for QA&amp;nbsp;/ blocked by #773 /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV + SUW" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Anzeige für Datenangebotsüberprüfung hinzugefügt / neues Approval ausstehend&amp;nbsp;/&amp;nbsp;Ready for QA&amp;nbsp;/ blocked by #773 /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV + SUW" vertex="1">
           <mxGeometry height="50" width="400" x="15358.5" y="595" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-258" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CC99FF;fontStyle=1;fontSize=18;" value="In Review" vertex="1">
