@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1803" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3839,9 +3839,6 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-210" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="20" width="1537" x="14303" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
-          <mxGeometry height="40" width="1397" x="14400" y="920" as="geometry" />
-        </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-212" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-213" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qP__GpSwEyjZjhGLWYvS-235" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="14920.75" y="1257.4600000000005" as="targetPoint" />
@@ -3927,6 +3924,9 @@
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/567" vertex="1">
           <mxGeometry height="40" width="400" x="14921.5" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-82" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-239" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;gradientColor=#FFFF33;gradientDirection=east;" value="Datenquellen Headline font-weight gefixed / neues Approval ausstehend /&amp;nbsp;Ready for QA" vertex="1">
           <mxGeometry height="40" width="400" x="15361.5" y="1000" as="geometry" />
@@ -4018,7 +4018,7 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-18" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DONE:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. #879: Anzeige für Datenangebotsüberprüfung hinzugefügt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. #885:&amp;nbsp;Backend synchronisiert + Restore dateibasierter Datenquellen aus UI &lt;br&gt;entfernt + Fortschrittsanzeige ist nur noch im laufenden Zustand &lt;br&gt;sichtbar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. #919:&amp;nbsp;Konflikt-Typ sources hinzugefügt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;Datenquellen Headline font-weight gefixed&lt;/div&gt;" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DONE:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. #879: Anzeige für Datenangebotsüberprüfung hinzugefügt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. #885:&amp;nbsp;Backend synchronisiert + Restore dateibasierter Datenquellen aus UI &lt;br&gt;entfernt + Fortschrittsanzeige ist nur noch im laufenden Zustand &lt;br&gt;sichtbar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. #919:&amp;nbsp;Konflikt-Typ sources hinzugefügt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. #773: Datenquellen Headline font-weight gefixed&lt;/div&gt;" vertex="1">
           <mxGeometry height="270" width="200" x="15840" y="660" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FFFF33;gradientDirection=east;" value="Backend synchronisiert + Restore dateibasierter Datenquellen aus UI entfernt + Fortschrittsanzeige ist nur noch im laufenden Zustand sichtbar /&amp;nbsp;neues Approval ausstehend&amp;nbsp;/&amp;nbsp;Ready for QA" vertex="1">
@@ -4242,6 +4242,9 @@
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall:&amp;nbsp;Datenquelle mit source-Präfix anlegen +&amp;nbsp;Datenquelle mit argo-Präfix anlegen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1156" as="geometry" />
+        </mxCell>
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
+          <mxGeometry height="40" width="1397" x="14400" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
