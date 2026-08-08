@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1502" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3982,7 +3982,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-267" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Refactoring Abschluss ausstehend + dev-876-merge&amp;nbsp;erfolgreich / Backend/ blocked by #773 /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV + SUW" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=none;gradientDirection=east;" value="In Review / blocked by #773 /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV + SUW" vertex="1">
           <mxGeometry height="50" width="400" x="15358.5" y="595" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-258" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CC99FF;fontStyle=1;fontSize=18;" value="In Review" vertex="1">
