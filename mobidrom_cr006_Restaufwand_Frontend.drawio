@@ -4114,7 +4114,7 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-69" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-43" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: umblättern" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: umblättern" vertex="1">
           <mxGeometry height="41.54" width="680" x="16790" y="798.46" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-70" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-57" value="">
@@ -4129,7 +4129,7 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-68" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-45" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: inaktive Datenquelle entfernen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: fehlerhafte(gelöschte) Datenquelle entfernen" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="718.46" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-67" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-56" value="">
@@ -4195,13 +4195,18 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: umblättern" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="1356" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: umblättern" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: umblättern" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="798.46" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Felder „Stadt“ und „Bundesland“" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="876.9200000000001" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: inaktive Datenquelle entfernen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-86" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-87" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="18780" y="903.3295973154363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: fehlerhafte(gelöschte) Datenquelle entfernen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="718.46" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Datenangebot mit Konflikten öffnen" vertex="1">
@@ -4209,6 +4214,9 @@
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Backup und Download" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="558" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-84" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-83" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Datenquelle bearbeiten" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="478" as="geometry" />
@@ -4245,6 +4253,12 @@
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
           <mxGeometry height="40" width="1397" x="14400" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1511" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="798.46" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1512" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
