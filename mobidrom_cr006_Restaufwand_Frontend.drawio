@@ -4132,10 +4132,10 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: fehlerhafte(gelöschte) Datenquelle entfernen" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="718.46" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-67" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-56" value="">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-67" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-46" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: Datenangebot mit Konflikten öffnen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: Datenangebot mit Konflikten öffnen" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="638.46" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-62" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-56" value="">
@@ -4209,8 +4209,11 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: fehlerhafte(gelöschte) Datenquelle entfernen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="718.46" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Datenangebot mit Konflikten öffnen" vertex="1">
-          <mxGeometry height="41.54" width="680" x="17520" y="638.46" as="geometry" />
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-91" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-90" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Datenangebot mit Konflikten öffnen" vertex="1">
+          <mxGeometry height="41.54" width="680" x="17520" y="640" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Backup und Download" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="558" as="geometry" />
@@ -4259,6 +4262,12 @@
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1512" vertex="1">
           <mxGeometry height="41.54" width="480" x="18240" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="### Ziel des Testfalls&lt;br&gt;&lt;br&gt;Bestehende Konflikte für ein Datenangebot sind in der Datenangebotsübersicht und im Datenangebotsmodal deutlich markiert.&lt;br&gt;&lt;br&gt;### Zugehöriger User Story&lt;br&gt;- #919&lt;br&gt;&lt;br&gt;### Voraussetzungen&lt;br&gt;&lt;br&gt;- Es existiert ein Datenangebot mit bestehenden Konflikten in Datenangebots-ID und Datenquellen.&lt;br&gt;&lt;br&gt;### Testschritte&lt;br&gt;&lt;br&gt;1. Navigation zur Datenangebotsverwaltung&lt;br&gt;2. Öffnen eines Datenangebotes mit bestehenden Konflikten in Datenangebots-ID und Datenquellen&lt;br&gt;3. Prüfung ob eine Warnbox mit Hinweis auf die Konflikt-Felder angezeigt wird und die Konfliktfelder markiert sind&lt;br&gt;&lt;br&gt;### Erwartetes Ergebnis&lt;br&gt;&lt;br&gt;In der Datenangebotsübersicht wird ein Warndreieck für Datenangebote mit Konflikten angezeigt und im Bearbeitungsmodal ist für ein Datenangebot eine Warn-Box mit Auflistung der betroffen Felder zu sehen und die betroffenen Felder sind markiert.&lt;br&gt;&lt;br&gt;### Tatsaechliches Ergebnis (optional)&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### 📎 Anhaenge / Screenshots (optional)&lt;br&gt;&lt;br&gt;&lt;div&gt;**Beispiel für Sichtprüfung:**&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Navigation zur Datenangebotsverwaltung&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Öffnen eines Datenangebotes mit bestehenden Konflikten in Datenangebots-ID und Datenquellen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. Prüfung ob eine Warnbox mit Hinweis auf die Konflikt-Felder angezeigt wird und die Konfliktfelder markiert sind&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="940" width="930" x="18760" y="190.76999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1513" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="638.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
