@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="2704" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2458" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4104,11 +4104,11 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#604&amp;nbsp;[User Story]: Entfernen alter Datenquellen in einem Datenangebot" vertex="1">
           <mxGeometry height="40" width="403" x="16316.25" y="675.54" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-28" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-27" value="">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-28" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-27" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#885&amp;nbsp;[User Story]: Backup &amp;amp; Restore für dateibasierte Datenquellen und -angebote" vertex="1">
-          <mxGeometry height="40" width="403" x="16314.75" y="1872.5" as="geometry" />
+          <mxGeometry height="40" width="403" x="16315.5" y="1957" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;fontSize=24;" value="Testfälle" vertex="1">
           <mxGeometry height="41.54" width="200" x="16410" y="398" as="geometry" />
@@ -4153,8 +4153,11 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-66" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-47" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="2 Testfälle: Backup und Download + Restore und Download" vertex="1">
-          <mxGeometry height="41.54" width="680" x="16795.5" y="1871.5" as="geometry" />
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-134" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-133" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="3 Testfälle: Backup und Download + Restore und Download + Backend Prozesse und Logs" vertex="1">
+          <mxGeometry height="41.54" width="680" x="16797" y="1955.46" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-59" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-55" value="">
           <mxGeometry relative="1" as="geometry">
@@ -4371,14 +4374,14 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1527" vertex="1">
           <mxGeometry height="40" width="480" x="18235.5" y="1950.96" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;fontSize=30;" value="17 Issues: 1511 - 1527" vertex="1">
-          <mxGeometry height="41.54" width="487.75" x="18238.5" y="478.46" as="geometry" />
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;fontSize=30;" value="18 Issues: 1511 - 1528" vertex="1">
+          <mxGeometry height="41.54" width="487.75" x="18238.5" y="520" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-127" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-126" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-125" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;fontSize=30;" value="17 Testfälle" vertex="1">
-          <mxGeometry height="41.54" width="487.75" x="17613.12" y="478.46" as="geometry" />
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=center;fontSize=30;" value="18 Testfälle" vertex="1">
+          <mxGeometry height="41.54" width="487.75" x="17613.12" y="520" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1528" vertex="1">
           <mxGeometry height="40" width="480" x="18238.5" y="756" as="geometry" />
@@ -4388,6 +4391,9 @@
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: inaktive Datenquelle entfernen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17517" y="758" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#FF0000;" value="Testfall:&amp;nbsp;Backend Prozesse und Logs" vertex="1">
+          <mxGeometry height="41.54" width="680" x="17517" y="2037" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
