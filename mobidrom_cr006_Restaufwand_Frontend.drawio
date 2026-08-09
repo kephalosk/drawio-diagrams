@@ -4177,7 +4177,7 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-93" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-92" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="3 Testfälle:&amp;nbsp;Datenquelle mit source-Präfix anlegen +&amp;nbsp;Datenquelle mit argo-Präfix anlegen +&amp;nbsp;Datenangebot mit offer-Präfix anlegen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="3 Testfälle:&amp;nbsp;Datenquelle mit source-Präfix anlegen +&amp;nbsp;Datenquelle mit argo-Präfix anlegen +&amp;nbsp;Datenangebot mit offer-Präfix anlegen" vertex="1">
           <mxGeometry height="41.54" width="680" x="16790" y="1119" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-79" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-52" value="">
@@ -4233,7 +4233,10 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Tag-Name vollständig eingeben" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1035.92" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall:&amp;nbsp;Datenquelle mit source-Präfix anlegen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-96" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-95" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall:&amp;nbsp;Datenquelle mit source-Präfix anlegen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1077.46" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Versuch Datenangebot mit bereits existierender ID anzulegen" vertex="1">
@@ -4254,7 +4257,10 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Felder der Ansprechperson" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="917" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Datenquelle mit argo-Präfix anlegen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-98" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-97" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Datenquelle mit argo-Präfix anlegen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1117.54" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
@@ -4266,14 +4272,26 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1512" vertex="1">
           <mxGeometry height="41.54" width="480" x="18240" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="### Ziel des Testfalls&lt;br&gt;&lt;br&gt;Bestehende Konflikte für ein Datenangebot sind in der Datenangebotsübersicht und im Datenangebotsmodal deutlich markiert.&lt;br&gt;&lt;br&gt;### Zugehöriger User Story&lt;br&gt;- #919&lt;br&gt;&lt;br&gt;### Voraussetzungen&lt;br&gt;&lt;br&gt;- Es existiert ein Datenangebot mit bestehenden Konflikten in Datenangebots-ID und Datenquellen.&lt;br&gt;&lt;br&gt;### Testschritte&lt;br&gt;&lt;br&gt;1. Navigation zur Datenangebotsverwaltung&lt;br&gt;2. Öffnen eines Datenangebotes mit bestehenden Konflikten in Datenangebots-ID und Datenquellen&lt;br&gt;3. Prüfung ob eine Warnbox mit Hinweis auf die Konflikt-Felder angezeigt wird und die Konfliktfelder markiert sind&lt;br&gt;&lt;br&gt;### Erwartetes Ergebnis&lt;br&gt;&lt;br&gt;In der Datenangebotsübersicht wird ein Warndreieck für Datenangebote mit Konflikten angezeigt und im Bearbeitungsmodal ist für ein Datenangebot eine Warn-Box mit Auflistung der betroffen Felder zu sehen und die betroffenen Felder sind markiert.&lt;br&gt;&lt;br&gt;### Tatsaechliches Ergebnis (optional)&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### 📎 Anhaenge / Screenshots (optional)&lt;br&gt;&lt;br&gt;&lt;div&gt;**Beispiel für Sichtprüfung:**&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Navigation zur Datenangebotsverwaltung&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Öffnen eines Datenangebotes mit bestehenden Konflikten in Datenangebots-ID und Datenquellen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;3. Prüfung ob eine Warnbox mit Hinweis auf die Konflikt-Felder angezeigt wird und die Konfliktfelder markiert sind&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="940" width="930" x="18760" y="190.76999999999998" as="geometry" />
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="### Ziel des Testfalls&lt;br&gt;&lt;br&gt;Neue Datenquellen (die keine manuellen KStore-Tabellen sind) werden in ihrer ID automatisch mit dem Präfix source- angelegt.&lt;br&gt;&lt;br&gt;### Zugehöriger User Story&lt;br&gt;- #615&amp;nbsp;&lt;br&gt;&lt;br&gt;### Voraussetzungen&lt;br&gt;&lt;br&gt;- keine&lt;br&gt;&lt;br&gt;### Testschritte&lt;br&gt;&lt;br&gt;1. Navigation zur Datenquellenverwaltung&lt;br&gt;2. Hinzufügen einer neuen Datenquelle, die nicht vom Adapter-Typ KStore-Tabelle ist&lt;br&gt;3. Öffnen der hinzugefügten Datenquelle&lt;br&gt;4. Prüfung ob Präfix source- vorhanden ist&lt;br&gt;&lt;br&gt;### Erwartetes Ergebnis&lt;br&gt;&lt;br&gt;Präfix argo- wird automatisch der ID der neuen Datenquelle vorangesetzt&lt;br&gt;&lt;br&gt;### Tatsaechliches Ergebnis (optional)&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### 📎 Anhaenge / Screenshots (optional)&lt;br&gt;&lt;br&gt;1. Navigation zur Datenquellenverwaltung + Hinzufügen einer neuen Datenquelle, die nicht vom Adapter-Typ KStore-Tabelle ist&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;213&quot; height=&quot;352&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/7fb80c43-47f8-48d6-8a76-34b9a258757c&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;3. Öffnen der hinzugefügten Datenquelle + Prüfung ob Präfix source- vorhanden ist&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;213&quot; height=&quot;373&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/e12e0bf2-224b-49f2-9e19-252fddf2d4b7&quot; /&amp;gt;" vertex="1">
+          <mxGeometry height="940" width="930" x="18780" y="690" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1513" vertex="1">
           <mxGeometry height="41.54" width="480" x="18240" y="638.46" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall:&amp;nbsp;Datenangebot mit offer-Präfix anlegen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-100" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-92" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-99" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall:&amp;nbsp;Datenangebot mit offer-Präfix anlegen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1154.46" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1514" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="1077.46" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1515" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="1119" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1516" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="1160.54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
