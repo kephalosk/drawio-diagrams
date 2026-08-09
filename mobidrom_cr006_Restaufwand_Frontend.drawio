@@ -4123,7 +4123,7 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-71" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-44" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="2 Testfälle: Felder „Stadt“ und „Bundesland“ + Felder der Ansprechperson" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="2 Testfälle: Felder „Stadt“ und „Bundesland“ + Felder der Ansprechperson" vertex="1">
           <mxGeometry height="41.54" width="680" x="16790" y="879" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-68" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-45" value="">
@@ -4153,19 +4153,19 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-61" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-48" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="2 Testfälle: Datenquelle bearbeiten + Datenquelle löschen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="2 Testfälle: Datenquelle bearbeiten + Datenquelle löschen" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-72" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-57" value="">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-72" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-49" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: Datenquelle mit Konflikten öffnen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: Datenquelle mit Konflikten öffnen" vertex="1">
           <mxGeometry height="41.54" width="680" x="16790" y="960" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-73" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-50" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: Tag-Name vollständig eingeben" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: Tag-Name vollständig eingeben" vertex="1">
           <mxGeometry height="41.54" width="680" x="16790" y="1035.92" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-74" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-58" value="">
@@ -4183,25 +4183,28 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-79" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-52" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: Versuch Datenangebot mit bereits existierender ID anzulegen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: Versuch Datenangebot mit bereits existierender ID anzulegen" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-80" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-53" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: Datensatz in Tabelle suchen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: Datensatz in Tabelle suchen" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="1276" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-81" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-54" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="1 Testfall: umblättern" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="1 Testfall: umblättern" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="1356" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: umblättern" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="798.46" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Felder „Stadt“ und „Bundesland“" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-102" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-101" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Felder „Stadt“ und „Bundesland“" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="876.9200000000001" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-86" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-87" value="">
@@ -4224,13 +4227,22 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-84" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-83" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Datenquelle bearbeiten" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-116" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-115" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Datenquelle bearbeiten" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="478" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Datenquelle mit Konflikten öffnen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-108" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-107" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Datenquelle mit Konflikten öffnen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="960" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Tag-Name vollständig eingeben" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-106" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Tag-Name vollständig eingeben" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1035.92" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-96" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-95" value="">
@@ -4239,22 +4251,37 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall:&amp;nbsp;Datenquelle mit source-Präfix anlegen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1077.46" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Versuch Datenangebot mit bereits existierender ID anzulegen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-110" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-109" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Versuch Datenangebot mit bereits existierender ID anzulegen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1196" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Datensatz in Tabelle suchen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-112" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Datensatz in Tabelle suchen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1276" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: umblättern" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-114" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-113" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: umblättern" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="1356" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Datenquelle löschen" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-118" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-117" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Datenquelle löschen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="520" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Restore und Download" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="598.46" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Felder der Ansprechperson" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-104" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-103" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Felder der Ansprechperson" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="917" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-98" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-97" value="">
@@ -4272,8 +4299,8 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1512" vertex="1">
           <mxGeometry height="41.54" width="480" x="18240" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="### Ziel des Testfalls&lt;br&gt;&lt;br&gt;Neue Datenquellen (die keine manuellen KStore-Tabellen sind) werden in ihrer ID automatisch mit dem Präfix source- angelegt.&lt;br&gt;&lt;br&gt;### Zugehöriger User Story&lt;br&gt;- #615&amp;nbsp;&lt;br&gt;&lt;br&gt;### Voraussetzungen&lt;br&gt;&lt;br&gt;- keine&lt;br&gt;&lt;br&gt;### Testschritte&lt;br&gt;&lt;br&gt;1. Navigation zur Datenquellenverwaltung&lt;br&gt;2. Hinzufügen einer neuen Datenquelle, die nicht vom Adapter-Typ KStore-Tabelle ist&lt;br&gt;3. Öffnen der hinzugefügten Datenquelle&lt;br&gt;4. Prüfung ob Präfix source- vorhanden ist&lt;br&gt;&lt;br&gt;### Erwartetes Ergebnis&lt;br&gt;&lt;br&gt;Präfix argo- wird automatisch der ID der neuen Datenquelle vorangesetzt&lt;br&gt;&lt;br&gt;### Tatsaechliches Ergebnis (optional)&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### 📎 Anhaenge / Screenshots (optional)&lt;br&gt;&lt;br&gt;1. Navigation zur Datenquellenverwaltung + Hinzufügen einer neuen Datenquelle, die nicht vom Adapter-Typ KStore-Tabelle ist&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;213&quot; height=&quot;352&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/7fb80c43-47f8-48d6-8a76-34b9a258757c&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;3. Öffnen der hinzugefügten Datenquelle + Prüfung ob Präfix source- vorhanden ist&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;213&quot; height=&quot;373&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/e12e0bf2-224b-49f2-9e19-252fddf2d4b7&quot; /&amp;gt;" vertex="1">
-          <mxGeometry height="940" width="930" x="18780" y="690" as="geometry" />
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="### Ziel des Testfalls&lt;br&gt;&lt;br&gt;Die Tabelle in der Datenquellenverwaltung wird innerhalb von 2 Sekunden geladen und Wechsel zu Tabellenseite 2 geschieht innerhalb von 2 Sekunden und öffnen einer Datenquelle dauert weniger als 3 Sekunden und Speichern der Datenquelle dauert weniger als 10 Sekunden.&lt;br&gt;&lt;br&gt;### Zugehöriger User Story&lt;br&gt;- #879&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;### Voraussetzungen&lt;br&gt;&lt;br&gt;- Es existieren mehr als 10 Datenquellen in der Datenquellenverwaltung&lt;br&gt;&lt;br&gt;### Testschritte&lt;br&gt;&lt;br&gt;1. Öffnen der Entwicklungstools im Browser (z.B. durch Rechtsklick in Browser und Auswahl &quot;Untersuchen&quot; oder &quot;Inspect&quot;)&lt;br&gt;2. Navigation zu Reiter Netzwerk/Network in den Entwicklungstools&lt;br&gt;3. Filterung im Reiter Netzwerk auf XHR setzen&lt;br&gt;4. Navigation zur Datenquellenverwaltung und Prüfung, ob die Tabelle innerhalb von 2 Sekunden nach dem Seitenruf geladen ist&lt;br&gt;5. Wechsel zu Seite 2 in der Datenquellen-Tabelle und Prüfung, ob der Wechsel weniger als 2 Sekunden gedauert hat&lt;br&gt;6. Öffnen einer Datenquelle und Prüfung, ob das Öffnen der Datenquelle weniger als 3 Sekunden gedauert hat&lt;br&gt;7. Speicherung der Datenquelle und Prüfung, ob der Speichervorgang weniger als 3 Sekunden gedauert hat&lt;br&gt;&lt;br&gt;### Erwartetes Ergebnis&lt;br&gt;&lt;br&gt;Die Tabelle in der Datenquellenverwaltung wird innerhalb von 2 Sekunden geladen und Wechsel zu Tabellenseite 2 geschieht innerhalb von 2 Sekunden und öffnen einer Datenquelle dauert weniger als 3 Sekunden und Speichern der Datenquelle dauert weniger als 10 Sekunden.&lt;br&gt;&lt;br&gt;### Tatsaechliches Ergebnis (optional)&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### 📎 Anhaenge / Screenshots (optional)&lt;br&gt;&lt;br&gt;1. Öffnen der Entwicklungstools im Browser (z.B. durch Rechtsklick in Browser und Auswahl &quot;Untersuchen&quot; oder &quot;Inspect&quot;)&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1486&quot; height=&quot;715&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/c60bb9ce-31d0-4662-a020-d5b5ca269f87&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;2. Navigation zu Reiter Netzwerk/Network in den Entwicklungstools&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1497&quot; height=&quot;671&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/c09a742b-f1bd-446f-8e7b-34c5780fda57&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;3. Filterung im Reiter Netzwerk auf XHR setzen&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1512&quot; height=&quot;663&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/8b8c2307-5101-423b-9194-6aece76a276c&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;4. Navigation zur Datenquellenverwaltung und Prüfung, ob die Tabelle innerhalb von 2 Sekunden nach dem Seitenruf geladen ist&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1031&quot; height=&quot;478&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/a67977aa-09f4-4caa-ba24-0db375762ccc&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;5. Wechsel zu Seite 2 in der Datenquellen-Tabelle und Prüfung, ob der Wechsel weniger als 2 Sekunden gedauert hat&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;954&quot; height=&quot;445&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/f573c613-9a6f-400e-8c92-f1a6673554d9&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;6. Öffnen einer Datenquelle und Prüfung, ob das Öffnen der Datenquelle weniger als 3 Sekunden gedauert hat&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1132&quot; height=&quot;583&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/af61aa8d-ace4-466b-97b0-43835b115bdc&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;7. Speicherung der Datenquelle und Prüfung, ob der Speichervorgang weniger als 3 Sekunden gedauert hat&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1170&quot; height=&quot;392&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/be0bc3d0-97e0-4589-bac3-8cb30e1e1fc6&quot; /&amp;gt;" vertex="1">
+          <mxGeometry height="1060" width="930" x="18780" y="570" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1513" vertex="1">
           <mxGeometry height="41.54" width="480" x="18240" y="638.46" as="geometry" />
@@ -4292,6 +4319,33 @@
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1516" vertex="1">
           <mxGeometry height="41.54" width="480" x="18240" y="1160.54" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1517" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="875.46" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1518" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="918.46" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1519" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="1035.92" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1520" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1521" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="1202.08" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1522" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="1276" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1523" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="1356.92" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1524" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="478" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1525" vertex="1">
+          <mxGeometry height="41.54" width="480" x="18240" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
