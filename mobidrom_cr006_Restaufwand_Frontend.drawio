@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1803" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3958,7 +3958,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-269" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-251" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-251" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Ready for QA&amp;nbsp;/ blocked by #773" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-251" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Bestätigungsdialog fürs Löschen hinzugefügt /&amp;nbsp;neues Approval ausstehend /&amp;nbsp;Ready for QA&amp;nbsp;/ blocked by #773" vertex="1">
           <mxGeometry height="50" width="400" x="15358.5" y="835" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-252" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-253" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-254" value="">
@@ -4144,7 +4144,7 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-66" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-47" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="2 Testfälle: Backup und Download + Restore und Download" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="2 Testfälle: Backup und Download + Restore und Download" vertex="1">
           <mxGeometry height="41.54" width="680" x="16800" y="559" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-59" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-55" value="">
@@ -4221,7 +4221,10 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Datenangebot mit Konflikten öffnen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="Testfall: Backup und Download" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-120" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-119" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: Backup und Download" vertex="1">
           <mxGeometry height="41.54" width="680" x="17520" y="558" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-84" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-83" value="">
@@ -4299,8 +4302,8 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-87" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1512" vertex="1">
           <mxGeometry height="41.54" width="480" x="18240" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="### Ziel des Testfalls&lt;br&gt;&lt;br&gt;Die Tabelle in der Datenquellenverwaltung wird innerhalb von 2 Sekunden geladen und Wechsel zu Tabellenseite 2 geschieht innerhalb von 2 Sekunden und öffnen einer Datenquelle dauert weniger als 3 Sekunden und Speichern der Datenquelle dauert weniger als 10 Sekunden.&lt;br&gt;&lt;br&gt;### Zugehöriger User Story&lt;br&gt;- #879&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;### Voraussetzungen&lt;br&gt;&lt;br&gt;- Es existieren mehr als 10 Datenquellen in der Datenquellenverwaltung&lt;br&gt;&lt;br&gt;### Testschritte&lt;br&gt;&lt;br&gt;1. Öffnen der Entwicklungstools im Browser (z.B. durch Rechtsklick in Browser und Auswahl &quot;Untersuchen&quot; oder &quot;Inspect&quot;)&lt;br&gt;2. Navigation zu Reiter Netzwerk/Network in den Entwicklungstools&lt;br&gt;3. Filterung im Reiter Netzwerk auf XHR setzen&lt;br&gt;4. Navigation zur Datenquellenverwaltung und Prüfung, ob die Tabelle innerhalb von 2 Sekunden nach dem Seitenruf geladen ist&lt;br&gt;5. Wechsel zu Seite 2 in der Datenquellen-Tabelle und Prüfung, ob der Wechsel weniger als 2 Sekunden gedauert hat&lt;br&gt;6. Öffnen einer Datenquelle und Prüfung, ob das Öffnen der Datenquelle weniger als 3 Sekunden gedauert hat&lt;br&gt;7. Speicherung der Datenquelle und Prüfung, ob der Speichervorgang weniger als 3 Sekunden gedauert hat&lt;br&gt;&lt;br&gt;### Erwartetes Ergebnis&lt;br&gt;&lt;br&gt;Die Tabelle in der Datenquellenverwaltung wird innerhalb von 2 Sekunden geladen und Wechsel zu Tabellenseite 2 geschieht innerhalb von 2 Sekunden und öffnen einer Datenquelle dauert weniger als 3 Sekunden und Speichern der Datenquelle dauert weniger als 10 Sekunden.&lt;br&gt;&lt;br&gt;### Tatsaechliches Ergebnis (optional)&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### 📎 Anhaenge / Screenshots (optional)&lt;br&gt;&lt;br&gt;1. Öffnen der Entwicklungstools im Browser (z.B. durch Rechtsklick in Browser und Auswahl &quot;Untersuchen&quot; oder &quot;Inspect&quot;)&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1486&quot; height=&quot;715&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/c60bb9ce-31d0-4662-a020-d5b5ca269f87&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;2. Navigation zu Reiter Netzwerk/Network in den Entwicklungstools&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1497&quot; height=&quot;671&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/c09a742b-f1bd-446f-8e7b-34c5780fda57&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;3. Filterung im Reiter Netzwerk auf XHR setzen&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1512&quot; height=&quot;663&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/8b8c2307-5101-423b-9194-6aece76a276c&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;4. Navigation zur Datenquellenverwaltung und Prüfung, ob die Tabelle innerhalb von 2 Sekunden nach dem Seitenruf geladen ist&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1031&quot; height=&quot;478&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/a67977aa-09f4-4caa-ba24-0db375762ccc&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;5. Wechsel zu Seite 2 in der Datenquellen-Tabelle und Prüfung, ob der Wechsel weniger als 2 Sekunden gedauert hat&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;954&quot; height=&quot;445&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/f573c613-9a6f-400e-8c92-f1a6673554d9&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;6. Öffnen einer Datenquelle und Prüfung, ob das Öffnen der Datenquelle weniger als 3 Sekunden gedauert hat&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1132&quot; height=&quot;583&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/af61aa8d-ace4-466b-97b0-43835b115bdc&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;7. Speicherung der Datenquelle und Prüfung, ob der Speichervorgang weniger als 3 Sekunden gedauert hat&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;1170&quot; height=&quot;392&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/be0bc3d0-97e0-4589-bac3-8cb30e1e1fc6&quot; /&amp;gt;" vertex="1">
-          <mxGeometry height="1060" width="930" x="18780" y="570" as="geometry" />
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;" value="### Ziel des Testfalls&lt;br&gt;&lt;br&gt;Es kann ein Backup aller Dateien durchgeführt werden und nach erfolgreichem Abschluss heruntergeladen werden.&lt;br&gt;&lt;br&gt;### Voraussetzungen&lt;br&gt;&lt;br&gt;- Es gibt keinen laufenden Backup- oder Restore-Job.&lt;br&gt;&lt;br&gt;### Testschritte&lt;br&gt;&lt;br&gt;1. Seite Sicherung und Wiederherstellung aufrufen&lt;br&gt;2. Button &quot;Sicherung für Dateien erstellen&quot; anklicken im Bereich Dateibasierte Datenquellen und -angebote.&lt;br&gt;3. Seite aktualisieren bis Job Status &quot;läuft&quot; anzeigt&lt;br&gt;4. Vorhandensein der Fortschrittsanzeige überprüfen&lt;br&gt;5. Nach Abschluss des Backup-Jobs den Button &quot;Sicherung herunterladen&quot; anklicken&lt;br&gt;&lt;br&gt;### Erwartetes Ergebnis&lt;br&gt;&lt;br&gt;Das Backup dateibasierter Datenquellen und -angebote wird erfolgreich erstellt und heruntergeladen.&lt;br&gt;&lt;br&gt;### Tatsaechliches Ergebnis (optional)&lt;br&gt;&lt;br&gt;_No response_&lt;br&gt;&lt;br&gt;### 📎 Anhaenge / Screenshots (optional)&lt;br&gt;&lt;br&gt;1. Seite Sicherung und Wiederherstellung aufrufen + Button &quot;Sicherung für Dateien erstellen&quot; anklicken im Bereich Dateibasierte Datenquellen und -angebote.&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;392&quot; height=&quot;306&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/c503d9c1-0538-4cc8-b041-1700856fe1a2&quot; /&amp;gt;&lt;br&gt;&lt;br&gt;3. Seite aktualisieren bis Job Status &quot;läuft&quot; anzeigt + Vorhandensein der Fortschrittsanzeige überprüfen&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;406&quot; height=&quot;298&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/0c39107f-05c1-4fdc-8f69-9a72ac77288f&quot; /&amp;gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;5. Nach Abschluss des Backup-Jobs den Button &quot;Sicherung herunterladen&quot; anklicken&lt;br&gt;&lt;br&gt;&amp;lt;img width=&quot;368&quot; height=&quot;298&quot; alt=&quot;Image&quot; src=&quot;https://github.com/user-attachments/assets/9f28eeb0-ca49-40ec-b339-1247420aef49&quot; /&amp;gt;" vertex="1">
+          <mxGeometry height="1430" width="930" x="18780" y="200" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1513" vertex="1">
           <mxGeometry height="41.54" width="480" x="18240" y="638.46" as="geometry" />
@@ -4342,10 +4345,13 @@
           <mxGeometry height="41.54" width="480" x="18240" y="1356.92" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1524" vertex="1">
-          <mxGeometry height="41.54" width="480" x="18240" y="478" as="geometry" />
+          <mxGeometry height="40" width="480" x="18240" y="479.54" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1525" vertex="1">
-          <mxGeometry height="41.54" width="480" x="18240" y="520" as="geometry" />
+          <mxGeometry height="40" width="480" x="18240" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1526" vertex="1">
+          <mxGeometry height="40" width="480" x="18240" y="559" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
