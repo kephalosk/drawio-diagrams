@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="0BLjgJdESMF3buwbVgl_">
-    <mxGraphModel dx="1879" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1996" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3988,6 +3988,9 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="Ready for QA" vertex="1">
           <mxGeometry height="40" width="400" x="15356.25" y="1159" as="geometry" />
         </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-152" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-264" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-151" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TODO Frontend CR006:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Anwenderhandbuch für DQV, DTV, DAV, OV und SUW aktualisieren&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;Rebase und Merge #879 in Backend-PR, wenn #773 auf dev&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;Rebase und Merge #919 in Backend-PR, wenn #773 auf dev&lt;/div&gt;" vertex="1">
           <mxGeometry height="175" width="200" x="15840" y="559" as="geometry" />
         </mxCell>
@@ -4424,6 +4427,45 @@
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1531" vertex="1">
           <mxGeometry height="40" width="480" x="18385.25" y="2285" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-154" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-153" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-157" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-155" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-159" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-158" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-161" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-160" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-163" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-162" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-151" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=30;" value="Anwenderhandbuch" vertex="1">
+          <mxGeometry height="40" width="440" x="19000" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=30;" value="DQV / Datenquellenverwaltung" vertex="1">
+          <mxGeometry height="40" width="600" x="19480" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=30;" value="DTV / Datentabellenverwaltung" vertex="1">
+          <mxGeometry height="40" width="600" x="19480" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-165" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-158" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-164" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-158" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=30;" value="DAV / Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="40" width="600" x="19480" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=30;" value="OV / Organisationsverwaltung" vertex="1">
+          <mxGeometry height="40" width="600" x="19480" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-162" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=30;" value="SUW / SicherungUndWiederherstellung" vertex="1">
+          <mxGeometry height="40" width="600" x="19480" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=18;" value="https://github.com/Mobidrom/mobidp-planning/issues/1299" vertex="1">
+          <mxGeometry height="40" width="600" x="20120" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
