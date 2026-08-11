@@ -3656,13 +3656,13 @@
           <mxGeometry height="40" width="400" x="13718.5" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=34;" value="&amp;nbsp; DAV" vertex="1">
-          <mxGeometry height="140" width="1410" x="14360" y="750" as="geometry" />
+          <mxGeometry height="60" width="1410" x="14360" y="750" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-158" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=34;" value="&amp;nbsp; DQV" vertex="1">
-          <mxGeometry height="60" width="1410" x="14360" y="590" as="geometry" />
+          <mxGeometry height="60" width="1410" x="14360" y="670" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=34;" value="&amp;nbsp; SUW" vertex="1">
-          <mxGeometry height="60" width="1410" x="14360" y="670" as="geometry" />
+          <mxGeometry height="60" width="1410" x="14360" y="589.77" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB366;fontStyle=1;gradientColor=#999999;gradientDirection=east;" value="&lt;div&gt;#1464 [Finding]: Bei der Erstellung eines neuen Datenangebots wird die ID nur mit den IDs von Angebote die aktuell geladen sind...&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="402.25" x="14474" y="1400" as="geometry" />
@@ -3701,11 +3701,11 @@
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-170" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-171" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-238" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14923" y="1020" as="targetPoint" />
+            <mxPoint x="14920.75" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#773&amp;nbsp;[User Story]: Datenangebotsverwaltung mit Paging" vertex="1">
-          <mxGeometry height="40" width="440" x="14443" y="1000" as="geometry" />
+          <mxGeometry height="40" width="440" x="14440.75" y="920" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-172" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-173" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
           <mxGeometry relative="1" as="geometry">
@@ -3733,13 +3733,13 @@
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-178" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-179" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-244" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14920" y="700.0000000000005" as="targetPoint" />
+            <mxPoint x="14920" y="619.7700000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-180" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-160" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-161" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-181" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-193" value="">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-181" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-171" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-182" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-253" value="">
@@ -3766,24 +3766,21 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#946&amp;nbsp;[User Story]: Erstellung eines Backend-Service für die Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="40" width="440" x="14443" y="2118.46" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-191" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-193" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-250" value="">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-191" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-193" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-238" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14920" y="860" as="targetPoint" />
+            <mxPoint x="14917" y="1019" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-192" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-193" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-171" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-194" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-196" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-256" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14920" y="620" as="targetPoint" />
+            <mxPoint x="14920" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-195" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-196" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-171" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-196" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#879&amp;nbsp;[User Story]: Datenquellenverwaltung: Verbesserung der Ladezeiten" vertex="1">
-          <mxGeometry height="40" width="403" x="14477" y="600" as="geometry" />
+          <mxGeometry height="40" width="403" x="14477" y="680" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-197" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-198" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-224" value="">
           <mxGeometry relative="1" as="geometry">
@@ -3923,19 +3920,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/567" vertex="1">
-          <mxGeometry height="40" width="400" x="14921.5" y="1000" as="geometry" />
+          <mxGeometry height="40" width="400" x="14919.25" y="920" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-82" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-239" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;gradientColor=#FFFF33;gradientDirection=east;" value="Review abgeschlossen / Ready for QA" vertex="1">
-          <mxGeometry height="40" width="400" x="15361.5" y="1000" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;gradientColor=#FFFF33;gradientDirection=east;" value="Merged #604 in #773 / Ready for QA" vertex="1">
+          <mxGeometry height="40" width="400" x="15359.25" y="920" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-243" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-244" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-245" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-244" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="https://github.com/Mobidrom/mobidp-data-platform/pull/560" vertex="1">
-          <mxGeometry height="40" width="400" x="14918.5" y="680" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-244" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="https://github.com/Mobidrom/mobidp-data-platform/pull/560" vertex="1">
+          <mxGeometry height="40" width="400" x="14918.5" y="599.77" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-266" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-245" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -3949,18 +3946,6 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-248" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="Ready for QA" vertex="1">
           <mxGeometry height="40" width="400" x="15358.5" y="1078.46" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-249" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-250" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-251" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-250" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFFFF;" value="https://github.com/Mobidrom/mobidp-data-platform/pull/625" vertex="1">
-          <mxGeometry height="40" width="400" x="14918.5" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-269" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-251" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-251" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Review abgeschlossen / Ready for QA&amp;nbsp;/ blocked by #773" vertex="1">
-          <mxGeometry height="50" width="400" x="15358.5" y="835" as="geometry" />
-        </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-252" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-253" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-254" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3970,20 +3955,20 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-268" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-254" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-254" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Review abgeschlossen / aus Frontend-Sicht Ready for QA / blocked by #604 / TODO: Rebase und Merge in Backend-PR" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-254" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="aus Frontend-Sicht Ready for QA / blocked by #604 / TODO: Rebase und Merge in Backend-PR" vertex="1">
           <mxGeometry height="50" width="400" x="15358.5" y="755" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-255" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-256" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-257" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-256" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/628" vertex="1">
-          <mxGeometry height="40" width="400" x="14918.5" y="600" as="geometry" />
+          <mxGeometry height="40" width="400" x="14918.5" y="680" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-267" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-264" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="Review abgeschlossen / aus Frontend-Sicht Ready for QA / blocked by #773 /&amp;nbsp;TODO: Anwenderhandbuch aktualisieren DAV + DTV + DQV + SUW" vertex="1">
-          <mxGeometry height="50" width="400" x="15358.5" y="595" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FF0000;gradientDirection=east;" value="aus Frontend-Sicht Ready for QA / blocked by #773 /&amp;nbsp;TODO:&amp;nbsp;Rebase und Merge in Backend-PR +&amp;nbsp;Anwenderhandbuch aktualisieren DAV + DTV + DQV + OV + SUW" vertex="1">
+          <mxGeometry height="50" width="400" x="15358.5" y="675" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-258" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#CC99FF;fontStyle=1;fontSize=18;" value="In Review" vertex="1">
           <mxGeometry height="40" width="1360" x="14440" y="520" as="geometry" />
@@ -4003,26 +3988,26 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;" value="Ready for QA" vertex="1">
           <mxGeometry height="40" width="400" x="15356.25" y="1159" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TODO Frontend CR006:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Anwenderhandbuch für DQV, DTV, DAV und SUW aktualisieren&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;Rebase und Merge #879 in Backend-PR, wenn #773 auf dev&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;Rebase und Merge #919 in Backend-PR, wenn #604 auf dev&lt;/div&gt;" vertex="1">
-          <mxGeometry height="175" width="200" x="15840" y="540" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-264" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;TODO Frontend CR006:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Anwenderhandbuch für DQV, DTV, DAV, OV und SUW aktualisieren&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.&amp;nbsp;Rebase und Merge #879 in Backend-PR, wenn #773 auf dev&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;Rebase und Merge #919 in Backend-PR, wenn #773 auf dev&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="200" x="15840" y="559" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#919&amp;nbsp;[User Story]: Datenangebotsverwaltung – Konflikte" vertex="1">
           <mxGeometry height="40" width="403" x="14477" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-193" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#604&amp;nbsp;[User Story]: Entfernen alter Datenquellen in einem Datenangebot" vertex="1">
-          <mxGeometry height="40" width="403" x="14477" y="840" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-193" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;fontStyle=1" value="#604&amp;nbsp;[User Story]: Entfernen alter Datenquellen in einem Datenangebot" vertex="1">
+          <mxGeometry height="40" width="403" x="14475.5" y="999" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;fontStyle=1" value="#885&amp;nbsp;[User Story]: Backup &amp;amp; Restore für dateibasierte Datenquellen und -angebote" vertex="1">
-          <mxGeometry height="40" width="403" x="14477" y="680" as="geometry" />
+          <mxGeometry height="40" width="403" x="14477" y="599.77" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-18" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-265" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-17" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fillColor=#FFFF33;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DONE:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. #879 Review abgeschlossen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. #885 Review abgeschlossen&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. #919 Review abgeschlossen&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. #604 Review abgeschlossen&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. #773 Review abgeschlossen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. #885 Frontend-PR in Backend-PR gemerged&lt;/div&gt;" vertex="1">
-          <mxGeometry height="230" width="200" x="15840" y="710" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-265" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fillColor=#FFFF33;" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DONE:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;Merged #885 Frontend-PR in Backend-PR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2.&amp;nbsp;Merged #604 in #773&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="15840" y="729" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FFFF33;gradientDirection=east;" value="Review abgeschlossen / Frontend-PR in Backend-PR&amp;nbsp;gemerged / aus Frontend-Sicht Ready for QA" vertex="1">
-          <mxGeometry height="50" width="400" x="15358.5" y="675" as="geometry" />
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-245" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#CC99FF;gradientColor=#FFFF33;gradientDirection=east;" value="Merged #885 Frontend-PR in Backend-PR /&amp;nbsp;aus Frontend-Sicht Ready for QA" vertex="1">
+          <mxGeometry height="50" width="400" x="15358.5" y="594.77" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-38" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-37" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -4315,7 +4300,7 @@
           <mxGeometry height="41.54" width="680" x="17657" y="1079.58" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFB366;fontStyle=1;fontSize=18;" value="In QA" vertex="1">
-          <mxGeometry height="40" width="1397" x="14400" y="920" as="geometry" />
+          <mxGeometry height="40" width="1397" x="14400" y="841.04" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="https://github.com/Mobidrom/mobidp-planning/issues/1511" vertex="1">
           <mxGeometry height="41.54" width="480" x="18391.5" y="599" as="geometry" />
@@ -4392,7 +4377,7 @@
         <mxCell id="yWWBNKMc2ZewxwsfVkad-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#33FF33;" value="Testfall: inaktive Datenquelle entfernen" vertex="1">
           <mxGeometry height="41.54" width="680" x="17662.25" y="762" as="geometry" />
         </mxCell>
-        <mxCell id="yWWBNKMc2ZewxwsfVkad-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#FF0000;" value="Testfall:&amp;nbsp;Backend Prozesse und Logs" vertex="1">
+        <mxCell id="yWWBNKMc2ZewxwsfVkad-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;align=left;fontSize=16;fillColor=#FFFF33;" value="Testfall:&amp;nbsp;Backend Prozesse und Logs" vertex="1">
           <mxGeometry height="41.54" width="680" x="17662.25" y="2041" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-137" edge="1" parent="1" source="yWWBNKMc2ZewxwsfVkad-135" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-136" value="">
