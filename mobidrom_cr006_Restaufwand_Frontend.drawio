@@ -3678,7 +3678,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF33FF;fontStyle=1" value="#920: [User Story]: Datentabellen importieren/exportieren" vertex="1">
           <mxGeometry height="40" width="440" x="14443" y="2278.46" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-166" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF33FF;fontStyle=1;fontSize=18;" value="In Approval" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-166" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF33FF;fontStyle=1;fontSize=18;" value="QA abgeschlossen" vertex="1">
           <mxGeometry height="40" width="1400" x="14397.75" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-167" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-168" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-233" value="">
@@ -3879,7 +3879,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-228" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#33FF33;gradientColor=#B3B3B3;gradientDirection=east;" value="kein CR006 / Ready for QA" vertex="1">
           <mxGeometry height="40" width="400" x="15358.5" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-231" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;gradientColor=none;gradientDirection=east;" value="QA abgeschlossen ? / noch nicht auf dev" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-231" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;gradientColor=none;gradientDirection=east;" value="QA abgeschlossen / noch nicht auf dev" vertex="1">
           <mxGeometry height="40" width="400" x="15357" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="qP__GpSwEyjZjhGLWYvS-232" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-233" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qP__GpSwEyjZjhGLWYvS-231" value="">
@@ -3957,7 +3957,7 @@
         <mxCell id="qP__GpSwEyjZjhGLWYvS-262" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="https://github.com/Mobidrom/mobidp-data-platform/pull/591" vertex="1">
           <mxGeometry height="40" width="400" x="14917.75" y="1479" as="geometry" />
         </mxCell>
-        <mxCell id="qP__GpSwEyjZjhGLWYvS-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="QA abgeschlossen / noch nicht auf dev" vertex="1">
+        <mxCell id="qP__GpSwEyjZjhGLWYvS-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#FFFF33;" value="QA abgeschlossen" vertex="1">
           <mxGeometry height="40" width="400" x="15357.75" y="1479" as="geometry" />
         </mxCell>
         <mxCell id="yWWBNKMc2ZewxwsfVkad-152" edge="1" parent="1" source="qP__GpSwEyjZjhGLWYvS-264" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yWWBNKMc2ZewxwsfVkad-151" value="">
