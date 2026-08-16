@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="2tIncHKOFQWTLG_y4Lx-">
+    <mxGraphModel dx="1345" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5D2DNAEGUBC68sjsElWR-3" edge="1" parent="1" source="5D2DNAEGUBC68sjsElWR-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5D2DNAEGUBC68sjsElWR-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-5" edge="1" parent="1" source="5D2DNAEGUBC68sjsElWR-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5D2DNAEGUBC68sjsElWR-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-7" edge="1" parent="1" source="5D2DNAEGUBC68sjsElWR-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5D2DNAEGUBC68sjsElWR-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-9" edge="1" parent="1" source="5D2DNAEGUBC68sjsElWR-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5D2DNAEGUBC68sjsElWR-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mobidrom -Anwenderhandbuch" vertex="1">
+          <mxGeometry height="40" width="200" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenquellenverwaltung" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Datentabellenverwaltung&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenangebotsverwaltung" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Organisationsverwaltung" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
