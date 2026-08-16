@@ -31,7 +31,7 @@
         <mxCell id="5D2DNAEGUBC68sjsElWR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Datentabellenverwaltung&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="280" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="5D2DNAEGUBC68sjsElWR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenangebotsverwaltung" vertex="1">
+        <mxCell id="5D2DNAEGUBC68sjsElWR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;" value="Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="40" width="200" x="280" y="280" as="geometry" />
         </mxCell>
         <mxCell id="5D2DNAEGUBC68sjsElWR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Organisationsverwaltung" vertex="1">
