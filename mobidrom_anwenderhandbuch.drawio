@@ -19,17 +19,29 @@
         <mxCell id="5D2DNAEGUBC68sjsElWR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Mobidrom -Anwenderhandbuch" vertex="1">
           <mxGeometry height="40" width="200" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="5D2DNAEGUBC68sjsElWR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenquellenverwaltung" vertex="1">
+        <mxCell id="98Exno9rdM3dwlEJ6Bg8-2" edge="1" parent="1" source="5D2DNAEGUBC68sjsElWR-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="98Exno9rdM3dwlEJ6Bg8-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98Exno9rdM3dwlEJ6Bg8-4" edge="1" parent="1" source="5D2DNAEGUBC68sjsElWR-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="98Exno9rdM3dwlEJ6Bg8-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;" value="Datenquellenverwaltung" vertex="1">
           <mxGeometry height="40" width="200" x="280" y="40" as="geometry" />
         </mxCell>
         <mxCell id="5D2DNAEGUBC68sjsElWR-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Datentabellenverwaltung&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="200" x="280" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="5D2DNAEGUBC68sjsElWR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="40" width="200" x="280" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="5D2DNAEGUBC68sjsElWR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Organisationsverwaltung" vertex="1">
+        <mxCell id="5D2DNAEGUBC68sjsElWR-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Datenangebotsverwaltung" vertex="1">
           <mxGeometry height="40" width="200" x="280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5D2DNAEGUBC68sjsElWR-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Organisationsverwaltung" vertex="1">
+          <mxGeometry height="40" width="200" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="98Exno9rdM3dwlEJ6Bg8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;" value="Übersicht" vertex="1">
+          <mxGeometry height="40" width="200" x="520" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="98Exno9rdM3dwlEJ6Bg8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;" value="Bearbeitungsmodal" vertex="1">
+          <mxGeometry height="40" width="200" x="520" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
