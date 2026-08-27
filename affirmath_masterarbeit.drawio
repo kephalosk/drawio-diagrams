@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="OuEXy3bsrt8P45ZoU-kJ">
-    <mxGraphModel dx="294" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="294" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1137,6 +1137,27 @@
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;25minuten konzentration&lt;/div&gt;&lt;div&gt;+5minuten Perfundierung&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="1920" y="4440" as="geometry" />
+        </mxCell>
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-104" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-103" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Was ist das Problem?" vertex="1">
+          <mxGeometry height="40" width="160" x="1640" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-106" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Das Problem ist nicht das Problem!" vertex="1">
+          <mxGeometry height="40" width="160" x="1840" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-108" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-107" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Das Problem ist ein disreguliertes Nervensystem" vertex="1">
+          <mxGeometry height="40" width="160" x="2040" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Übersteuerte Amygdala" vertex="1">
+          <mxGeometry height="40" width="160" x="2240" y="3320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
