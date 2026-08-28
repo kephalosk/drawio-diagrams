@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="OuEXy3bsrt8P45ZoU-kJ">
-    <mxGraphModel dx="1415" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1863" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -895,8 +895,8 @@
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-14" parent="1" style="whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="5" width="135" x="1452.5" y="3055" as="geometry" />
         </mxCell>
-        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Warum tust tu, was du tust?" vertex="1">
-          <mxGeometry height="40" width="160" x="1320" y="3440" as="geometry" />
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="Warum tust tu, was du tust und lässt es nicht einfach sein, wenn die Zeit und Energie dafür fehlt?" vertex="1">
+          <mxGeometry height="40" width="360" x="1320" y="3440" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-19" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-15" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -908,7 +908,7 @@
           <mxGeometry height="40" width="160" x="1120" y="3480" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="Wovor hast du Angst?" vertex="1">
-          <mxGeometry height="40" width="160" x="1320" y="3520" as="geometry" />
+          <mxGeometry height="40" width="360" x="1320" y="3520" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-25" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-24" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1022,34 +1022,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Therapie" vertex="1">
-          <mxGeometry height="40" width="160" x="1320" y="4520" as="geometry" />
+          <mxGeometry height="40" width="160" x="1320" y="4480" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-58" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-50" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Psychatrie&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="1520" y="4520" as="geometry" />
+          <mxGeometry height="40" width="160" x="1520" y="4480" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-59" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-51" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ambulante Therapie" vertex="1">
-          <mxGeometry height="40" width="160" x="1520" y="4600" as="geometry" />
+          <mxGeometry height="40" width="160" x="1520" y="4560" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-60" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-52" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tagesklinik" vertex="1">
-          <mxGeometry height="40" width="160" x="1520" y="4680" as="geometry" />
+          <mxGeometry height="40" width="160" x="1520" y="4640" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-61" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-53" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Psychotherapie" vertex="1">
-          <mxGeometry height="40" width="160" x="1520" y="4760" as="geometry" />
+          <mxGeometry height="40" width="160" x="1520" y="4720" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;" value="Selbsttherapie" vertex="1">
-          <mxGeometry height="40" width="160" x="1520" y="4840" as="geometry" />
+          <mxGeometry height="40" width="160" x="1520" y="4800" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-82" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-81" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1154,19 +1154,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Arbeitszeitmethodik" vertex="1">
-          <mxGeometry height="40" width="160" x="1520" y="4440" as="geometry" />
+          <mxGeometry height="40" width="160" x="1520" y="4400" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-101" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-100" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;" value="z.B. Pomodoro-Prinzip" vertex="1">
-          <mxGeometry height="40" width="160" x="1720" y="4440" as="geometry" />
+          <mxGeometry height="40" width="160" x="1720" y="4400" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-140" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-139" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;" value="&lt;div&gt;25 Minuten konzentriertes Arbeiten&lt;/div&gt;&lt;div&gt;+ 5 Minuten Kontextabbau/Kontextverarbeitung&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="320" x="1920" y="4440" as="geometry" />
+          <mxGeometry height="40" width="320" x="1920" y="4400" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-104" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-103" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1287,20 +1287,20 @@
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-138" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Edr-d6SdCU7ZJKNeWwsG-128" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2360" y="4460" />
+              <mxPoint x="2360" y="4420" />
             </Array>
             <mxPoint x="2280" y="4110" as="sourcePoint" />
             <mxPoint x="2400" y="4570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;" value="&lt;div&gt;ein 8-Stunden-Arbeitstag ist z.B.: 14 Pomodoro (Meetings/Kommunikation/DeepWork inkl.&lt;/div&gt;&lt;div&gt;&amp;nbsp;Kontextabbau/Kontextverarbeitung = 7 Stunden)&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ 1 Stunde Organisationsaufwand/Kontextwechsel/Selbstreflektion&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="320" x="1920" y="4520" as="geometry" />
+          <mxGeometry height="80" width="320" x="1920" y="4480" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-142" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-128" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Edr-d6SdCU7ZJKNeWwsG-53" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2480" y="4260" />
-              <mxPoint x="2480" y="4860" />
+              <mxPoint x="2480" y="4820" />
             </Array>
             <mxPoint x="2300" y="4710" as="sourcePoint" />
             <mxPoint x="2420" y="4530" as="targetPoint" />
