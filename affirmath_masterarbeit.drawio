@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="OuEXy3bsrt8P45ZoU-kJ">
-    <mxGraphModel dx="1863" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="966" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-149" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontStyle=1;fontSize=14;" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Out-Of-Scope: Tiefenpsychologische Analyse erforderlich" vertex="1">
+          <mxGeometry height="160" width="607.5" x="1100" y="3420" as="geometry" />
+        </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Freier Bewusstseinsraum&amp;nbsp;&lt;/div&gt;&lt;div&gt;zur Problemlösung&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="1440" y="2920" as="geometry" />
         </mxCell>
@@ -901,7 +904,7 @@
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-14" parent="1" style="whiteSpace=wrap;html=1;fillColor=#000000;" value="" vertex="1">
           <mxGeometry height="5" width="135" x="1452.5" y="3055" as="geometry" />
         </mxCell>
-        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="Warum tust tu, was du tust und lässt es nicht einfach sein, wenn die Zeit und Energie dafür fehlt?" vertex="1">
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;fontStyle=1" value="Warum tust tu, was du tust und lässt es nicht einfach sein, wenn die Zeit und Energie dafür fehlt?" vertex="1">
           <mxGeometry height="40" width="360" x="1320" y="3440" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-19" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-15" value="">
@@ -913,7 +916,7 @@
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" value="Handlungsmotivation" vertex="1">
           <mxGeometry height="40" width="160" x="1120" y="3480" as="geometry" />
         </mxCell>
-        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;" value="Wovor hast du Angst?" vertex="1">
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;fontStyle=1" value="Wovor hast du Angst?" vertex="1">
           <mxGeometry height="40" width="360" x="1320" y="3520" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-25" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-24" value="">
