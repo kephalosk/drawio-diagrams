@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="OuEXy3bsrt8P45ZoU-kJ">
-    <mxGraphModel dx="518" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-137" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1344,7 +1344,7 @@
             <mxPoint x="2300" y="3680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#31FFFF;fontStyle=1;fontSize=16;" value="&lt;div&gt;Das ist der emotionale Heilungs-Mechanismus (Kern des Heilungs-Prozesses).&lt;/div&gt;" vertex="1">
+        <mxCell id="Edr-d6SdCU7ZJKNeWwsG-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#31FFFF;fontStyle=1;fontSize=16;" value="&lt;div&gt;Das sind emotionale Heilungs-Mechanismen (Kern des Heilungs-Prozesses).&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="320" x="2040" y="3200" as="geometry" />
         </mxCell>
         <mxCell id="Edr-d6SdCU7ZJKNeWwsG-176" edge="1" parent="1" source="Edr-d6SdCU7ZJKNeWwsG-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Edr-d6SdCU7ZJKNeWwsG-175" value="">
